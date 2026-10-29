@@ -1,0 +1,896 @@
+{
+  "version": 1,
+  "links": {
+    "u1-b1-c1": [],
+    "u1-b1-c2": [
+      "constantinople",
+      "florence",
+      "italy"
+    ],
+    "u1-b1-c3": [
+      "france",
+      "italy",
+      "spain"
+    ],
+    "u1-b1-c4": [
+      "florence"
+    ],
+    "u1-b1-c5": [],
+    "u1-b1-c6": [
+      "mainz",
+      "saxony"
+    ],
+    "u1-b2-c1": [
+      "england"
+    ],
+    "u1-b2-c2": [
+      "aragon",
+      "castile",
+      "granada",
+      "spain"
+    ],
+    "u1-b2-c3": [
+      "bologna",
+      "france",
+      "rome"
+    ],
+    "u1-b2-c4": [
+      "augsburg",
+      "england",
+      "france",
+      "holy-roman-empire",
+      "spain"
+    ],
+    "u1-b2-c5": [],
+    "u1-b3-c1": [
+      "asia",
+      "mediterranean",
+      "ottoman-empire",
+      "venice"
+    ],
+    "u1-b3-c2": [
+      "china",
+      "europe"
+    ],
+    "u1-b3-c3": [
+      "brazil",
+      "cape-good-hope",
+      "goa",
+      "india",
+      "malacca",
+      "portugal",
+      "west-africa"
+    ],
+    "u1-b3-c4": [
+      "americas",
+      "brazil",
+      "caribbean",
+      "portugal",
+      "spain",
+      "tordesillas"
+    ],
+    "u1-b3-c5": [
+      "england",
+      "france",
+      "jamestown",
+      "new-york",
+      "north-america",
+      "pacific",
+      "quebec",
+      "spain",
+      "spice-islands"
+    ],
+    "u1-b4-c1": [
+      "bolivia",
+      "new-spain",
+      "spain"
+    ],
+    "u1-b4-c2": [],
+    "u1-b4-c3": [
+      "americas",
+      "europe"
+    ],
+    "u1-b4-c4": [
+      "americas",
+      "atlantic",
+      "brazil",
+      "britain",
+      "europe",
+      "france",
+      "portugal",
+      "spain"
+    ],
+    "u1-b4-c5": [
+      "spain"
+    ],
+    "u1-b4-c6": [
+      "eastern-europe",
+      "western-europe"
+    ],
+    "u1-b4-c7": [
+      "amsterdam",
+      "antwerp",
+      "atlantic",
+      "london",
+      "mediterranean"
+    ],
+    "u2-b1-c1": [
+      "avignon",
+      "bohemia",
+      "england"
+    ],
+    "u2-b1-c2": [
+      "germany",
+      "wittenberg"
+    ],
+    "u2-b1-c3": [],
+    "u2-b1-c4": [
+      "france",
+      "ottoman-empire",
+      "saxony",
+      "vienna",
+      "wartburg",
+      "worms"
+    ],
+    "u2-b1-c5": [],
+    "u2-b1-c6": [
+      "augsburg"
+    ],
+    "u2-b2-c1": [
+      "marburg",
+      "zurich"
+    ],
+    "u2-b2-c2": [
+      "geneva",
+      "rome"
+    ],
+    "u2-b2-c3": [],
+    "u2-b2-c4": [
+      "aragon"
+    ],
+    "u2-b3-c1": [
+      "asia",
+      "austria",
+      "bavaria",
+      "poland"
+    ],
+    "u2-b3-c2": [
+      "trent"
+    ],
+    "u2-b3-c3": [
+      "nantes",
+      "navarre",
+      "paris"
+    ],
+    "u2-b3-c4": [
+      "belgium",
+      "england",
+      "netherlands"
+    ],
+    "u2-b3-c5": [
+      "france",
+      "germany",
+      "prague",
+      "sweden"
+    ],
+    "u2-b3-c6": [
+      "france",
+      "sweden",
+      "westphalia"
+    ],
+    "u2-b4-c1": [
+      "northwestern-europe"
+    ],
+    "u2-b4-c2": [
+      "germany",
+      "switzerland"
+    ],
+    "u2-b4-c3": [],
+    "u2-b4-c4": [],
+    "u2-b4-c5": [
+      "versailles"
+    ],
+    "u3-b1-c1": [
+      "scotland"
+    ],
+    "u3-b1-c2": [],
+    "u3-b1-c3": [
+      "england",
+      "ireland"
+    ],
+    "u3-b1-c4": [],
+    "u3-b1-c5": [],
+    "u3-b2-c1": [],
+    "u3-b2-c2": [
+      "eastern-europe"
+    ],
+    "u3-b2-c3": [],
+    "u3-b2-c4": [
+      "england",
+      "france"
+    ],
+    "u3-b2-c5": [
+      "amsterdam",
+      "europe",
+      "netherlands"
+    ],
+    "u3-b3-c1": [
+      "france",
+      "nantes",
+      "versailles"
+    ],
+    "u3-b3-c2": [
+      "baltic",
+      "russia",
+      "st-petersburg",
+      "sweden",
+      "western-europe"
+    ],
+    "u3-b3-c3": [
+      "prussia"
+    ],
+    "u3-b3-c4": [
+      "austria",
+      "france",
+      "hungary",
+      "prussia",
+      "silesia",
+      "vienna"
+    ],
+    "u3-b3-c5": [
+      "austria",
+      "poland",
+      "prussia",
+      "russia"
+    ],
+    "u3-b4-c1": [
+      "rhine"
+    ],
+    "u3-b4-c2": [
+      "britain",
+      "europe",
+      "gibraltar",
+      "spain",
+      "utrecht"
+    ],
+    "u3-b4-c3": [
+      "austria",
+      "north-america",
+      "prussia",
+      "silesia"
+    ],
+    "u3-b4-c4": [
+      "austria",
+      "britain",
+      "canada",
+      "europe",
+      "france",
+      "india",
+      "north-america",
+      "paris",
+      "prussia",
+      "silesia"
+    ],
+    "u4-b1-c1": [],
+    "u4-b1-c2": [],
+    "u4-b1-c3": [],
+    "u4-b1-c4": [],
+    "u4-b1-c5": [],
+    "u4-b1-c6": [
+      "england",
+      "france"
+    ],
+    "u4-b2-c1": [],
+    "u4-b2-c2": [
+      "england",
+      "united-states"
+    ],
+    "u4-b2-c3": [],
+    "u4-b2-c4": [],
+    "u4-b2-c5": [],
+    "u4-b2-c6": [],
+    "u4-b2-c7": [],
+    "u4-b2-c8": [],
+    "u4-b3-c1": [
+      "britain"
+    ],
+    "u4-b3-c2": [
+      "northwestern-europe"
+    ],
+    "u4-b3-c3": [],
+    "u4-b3-c4": [],
+    "u4-b3-c5": [
+      "greece",
+      "rome"
+    ],
+    "u4-b4-c1": [
+      "poland",
+      "prussia",
+      "silesia"
+    ],
+    "u4-b4-c2": [
+      "austria"
+    ],
+    "u4-b4-c3": [
+      "poland",
+      "russia"
+    ],
+    "u4-b4-c4": [
+      "britain",
+      "france",
+      "poland"
+    ],
+    "u5-b1-c1": [
+      "atlantic",
+      "haiti",
+      "liverpool",
+      "nantes"
+    ],
+    "u5-b1-c2": [
+      "britain",
+      "england",
+      "france"
+    ],
+    "u5-b1-c3": [
+      "asia",
+      "britain",
+      "canada",
+      "india",
+      "paris"
+    ],
+    "u5-b1-c4": [
+      "britain",
+      "france"
+    ],
+    "u5-b2-c1": [],
+    "u5-b2-c2": [],
+    "u5-b2-c3": [
+      "paris",
+      "versailles"
+    ],
+    "u5-b2-c4": [],
+    "u5-b2-c5": [
+      "austria",
+      "paris",
+      "prussia"
+    ],
+    "u5-b2-c6": [
+      "vendee"
+    ],
+    "u5-b2-c7": [],
+    "u5-b3-c1": [
+      "americas",
+      "france",
+      "haiti"
+    ],
+    "u5-b3-c2": [
+      "france"
+    ],
+    "u5-b3-c3": [
+      "egypt",
+      "italy"
+    ],
+    "u5-b3-c4": [
+      "france"
+    ],
+    "u5-b3-c5": [
+      "britain",
+      "rhine",
+      "russia"
+    ],
+    "u5-b3-c6": [
+      "russia",
+      "waterloo"
+    ],
+    "u5-b4-c1": [
+      "france",
+      "netherlands",
+      "piedmont",
+      "prussia",
+      "rhine",
+      "vienna"
+    ],
+    "u5-b4-c2": [
+      "austria",
+      "britain",
+      "europe",
+      "germany",
+      "prussia",
+      "russia",
+      "versailles",
+      "vienna"
+    ],
+    "u5-b4-c3": [],
+    "u5-b4-c4": [],
+    "u6-b1-c1": [
+      "britain"
+    ],
+    "u6-b1-c2": [
+      "liverpool"
+    ],
+    "u6-b1-c3": [
+      "belgium",
+      "europe",
+      "russia"
+    ],
+    "u6-b1-c4": [],
+    "u6-b1-c5": [
+      "britain",
+      "germany",
+      "united-states"
+    ],
+    "u6-b1-c6": [
+      "britain"
+    ],
+    "u6-b2-c1": [
+      "britain",
+      "paris"
+    ],
+    "u6-b2-c2": [],
+    "u6-b2-c3": [],
+    "u6-b2-c4": [
+      "britain",
+      "germany"
+    ],
+    "u6-b2-c5": [
+      "britain"
+    ],
+    "u6-b2-c6": [
+      "britain",
+      "london"
+    ],
+    "u6-b2-c7": [
+      "britain"
+    ],
+    "u6-b2-c8": [],
+    "u6-b3-c1": [
+      "britain",
+      "europe",
+      "spain"
+    ],
+    "u6-b3-c2": [
+      "britain",
+      "france",
+      "ottoman-empire",
+      "russia"
+    ],
+    "u6-b3-c3": [
+      "belgium",
+      "netherlands",
+      "paris",
+      "russia"
+    ],
+    "u6-b3-c4": [
+      "france"
+    ],
+    "u6-b3-c5": [
+      "austria",
+      "europe",
+      "germany",
+      "hungary",
+      "vienna"
+    ],
+    "u6-b4-c1": [],
+    "u6-b4-c2": [],
+    "u6-b4-c3": [
+      "new-lanark"
+    ],
+    "u6-b4-c4": [],
+    "u6-b4-c5": [
+      "austria"
+    ],
+    "u6-b4-c6": [],
+    "u7-b1-c1": [
+      "austria",
+      "britain",
+      "europe",
+      "france",
+      "ottoman-empire",
+      "piedmont",
+      "russia"
+    ],
+    "u7-b1-c2": [
+      "paris"
+    ],
+    "u7-b1-c3": [],
+    "u7-b1-c4": [
+      "austria",
+      "austria-hungary",
+      "balkans",
+      "hungary",
+      "prussia",
+      "russia"
+    ],
+    "u7-b1-c5": [
+      "france",
+      "palestine",
+      "vienna"
+    ],
+    "u7-b1-c6": [
+      "austria-hungary",
+      "berlin",
+      "bosnia",
+      "europe",
+      "serbia"
+    ],
+    "u7-b2-c1": [
+      "austria",
+      "france",
+      "italy",
+      "lombardy",
+      "piedmont",
+      "two-sicilies"
+    ],
+    "u7-b2-c2": [
+      "italy",
+      "rome",
+      "venetia"
+    ],
+    "u7-b2-c3": [
+      "alsace-lorraine",
+      "austria",
+      "france",
+      "germany",
+      "versailles"
+    ],
+    "u7-b2-c4": [
+      "germany"
+    ],
+    "u7-b2-c5": [
+      "austria",
+      "berlin",
+      "france",
+      "germany",
+      "italy",
+      "russia"
+    ],
+    "u7-b2-c6": [
+      "britain"
+    ],
+    "u7-b3-c1": [],
+    "u7-b3-c2": [],
+    "u7-b3-c3": [],
+    "u7-b3-c4": [],
+    "u7-b3-c5": [],
+    "u7-b3-c6": [],
+    "u7-b3-c7": [
+      "tahiti"
+    ],
+    "u7-b4-c1": [],
+    "u7-b4-c2": [
+      "africa",
+      "omdurman",
+      "suez"
+    ],
+    "u7-b4-c3": [
+      "adwa",
+      "africa",
+      "berlin",
+      "ethiopia",
+      "italy",
+      "liberia"
+    ],
+    "u7-b4-c4": [
+      "belgium",
+      "congo"
+    ],
+    "u7-b4-c5": [
+      "britain",
+      "india",
+      "isandlwana",
+      "south-africa"
+    ],
+    "u7-b4-c6": [
+      "china",
+      "japan",
+      "russia",
+      "united-states"
+    ],
+    "u7-b4-c7": [
+      "britain",
+      "fashoda",
+      "france",
+      "germany"
+    ],
+    "u8-b1-c1": [
+      "austria-hungary",
+      "serbia"
+    ],
+    "u8-b1-c2": [
+      "austria",
+      "austria-hungary",
+      "belgium",
+      "britain",
+      "france",
+      "germany",
+      "russia",
+      "serbia"
+    ],
+    "u8-b1-c3": [
+      "eastern-front",
+      "gallipoli",
+      "germany",
+      "marne",
+      "russia",
+      "somme",
+      "tannenberg",
+      "verdun",
+      "western-front"
+    ],
+    "u8-b1-c4": [
+      "britain",
+      "germany"
+    ],
+    "u8-b1-c5": [
+      "africa",
+      "arabia",
+      "germany",
+      "india",
+      "middle-east",
+      "ottoman-empire",
+      "russia",
+      "united-states"
+    ],
+    "u8-b2-c1": [
+      "japan"
+    ],
+    "u8-b2-c2": [
+      "germany",
+      "russia",
+      "st-petersburg"
+    ],
+    "u8-b2-c3": [
+      "brest"
+    ],
+    "u8-b2-c4": [
+      "kronstadt",
+      "soviet-union"
+    ],
+    "u8-b2-c5": [
+      "britain",
+      "france",
+      "germany",
+      "italy",
+      "russia"
+    ],
+    "u8-b2-c6": [
+      "alsace-lorraine",
+      "france",
+      "rhineland",
+      "united-states",
+      "versailles"
+    ],
+    "u8-b2-c7": [
+      "austria",
+      "baltic",
+      "czechoslovakia",
+      "hungary",
+      "iraq",
+      "palestine",
+      "poland",
+      "syria",
+      "yugoslavia"
+    ],
+    "u8-b3-c1": [
+      "britain",
+      "france",
+      "ruhr",
+      "sweden",
+      "united-states",
+      "weimar"
+    ],
+    "u8-b3-c2": [
+      "ethiopia",
+      "italy",
+      "rome"
+    ],
+    "u8-b3-c3": [
+      "germany",
+      "nuremberg"
+    ],
+    "u8-b3-c4": [
+      "soviet-union",
+      "ukraine"
+    ],
+    "u8-b3-c5": [
+      "britain",
+      "catalonia",
+      "france",
+      "germany",
+      "guernica",
+      "italy",
+      "soviet-union"
+    ],
+    "u8-b3-c6": [
+      "berlin",
+      "weimar",
+      "western-front"
+    ],
+    "u8-b3-c7": [
+      "germany"
+    ],
+    "u8-b4-c1": [
+      "austria",
+      "czechoslovakia",
+      "munich",
+      "rhineland",
+      "sudetenland",
+      "versailles"
+    ],
+    "u8-b4-c2": [
+      "baltic",
+      "britain",
+      "eastern-europe",
+      "france",
+      "germany",
+      "poland",
+      "soviet-union"
+    ],
+    "u8-b4-c3": [
+      "britain",
+      "eastern-front",
+      "france",
+      "germany",
+      "italy",
+      "japan",
+      "pearl-harbor",
+      "soviet-union",
+      "united-states",
+      "vichy"
+    ],
+    "u8-b4-c4": [
+      "berlin",
+      "eastern-europe",
+      "eastern-front",
+      "el-alamein",
+      "france",
+      "italy",
+      "potsdam",
+      "stalingrad",
+      "tehran",
+      "yalta"
+    ],
+    "u8-b4-c5": [
+      "auschwitz",
+      "nuremberg",
+      "soviet-union"
+    ],
+    "u9-b1-c1": [
+      "berlin",
+      "east-germany",
+      "eastern-europe",
+      "europe",
+      "germany",
+      "soviet-union",
+      "west-germany",
+      "yalta"
+    ],
+    "u9-b1-c2": [
+      "berlin",
+      "greece",
+      "soviet-union",
+      "turkey",
+      "united-states",
+      "western-europe"
+    ],
+    "u9-b1-c3": [
+      "canada",
+      "eastern-europe",
+      "soviet-union",
+      "united-states",
+      "west-germany",
+      "western-europe"
+    ],
+    "u9-b1-c4": [
+      "eastern-europe",
+      "hungary"
+    ],
+    "u9-b1-c5": [
+      "berlin",
+      "east-germany",
+      "west-germany"
+    ],
+    "u9-b1-c6": [
+      "czechoslovakia",
+      "helsinki",
+      "prague",
+      "soviet-union"
+    ],
+    "u9-b2-c1": [
+      "britain",
+      "france",
+      "west-germany"
+    ],
+    "u9-b2-c2": [
+      "paris",
+      "vietnam"
+    ],
+    "u9-b2-c3": [
+      "west-germany"
+    ],
+    "u9-b2-c4": [
+      "britain",
+      "europe",
+      "maastricht",
+      "rome"
+    ],
+    "u9-b2-c5": [
+      "france",
+      "ireland"
+    ],
+    "u9-b3-c1": [
+      "poland"
+    ],
+    "u9-b3-c2": [
+      "chernobyl",
+      "eastern-europe"
+    ],
+    "u9-b3-c3": [
+      "berlin",
+      "czechoslovakia",
+      "hungary",
+      "poland",
+      "romania"
+    ],
+    "u9-b3-c4": [
+      "baltic",
+      "crimea",
+      "russia",
+      "soviet-union",
+      "ukraine"
+    ],
+    "u9-b3-c5": [
+      "bosnia",
+      "croatia",
+      "dayton",
+      "europe",
+      "kosovo",
+      "serbia",
+      "slovenia",
+      "srebrenica"
+    ],
+    "u9-b3-c6": [
+      "belgium",
+      "catalonia",
+      "ireland",
+      "scotland",
+      "spain",
+      "western-europe"
+    ],
+    "u9-b4-c1": [
+      "africa",
+      "dien-bien-phu",
+      "europe",
+      "france",
+      "indonesia",
+      "portugal",
+      "suez",
+      "united-states",
+      "vietnam"
+    ],
+    "u9-b4-c2": [
+      "britain",
+      "france",
+      "syria",
+      "west-germany"
+    ],
+    "u9-b4-c3": [
+      "chernobyl"
+    ],
+    "u9-b4-c4": [
+      "greece",
+      "london",
+      "madrid",
+      "paris"
+    ],
+    "u9-b4-c5": [
+      "europe",
+      "vatican"
+    ],
+    "u9-b4-c6": [
+      "new-york",
+      "paris"
+    ]
+  },
+  "policy": "Explicit English place-name matching in title, summary, and detail only; all distinct referenced places are retained. Longest overlapping place phrase wins. No demonym/adjective-only inference, person-name inference, event-origin inference, or first-match assignment. Place mentions identify study context, not proof that the described event occurred at the representative marker. Original historical names remain in course cards; country and historical-region coordinates are approximate representative learning anchors. Cards without a matching explicit name retain an empty array."
+}

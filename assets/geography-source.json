@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Natural Earth 1:110m Admin 0 Countries",
+  "sourceUrl": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson",
+  "license": "Public domain",
+  "licenseUrl": "https://www.naturalearthdata.com/about/terms-of-use/",
+  "attribution": "Made with Natural Earth.",
+  "accessed": "2026-10-28",
+  "sourceSha256": "6866c877d39cba9c357620878839b336d569f8c662d3cfab4cb1dbe2d39c977f",
+  "featureCount": 177,
+  "svgSha256": "e5738fd43914c5e366d7b8761d48a39649adabe79454b9928996fbb09c74f178",
+  "projection": {
+    "name": "Equirectangular",
+    "width": 1600,
+    "height": 800,
+    "x": "(longitude + 180) * 1600 / 360",
+    "y": "(90 - latitude) * 800 / 180"
+  },
+  "processing": "Coordinates rounded to 0.1 SVG units; original polygon rings retained; pastel continental fills.",
+  "scopeNote": "Modern country geometry supplies orientation only, not historical borders or sovereignty claims. Card coordinates are separate manually rounded learning markers, not derived event positions."
+}

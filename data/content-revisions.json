@@ -1,0 +1,1268 @@
+{
+  "version": 1,
+  "scope": "Targeted editorial corrections only; not a complete fact audit of 205 cards. Original private source files are unchanged.",
+  "revisions": [
+    {
+      "targetId": "u1-b1-c3",
+      "field": "summary.zh",
+      "before": "Machiavelli《The Prince》:政治与道德分开,君主应\"宁可被畏惧也不要被爱\" —— 世俗、现实主义政治学的开端;Castiglione《The Courtier》:理想廷臣要多才多艺(\"Renaissance man\")。",
+      "after": "Machiavelli《The Prince》从维持国家权力与稳定讨论统治：若不能同时获得爱与畏惧，被畏惧更安全，但必须避免招致仇恨；这不是“任何手段都可用”的无条件规则。Castiglione《The Courtier》描绘多才多艺的理想廷臣。",
+      "reason": "Replace an unconditional fear/love slogan and unlimited-means rule with the conditional formulation corroborated in The Prince chapter XVII; do not treat textbook shorthand as a universal moral license.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.2, printed p. 7",
+          "support": "Supports political context and pragmatic rule; its shorthand omits the fear/love qualification. The separate chapter XVII corrective corroboration supports that qualification."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 1.2, illustrative examples / KC-1.1.I.A",
+          "support": "Lists Machiavelli among secular models of individual and political behavior; does not reproduce The Prince chapter 17."
+        }
+      ],
+      "corroboration": [
+        {
+          "title": "Niccolò Machiavelli, The Prince, chapter XVII",
+          "url": "https://www.gutenberg.org/files/1232/1232-h/1232-h.htm#chap17",
+          "role": "corrective corroboration; not a curriculum source",
+          "support": "The primary text qualifies the fear/love choice when both cannot be combined and requires avoiding hatred; verified separately from the three curriculum sources."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b1-c3",
+      "field": "summary.en",
+      "before": "Machiavelli’s The Prince: politics separated from morality — a ruler should rather be feared than loved — the start of secular, realist political thought; Castiglione’s The Courtier: the ideal courtier is well-rounded (the \"Renaissance man\").",
+      "after": "Machiavelli’s The Prince considers rule in terms of maintaining state power and stability: if a ruler cannot have both love and fear, being feared is safer, but the ruler must avoid hatred. This is not an unconditional license to use any means. Castiglione’s The Courtier describes the well-rounded ideal courtier.",
+      "reason": "Replace an unconditional fear/love slogan and unlimited-means rule with the conditional formulation corroborated in The Prince chapter XVII; do not treat textbook shorthand as a universal moral license.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.2, printed p. 7",
+          "support": "Supports political context and pragmatic rule; its shorthand omits the fear/love qualification. The separate chapter XVII corrective corroboration supports that qualification."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 1.2, illustrative examples / KC-1.1.I.A",
+          "support": "Lists Machiavelli among secular models of individual and political behavior; does not reproduce The Prince chapter 17."
+        }
+      ],
+      "corroboration": [
+        {
+          "title": "Niccolò Machiavelli, The Prince, chapter XVII",
+          "url": "https://www.gutenberg.org/files/1232/1232-h/1232-h.htm#chap17",
+          "role": "corrective corroboration; not a curriculum source",
+          "support": "The primary text qualifies the fear/love choice when both cannot be combined and requires avoiding hatred; verified separately from the three curriculum sources."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b1-q3",
+      "field": "answer.zh",
+      "before": "政治与道德分离,君主为保国可用任何手段,宁被畏惧不被爱。",
+      "after": "《The Prince》强调维持国家权力与稳定的实际需要。若爱与畏惧不能兼得，被畏惧更安全，但须避免仇恨；不能概括成无条件使用任何手段。",
+      "reason": "Replace an unconditional fear/love slogan and unlimited-means rule with the conditional formulation corroborated in The Prince chapter XVII; do not treat textbook shorthand as a universal moral license.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.2, printed p. 7",
+          "support": "Supports political context and pragmatic rule; its shorthand omits the fear/love qualification. The separate chapter XVII corrective corroboration supports that qualification."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 1.2, illustrative examples / KC-1.1.I.A",
+          "support": "Lists Machiavelli among secular models of individual and political behavior; does not reproduce The Prince chapter 17."
+        }
+      ],
+      "corroboration": [
+        {
+          "title": "Niccolò Machiavelli, The Prince, chapter XVII",
+          "url": "https://www.gutenberg.org/files/1232/1232-h/1232-h.htm#chap17",
+          "role": "corrective corroboration; not a curriculum source",
+          "support": "The primary text qualifies the fear/love choice when both cannot be combined and requires avoiding hatred; verified separately from the three curriculum sources."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b1-q3",
+      "field": "answer.en",
+      "before": "Politics apart from morality; rulers may use any means — better feared than loved.",
+      "after": "The Prince stresses the practical demands of maintaining state power and stability. If love and fear cannot both be secured, being feared is safer, but hatred must be avoided; this does not give rulers an unconditional license to use any means.",
+      "reason": "Replace an unconditional fear/love slogan and unlimited-means rule with the conditional formulation corroborated in The Prince chapter XVII; do not treat textbook shorthand as a universal moral license.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.2, printed p. 7",
+          "support": "Supports political context and pragmatic rule; its shorthand omits the fear/love qualification. The separate chapter XVII corrective corroboration supports that qualification."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 1.2, illustrative examples / KC-1.1.I.A",
+          "support": "Lists Machiavelli among secular models of individual and political behavior; does not reproduce The Prince chapter 17."
+        }
+      ],
+      "corroboration": [
+        {
+          "title": "Niccolò Machiavelli, The Prince, chapter XVII",
+          "url": "https://www.gutenberg.org/files/1232/1232-h/1232-h.htm#chap17",
+          "role": "corrective corroboration; not a curriculum source",
+          "support": "The primary text qualifies the fear/love choice when both cannot be combined and requires avoiding hatred; verified separately from the three curriculum sources."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b1-c6",
+      "field": "detail.zh",
+      "before": "Luther 的小册子和德文圣经大量印刷,使宗教改革无法被压制。印刷也帮助科学革命(数据可复核)和国家统一语言。",
+      "after": "Luther 的小册子和德文圣经大量印刷，扩大了改革思想的传播范围；萨克森选侯等政治力量的保护也帮助 Luther 及改革运动延续。印刷也帮助科学革命共享、核对资料，并促进方言出版。",
+      "reason": "Replace inevitable success or impossibility of suppression with wider dissemination alongside political protection.",
+      "evidence": [
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.3, KC-1.1.II.B",
+          "support": "Print disseminated reformers’ ideas and helped reform become widely established."
+        },
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.4, printed p. 22; Topic 2.2, subsection Lutheran Doctrines and Practices",
+          "support": "Printed pamphlets widened dissemination; Frederick of Saxony protected Luther at Wartburg."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b1-c6",
+      "field": "detail.en",
+      "before": "Luther’s pamphlets and German Bible were printed in huge numbers, making the Reformation impossible to suppress. Printing also aided the Scientific Revolution (shared, checkable data) and national languages.",
+      "after": "Mass printing of Luther’s pamphlets and German Bible widened the reach of reform ideas; political protection, including that provided by the elector of Saxony, also helped Luther and the movement survive. Printing aided shared, checkable scientific information and vernacular publishing.",
+      "reason": "Replace inevitable success or impossibility of suppression with wider dissemination alongside political protection.",
+      "evidence": [
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.3, KC-1.1.II.B",
+          "support": "Print disseminated reformers’ ideas and helped reform become widely established."
+        },
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.4, printed p. 22; Topic 2.2, subsection Lutheran Doctrines and Practices",
+          "support": "Printed pamphlets widened dissemination; Frederick of Saxony protected Luther at Wartburg."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b1-q5",
+      "field": "answer.zh",
+      "before": "Luther 的作品被大量印刷、迅速传播,教会无法压制。",
+      "after": "大量印刷让 Luther 的作品更迅速、广泛地传播；诸侯的政治保护也帮助改革运动延续。印刷并不意味着各地镇压不再有效。",
+      "reason": "Replace inevitable success or impossibility of suppression with wider dissemination alongside political protection.",
+      "evidence": [
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.3, KC-1.1.II.B",
+          "support": "Print disseminated reformers’ ideas and helped reform become widely established."
+        },
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.4, printed p. 22; Topic 2.2, subsection Lutheran Doctrines and Practices",
+          "support": "Printed pamphlets widened dissemination; Frederick of Saxony protected Luther at Wartburg."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b1-q5",
+      "field": "answer.en",
+      "before": "Luther’s works were mass-printed and spread too fast for the Church to suppress.",
+      "after": "Mass printing spread Luther’s works faster and more widely; political protection by princes also helped the movement survive. Printing did not make repression everywhere ineffective.",
+      "reason": "Replace inevitable success or impossibility of suppression with wider dissemination alongside political protection.",
+      "evidence": [
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.3, KC-1.1.II.B",
+          "support": "Print disseminated reformers’ ideas and helped reform become widely established."
+        },
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.4, printed p. 22; Topic 2.2, subsection Lutheran Doctrines and Practices",
+          "support": "Printed pamphlets widened dissemination; Frederick of Saxony protected Luther at Wartburg."
+        }
+      ]
+    },
+    {
+      "targetId": "unit:1",
+      "field": "finalReview.12.answerEn",
+      "before": "Because the printing press allowed Luther’s pamphlets and German Bible to circulate in huge numbers, the Church could not contain his ideas — revealing that technology turned a theological protest into a mass movement.",
+      "after": "Because printing enabled Luther’s pamphlets and German Bible to circulate widely, it expanded the audience for reform; alongside political protection, this helped turn a theological dispute into a broader movement.",
+      "reason": "Replace inevitable success or impossibility of suppression with wider dissemination alongside political protection.",
+      "evidence": [
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.3, KC-1.1.II.B",
+          "support": "Print disseminated reformers’ ideas and helped reform become widely established."
+        },
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.4, printed p. 22; Topic 2.2, subsection Lutheran Doctrines and Practices",
+          "support": "Printed pamphlets widened dissemination; Frederick of Saxony protected Luther at Wartburg."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b1",
+      "field": "essayEvidence.2.textEn",
+      "before": "Because the printing press made books cheap and abundant, Luther’s pamphlets reached hundreds of thousands of readers within years — revealing that a technological change turned a local dispute into a continental religious revolution.",
+      "after": "Because printing made Luther’s pamphlets cheaper and more widely available, reform ideas reached a much broader audience; political protection also helped reformers survive, showing that technology worked alongside political conditions.",
+      "reason": "Replace inevitable success or impossibility of suppression with wider dissemination alongside political protection.",
+      "evidence": [
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.3, KC-1.1.II.B",
+          "support": "Print disseminated reformers’ ideas and helped reform become widely established."
+        },
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.4, printed p. 22; Topic 2.2, subsection Lutheran Doctrines and Practices",
+          "support": "Printed pamphlets widened dissemination; Frederick of Saxony protected Luther at Wartburg."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b1-c2",
+      "field": "detail.zh",
+      "before": "1453 年 Constantinople 陷落,拜占庭学者带着希腊手稿逃往意大利,也促进了古典复兴。Civic humanism(Leonardo Bruni)强调公民参与城邦政治。",
+      "after": "意大利的古典复兴早于 1453 年：Petrarch（1304–1374）已寻找并研究古典手稿。因此，不能把 1453 年 Constantinople 陷落当作文艺复兴的起点。Civic humanism（Leonardo Bruni）强调公民参与城邦政治。",
+      "reason": "Make the pre-1453 chronology explicit. The specific claim about the 1453 flight is not established in the checked source passages; remove that unsupported detail rather than certify it as a causal origin or accelerator.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.2, printed pp. 3–4, Petrarch subsection",
+          "support": "Petrarch (1304–1374) pursued classical manuscripts before 1453."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 1.2, illustrative examples / KC-1.1.I.B",
+          "support": "Identifies Petrarch as pre-1450 and describes a revival of classical texts; does not document the specific 1453 scholar-flight claim."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b1-c2",
+      "field": "detail.en",
+      "before": "After Constantinople fell in 1453, Byzantine scholars fled to Italy with Greek manuscripts. Civic humanism (Leonardo Bruni) stressed active citizenship in the city-state.",
+      "after": "The Italian revival of classical learning preceded 1453: Petrarch (1304–1374) had already sought and studied classical manuscripts. The fall of Constantinople in 1453 therefore cannot be treated as the Renaissance’s starting point. Civic humanism (Leonardo Bruni) stressed active citizenship in the city-state.",
+      "reason": "Make the pre-1453 chronology explicit. The specific claim about the 1453 flight is not established in the checked source passages; remove that unsupported detail rather than certify it as a causal origin or accelerator.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.2, printed pp. 3–4, Petrarch subsection",
+          "support": "Petrarch (1304–1374) pursued classical manuscripts before 1453."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 1.2, illustrative examples / KC-1.1.I.B",
+          "support": "Identifies Petrarch as pre-1450 and describes a revival of classical texts; does not document the specific 1453 scholar-flight claim."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b1-q1",
+      "field": "answer.zh",
+      "before": "城邦贸易银行财富、古罗马遗迹、Medici 等赞助(和拜占庭学者流入)。",
+      "after": "城邦贸易与银行财富、古罗马遗产、Medici 等赞助；古典学习的复兴在 1453 年前已开始。",
+      "reason": "Make the pre-1453 chronology explicit. The specific claim about the 1453 flight is not established in the checked source passages; remove that unsupported detail rather than certify it as a causal origin or accelerator.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.2, printed pp. 3–4, Petrarch subsection",
+          "support": "Petrarch (1304–1374) pursued classical manuscripts before 1453."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 1.2, illustrative examples / KC-1.1.I.B",
+          "support": "Identifies Petrarch as pre-1450 and describes a revival of classical texts; does not document the specific 1453 scholar-flight claim."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b1-q1",
+      "field": "answer.en",
+      "before": "Trade and banking wealth, Roman ruins, Medici patronage (and Byzantine scholars).",
+      "after": "Trade and banking wealth, Roman heritage, and patronage such as the Medici; the revival of classical learning had begun before 1453.",
+      "reason": "Make the pre-1453 chronology explicit. The specific claim about the 1453 flight is not established in the checked source passages; remove that unsupported detail rather than certify it as a causal origin or accelerator.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.2, printed pp. 3–4, Petrarch subsection",
+          "support": "Petrarch (1304–1374) pursued classical manuscripts before 1453."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 1.2, illustrative examples / KC-1.1.I.B",
+          "support": "Identifies Petrarch as pre-1450 and describes a revival of classical texts; does not document the specific 1453 scholar-flight claim."
+        }
+      ]
+    },
+    {
+      "targetId": "u2-b3-c6",
+      "field": "summary.zh",
+      "before": "承认加尔文宗合法;德意志诸侯获得几乎完全的主权(HRE 名存实亡);Dutch Republic 和瑞士独立获正式承认;法国、瑞典得领土 → 现代主权国家体系与 balance of power 的开端。",
+      "after": "承认加尔文宗；确认德意志地方统治者对领地宗教的控制，削弱 HRE 皇帝权威；正式承认荷兰共和国与瑞士独立；法国、瑞典获得领土。它推动欧洲国家体系的变化，不能等同于 1648 年立即诞生完全现代的主权。",
+      "reason": "Replace a single-date birth of complete modern sovereignty, a hollow HRE and elimination of religious causes with the specified treaty outcomes and a gradual shift.",
+      "evidence": [
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.4, KC-1.5.I.B",
+          "support": "Westphalia ended the medieval ideal of universal Christendom and accelerated the HRE’s decline by confirming local control over religion."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 3.6, KC-1.5.II.A",
+          "support": "Religion declined in importance as a cause of interstate war; balance of power structured diplomacy."
+        },
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 2.4, printed pp. 107–108, The Peace of Westphalia / The Changing Nature of War",
+          "support": "Recognized Calvinism and local religious authority and Dutch/Swiss independence; religious pluralism did not equal religious freedom."
+        }
+      ]
+    },
+    {
+      "targetId": "u2-b3-c6",
+      "field": "summary.en",
+      "before": "Recognized Calvinism; German princes gained near-total sovereignty (the HRE became hollow); the Dutch Republic and Switzerland were formally independent; France and Sweden gained territory → the start of the modern sovereign-state system and balance of power.",
+      "after": "Recognized Calvinism, confirmed local rulers’ control over religion in German territories, weakened imperial authority, recognized Dutch and Swiss independence, and gave territory to France and Sweden. It advanced changes in the European state system rather than instantly creating fully modern sovereignty in 1648.",
+      "reason": "Replace a single-date birth of complete modern sovereignty, a hollow HRE and elimination of religious causes with the specified treaty outcomes and a gradual shift.",
+      "evidence": [
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.4, KC-1.5.I.B",
+          "support": "Westphalia ended the medieval ideal of universal Christendom and accelerated the HRE’s decline by confirming local control over religion."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 3.6, KC-1.5.II.A",
+          "support": "Religion declined in importance as a cause of interstate war; balance of power structured diplomacy."
+        },
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 2.4, printed pp. 107–108, The Peace of Westphalia / The Changing Nature of War",
+          "support": "Recognized Calvinism and local religious authority and Dutch/Swiss independence; religious pluralism did not equal religious freedom."
+        }
+      ]
+    },
+    {
+      "targetId": "u2-b3-c6",
+      "field": "detail.zh",
+      "before": "之后欧洲战争主要因国家利益与王朝而非宗教 —— 这是 Unit 2 → Unit 3 的转折点。",
+      "after": "Westphalia 后，宗教作为欧洲国家间战争原因的重要性下降，国家、王朝利益与均势更突出；这并不意味着宗教从政治或战争中消失。",
+      "reason": "Replace a single-date birth of complete modern sovereignty, a hollow HRE and elimination of religious causes with the specified treaty outcomes and a gradual shift.",
+      "evidence": [
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.4, KC-1.5.I.B",
+          "support": "Westphalia ended the medieval ideal of universal Christendom and accelerated the HRE’s decline by confirming local control over religion."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 3.6, KC-1.5.II.A",
+          "support": "Religion declined in importance as a cause of interstate war; balance of power structured diplomacy."
+        },
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 2.4, printed pp. 107–108, The Peace of Westphalia / The Changing Nature of War",
+          "support": "Recognized Calvinism and local religious authority and Dutch/Swiss independence; religious pluralism did not equal religious freedom."
+        }
+      ]
+    },
+    {
+      "targetId": "u2-b3-c6",
+      "field": "detail.en",
+      "before": "Afterward, European wars were fought mainly over state and dynastic interests rather than religion — the turning point from Unit 2 to Unit 3.",
+      "after": "After Westphalia, religion declined in importance as a cause of interstate warfare, while state and dynastic interests and the balance of power became more prominent. Religion did not disappear from politics or conflict.",
+      "reason": "Replace a single-date birth of complete modern sovereignty, a hollow HRE and elimination of religious causes with the specified treaty outcomes and a gradual shift.",
+      "evidence": [
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.4, KC-1.5.I.B",
+          "support": "Westphalia ended the medieval ideal of universal Christendom and accelerated the HRE’s decline by confirming local control over religion."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 3.6, KC-1.5.II.A",
+          "support": "Religion declined in importance as a cause of interstate war; balance of power structured diplomacy."
+        },
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 2.4, printed pp. 107–108, The Peace of Westphalia / The Changing Nature of War",
+          "support": "Recognized Calvinism and local religious authority and Dutch/Swiss independence; religious pluralism did not equal religious freedom."
+        }
+      ]
+    },
+    {
+      "targetId": "unit:2",
+      "field": "story.2.zh",
+      "before": "宗教 + 政治 = 一百年战争:法国宗教战争、荷兰起义、三十年战争 —— 最后 Peace of Westphalia(1648)承认宗教多元、确立主权国家体系,宗教从此不再是欧洲战争的主要原因。",
+      "after": "宗教与政治交织于法国宗教战争、荷兰起义和三十年战争。Westphalia（1648）确认部分宗教多元与地方宗教控制，削弱 HRE 皇帝权威；此后宗教作为国家间战争原因的重要性下降，国家利益与均势更突出。",
+      "reason": "Replace a single-date birth of complete modern sovereignty, a hollow HRE and elimination of religious causes with the specified treaty outcomes and a gradual shift.",
+      "evidence": [
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.4, KC-1.5.I.B",
+          "support": "Westphalia ended the medieval ideal of universal Christendom and accelerated the HRE’s decline by confirming local control over religion."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 3.6, KC-1.5.II.A",
+          "support": "Religion declined in importance as a cause of interstate war; balance of power structured diplomacy."
+        },
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 2.4, printed pp. 107–108, The Peace of Westphalia / The Changing Nature of War",
+          "support": "Recognized Calvinism and local religious authority and Dutch/Swiss independence; religious pluralism did not equal religious freedom."
+        }
+      ]
+    },
+    {
+      "targetId": "unit:2",
+      "field": "story.2.en",
+      "before": "Religion + politics = a century of war: the French Wars of Religion, the Dutch Revolt, the Thirty Years’ War — ending with the Peace of Westphalia (1648), which accepted religious pluralism and the sovereign-state system; religion ceased to be the main cause of European wars.",
+      "after": "Religion and politics intertwined in the French Wars of Religion, Dutch Revolt, and Thirty Years’ War. Westphalia (1648) confirmed forms of religious pluralism and local religious control and weakened imperial authority; afterward religion declined in importance as a cause of interstate war, while state interests and the balance of power became more prominent.",
+      "reason": "Replace a single-date birth of complete modern sovereignty, a hollow HRE and elimination of religious causes with the specified treaty outcomes and a gradual shift.",
+      "evidence": [
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.4, KC-1.5.I.B",
+          "support": "Westphalia ended the medieval ideal of universal Christendom and accelerated the HRE’s decline by confirming local control over religion."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 3.6, KC-1.5.II.A",
+          "support": "Religion declined in importance as a cause of interstate war; balance of power structured diplomacy."
+        },
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 2.4, printed pp. 107–108, The Peace of Westphalia / The Changing Nature of War",
+          "support": "Recognized Calvinism and local religious authority and Dutch/Swiss independence; religious pluralism did not equal religious freedom."
+        }
+      ]
+    },
+    {
+      "targetId": "u2-b3-q5",
+      "field": "answer.zh",
+      "before": "承认加尔文宗、诸侯获得主权、荷兰与瑞士独立(法瑞得地)。",
+      "after": "承认加尔文宗；确认德意志地方统治者对领地宗教的控制并削弱皇帝权威；正式承认荷兰、瑞士独立（法国、瑞典也得地）。",
+      "reason": "Replace a single-date birth of complete modern sovereignty, a hollow HRE and elimination of religious causes with the specified treaty outcomes and a gradual shift.",
+      "evidence": [
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.4, KC-1.5.I.B",
+          "support": "Westphalia ended the medieval ideal of universal Christendom and accelerated the HRE’s decline by confirming local control over religion."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 3.6, KC-1.5.II.A",
+          "support": "Religion declined in importance as a cause of interstate war; balance of power structured diplomacy."
+        },
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 2.4, printed pp. 107–108, The Peace of Westphalia / The Changing Nature of War",
+          "support": "Recognized Calvinism and local religious authority and Dutch/Swiss independence; religious pluralism did not equal religious freedom."
+        }
+      ]
+    },
+    {
+      "targetId": "u2-b3-q5",
+      "field": "answer.en",
+      "before": "Calvinism recognized, princes sovereign, Dutch and Swiss independence (gains for France and Sweden).",
+      "after": "Recognized Calvinism; confirmed local religious control in German territories and weakened imperial authority; recognized Dutch and Swiss independence (with territorial gains for France and Sweden).",
+      "reason": "Replace a single-date birth of complete modern sovereignty, a hollow HRE and elimination of religious causes with the specified treaty outcomes and a gradual shift.",
+      "evidence": [
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.4, KC-1.5.I.B",
+          "support": "Westphalia ended the medieval ideal of universal Christendom and accelerated the HRE’s decline by confirming local control over religion."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 3.6, KC-1.5.II.A",
+          "support": "Religion declined in importance as a cause of interstate war; balance of power structured diplomacy."
+        },
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 2.4, printed pp. 107–108, The Peace of Westphalia / The Changing Nature of War",
+          "support": "Recognized Calvinism and local religious authority and Dutch/Swiss independence; religious pluralism did not equal religious freedom."
+        }
+      ]
+    },
+    {
+      "targetId": "unit:2",
+      "field": "finalReview.15.question.zh",
+      "before": "一句话论证:为什么 Westphalia 标志宗教战争时代的结束。",
+      "after": "一句话论证：Westphalia 如何改变宗教、国家权力与欧洲战争的关系？",
+      "reason": "Replace a single-date birth of complete modern sovereignty, a hollow HRE and elimination of religious causes with the specified treaty outcomes and a gradual shift.",
+      "evidence": [
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.4, KC-1.5.I.B",
+          "support": "Westphalia ended the medieval ideal of universal Christendom and accelerated the HRE’s decline by confirming local control over religion."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 3.6, KC-1.5.II.A",
+          "support": "Religion declined in importance as a cause of interstate war; balance of power structured diplomacy."
+        },
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 2.4, printed pp. 107–108, The Peace of Westphalia / The Changing Nature of War",
+          "support": "Recognized Calvinism and local religious authority and Dutch/Swiss independence; religious pluralism did not equal religious freedom."
+        }
+      ]
+    },
+    {
+      "targetId": "unit:2",
+      "field": "finalReview.15.question.en",
+      "before": "Argue why Westphalia ended the age of religious wars.",
+      "after": "Explain in one sentence how Westphalia changed the relationship between religion, state power, and European warfare.",
+      "reason": "Replace a single-date birth of complete modern sovereignty, a hollow HRE and elimination of religious causes with the specified treaty outcomes and a gradual shift.",
+      "evidence": [
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.4, KC-1.5.I.B",
+          "support": "Westphalia ended the medieval ideal of universal Christendom and accelerated the HRE’s decline by confirming local control over religion."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 3.6, KC-1.5.II.A",
+          "support": "Religion declined in importance as a cause of interstate war; balance of power structured diplomacy."
+        },
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 2.4, printed pp. 107–108, The Peace of Westphalia / The Changing Nature of War",
+          "support": "Recognized Calvinism and local religious authority and Dutch/Swiss independence; religious pluralism did not equal religious freedom."
+        }
+      ]
+    },
+    {
+      "targetId": "unit:2",
+      "field": "finalReview.15.answerEn",
+      "before": "Because the Peace of Westphalia recognized Calvinism and gave German princes sovereignty over their own territories, it removed religion as a legitimate cause for war — revealing that states, not churches, now dominated European politics.",
+      "after": "Because Westphalia recognized Calvinism and confirmed local control over religion while weakening imperial authority, it reinforced a Europe of multiple political and confessional authorities; religion subsequently declined in importance as a cause of interstate war as state interests and the balance of power became more prominent.",
+      "reason": "Replace a single-date birth of complete modern sovereignty, a hollow HRE and elimination of religious causes with the specified treaty outcomes and a gradual shift.",
+      "evidence": [
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.4, KC-1.5.I.B",
+          "support": "Westphalia ended the medieval ideal of universal Christendom and accelerated the HRE’s decline by confirming local control over religion."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 3.6, KC-1.5.II.A",
+          "support": "Religion declined in importance as a cause of interstate war; balance of power structured diplomacy."
+        },
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 2.4, printed pp. 107–108, The Peace of Westphalia / The Changing Nature of War",
+          "support": "Recognized Calvinism and local religious authority and Dutch/Swiss independence; religious pluralism did not equal religious freedom."
+        }
+      ]
+    },
+    {
+      "targetId": "u2-b3",
+      "field": "essayEvidence.1.textEn",
+      "before": "Because Cardinal Richelieu brought Catholic France into the Thirty Years’ War on the Protestant side to weaken the Habsburgs, the conflict ended as a struggle for power — revealing that raison d’état had replaced religion as the guiding principle of foreign policy.",
+      "after": "Because Catholic France supported Protestant powers against the Habsburgs, the Thirty Years’ War shows that state interests could cut across confessional loyalties; this does not mean religion had ceased to influence diplomacy.",
+      "reason": "Replace a single-date birth of complete modern sovereignty, a hollow HRE and elimination of religious causes with the specified treaty outcomes and a gradual shift.",
+      "evidence": [
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.4, KC-1.5.I.B",
+          "support": "Westphalia ended the medieval ideal of universal Christendom and accelerated the HRE’s decline by confirming local control over religion."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 3.6, KC-1.5.II.A",
+          "support": "Religion declined in importance as a cause of interstate war; balance of power structured diplomacy."
+        },
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 2.4, printed pp. 107–108, The Peace of Westphalia / The Changing Nature of War",
+          "support": "Recognized Calvinism and local religious authority and Dutch/Swiss independence; religious pluralism did not equal religious freedom."
+        }
+      ]
+    },
+    {
+      "targetId": "u2-b3-c2",
+      "field": "summary.zh",
+      "before": "改:禁止出售赎罪券、simony,建立神学院培训教士;不改:重申七圣礼、因信和善功得救、教会传统与圣经同等权威、拉丁文弥撒、教皇权威。",
+      "after": "改革：整顿教会纪律与赎罪券相关的牟利滥用，改善教士教育与培训；延续：重申七圣礼、信仰与善功、教会传统与圣经的权威、拉丁文礼仪和教皇权威。纠正滥用不等于废除赎罪券教义。",
+      "reason": "Align Chinese and English: reform abuses including commercial exploitation associated with indulgences, rather than imply abolition of indulgence doctrine. Keep discipline reform distinct from doctrinal continuity.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 2.5, printed pp. 112–113, Council of Trent Confirms Catholic Doctrine",
+          "support": "Distinguishes addressing church abuses from reaffirming established Catholic doctrine; does not state that indulgence doctrine was abolished."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.5, KC-1.2.I.D",
+          "support": "Places Trent within the Catholic Reformation and its continuity/division context; does not enumerate specific indulgence decrees."
+        }
+      ]
+    },
+    {
+      "targetId": "u2-b3-c2",
+      "field": "summary.en",
+      "before": "Changed: banned selling indulgences and simony, founded seminaries to train priests; kept: reaffirmed the seven sacraments, salvation by faith and works, tradition alongside scripture, the Latin Mass, and papal authority.",
+      "after": "Reform: addressed church discipline and abuses associated with indulgences, including commercial exploitation, and improved clerical education and training. Continuity: reaffirmed the seven sacraments, faith and good works, tradition and scripture, Latin worship, and papal authority. Addressing abuses did not abolish indulgence doctrine.",
+      "reason": "Align Chinese and English: reform abuses including commercial exploitation associated with indulgences, rather than imply abolition of indulgence doctrine. Keep discipline reform distinct from doctrinal continuity.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 2.5, printed pp. 112–113, Council of Trent Confirms Catholic Doctrine",
+          "support": "Distinguishes addressing church abuses from reaffirming established Catholic doctrine; does not state that indulgence doctrine was abolished."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.5, KC-1.2.I.D",
+          "support": "Places Trent within the Catholic Reformation and its continuity/division context; does not enumerate specific indulgence decrees."
+        }
+      ]
+    },
+    {
+      "targetId": "u2-b3-q2",
+      "field": "answer.zh",
+      "before": "改:禁止赎罪券、设神学院;不改:七圣礼、善功、拉丁弥撒、教皇权威。",
+      "after": "改：整顿教会纪律、赎罪券相关的牟利滥用与教士教育；不改：七圣礼、信仰与善功、拉丁文礼仪和教皇权威。不是废除赎罪券教义。",
+      "reason": "Align Chinese and English: reform abuses including commercial exploitation associated with indulgences, rather than imply abolition of indulgence doctrine. Keep discipline reform distinct from doctrinal continuity.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 2.5, printed pp. 112–113, Council of Trent Confirms Catholic Doctrine",
+          "support": "Distinguishes addressing church abuses from reaffirming established Catholic doctrine; does not state that indulgence doctrine was abolished."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.5, KC-1.2.I.D",
+          "support": "Places Trent within the Catholic Reformation and its continuity/division context; does not enumerate specific indulgence decrees."
+        }
+      ]
+    },
+    {
+      "targetId": "u2-b3-q2",
+      "field": "answer.en",
+      "before": "Changed: banned indulgence sales, created seminaries; kept: seven sacraments, works, Latin Mass, papal authority.",
+      "after": "Reformed church discipline, abuses associated with indulgences and commercial exploitation, and clerical education; retained the seven sacraments, faith and good works, Latin worship, and papal authority. It did not abolish indulgence doctrine.",
+      "reason": "Align Chinese and English: reform abuses including commercial exploitation associated with indulgences, rather than imply abolition of indulgence doctrine. Keep discipline reform distinct from doctrinal continuity.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 2.5, printed pp. 112–113, Council of Trent Confirms Catholic Doctrine",
+          "support": "Distinguishes addressing church abuses from reaffirming established Catholic doctrine; does not state that indulgence doctrine was abolished."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.5, KC-1.2.I.D",
+          "support": "Places Trent within the Catholic Reformation and its continuity/division context; does not enumerate specific indulgence decrees."
+        }
+      ]
+    },
+    {
+      "targetId": "u2-b3",
+      "field": "mnemonic.text.zh",
+      "before": "「改纪律、不改教义」—— 赎罪券禁卖、神学院建起来;七圣礼、拉丁弥撒、教皇权威一个都不让。",
+      "after": "「整顿滥用与纪律，重申天主教教义」—— 改革赎罪券相关牟利滥用、改善教士培训；保留七圣礼、拉丁文礼仪与教皇权威。",
+      "reason": "Align Chinese and English: reform abuses including commercial exploitation associated with indulgences, rather than imply abolition of indulgence doctrine. Keep discipline reform distinct from doctrinal continuity.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 2.5, printed pp. 112–113, Council of Trent Confirms Catholic Doctrine",
+          "support": "Distinguishes addressing church abuses from reaffirming established Catholic doctrine; does not state that indulgence doctrine was abolished."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.5, KC-1.2.I.D",
+          "support": "Places Trent within the Catholic Reformation and its continuity/division context; does not enumerate specific indulgence decrees."
+        }
+      ]
+    },
+    {
+      "targetId": "u2-b3",
+      "field": "mnemonic.text.en",
+      "before": "\"Fix the discipline, keep the doctrine\" — indulgence sales banned, seminaries built; the seven sacraments, Latin Mass, and papal authority all kept.",
+      "after": "Reform abuses and discipline; reaffirm Catholic doctrine: address commercial exploitation associated with indulgences and improve clerical training, while retaining the seven sacraments, Latin worship, and papal authority.",
+      "reason": "Align Chinese and English: reform abuses including commercial exploitation associated with indulgences, rather than imply abolition of indulgence doctrine. Keep discipline reform distinct from doctrinal continuity.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 2.5, printed pp. 112–113, Council of Trent Confirms Catholic Doctrine",
+          "support": "Distinguishes addressing church abuses from reaffirming established Catholic doctrine; does not state that indulgence doctrine was abolished."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.5, KC-1.2.I.D",
+          "support": "Places Trent within the Catholic Reformation and its continuity/division context; does not enumerate specific indulgence decrees."
+        }
+      ]
+    },
+    {
+      "targetId": "u2-b3",
+      "field": "essayEvidence.0.textEn",
+      "before": "The Council of Trent changed Catholic practice by banning the sale of indulgences and founding seminaries, but continued to affirm the seven sacraments and papal authority — revealing that the Catholic Reformation reformed discipline without compromising doctrine.",
+      "after": "The Council of Trent addressed church abuses and clerical training while reaffirming the seven sacraments and papal authority, showing reform of discipline alongside continuity in Catholic doctrine rather than abolition of indulgences.",
+      "reason": "Align Chinese and English: reform abuses including commercial exploitation associated with indulgences, rather than imply abolition of indulgence doctrine. Keep discipline reform distinct from doctrinal continuity.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 2.5, printed pp. 112–113, Council of Trent Confirms Catholic Doctrine",
+          "support": "Distinguishes addressing church abuses from reaffirming established Catholic doctrine; does not state that indulgence doctrine was abolished."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.5, KC-1.2.I.D",
+          "support": "Places Trent within the Catholic Reformation and its continuity/division context; does not enumerate specific indulgence decrees."
+        }
+      ]
+    },
+    {
+      "targetId": "u2-review-a8",
+      "field": "answer.zh",
+      "before": "禁止出售赎罪券、设立神学院。",
+      "after": "整顿赎罪券相关的牟利滥用；改善教士教育与培训。",
+      "reason": "Align Chinese and English: reform abuses including commercial exploitation associated with indulgences, rather than imply abolition of indulgence doctrine. Keep discipline reform distinct from doctrinal continuity.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 2.5, printed pp. 112–113, Council of Trent Confirms Catholic Doctrine",
+          "support": "Distinguishes addressing church abuses from reaffirming established Catholic doctrine; does not state that indulgence doctrine was abolished."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.5, KC-1.2.I.D",
+          "support": "Places Trent within the Catholic Reformation and its continuity/division context; does not enumerate specific indulgence decrees."
+        }
+      ]
+    },
+    {
+      "targetId": "u2-review-a8",
+      "field": "answer.en",
+      "before": "Banned indulgence sales, created seminaries.",
+      "after": "Addressed abuses and commercial exploitation associated with indulgences; improved clerical education and training.",
+      "reason": "Align Chinese and English: reform abuses including commercial exploitation associated with indulgences, rather than imply abolition of indulgence doctrine. Keep discipline reform distinct from doctrinal continuity.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 2.5, printed pp. 112–113, Council of Trent Confirms Catholic Doctrine",
+          "support": "Distinguishes addressing church abuses from reaffirming established Catholic doctrine; does not state that indulgence doctrine was abolished."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.5, KC-1.2.I.D",
+          "support": "Places Trent within the Catholic Reformation and its continuity/division context; does not enumerate specific indulgence decrees."
+        }
+      ]
+    },
+    {
+      "targetId": "u2-review-b3",
+      "field": "answerEn",
+      "before": "The Council of Trent changed Catholic practice by ending indulgence sales and training priests in seminaries, but continued to uphold the seven sacraments, the Latin Mass, and papal authority.",
+      "after": "The Council of Trent addressed church abuses and clerical education but continued to uphold the seven sacraments, Latin worship, and papal authority, combining disciplinary reform with reaffirmation of Catholic doctrine.",
+      "reason": "Align Chinese and English: reform abuses including commercial exploitation associated with indulgences, rather than imply abolition of indulgence doctrine. Keep discipline reform distinct from doctrinal continuity.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 2.5, printed pp. 112–113, Council of Trent Confirms Catholic Doctrine",
+          "support": "Distinguishes addressing church abuses from reaffirming established Catholic doctrine; does not state that indulgence doctrine was abolished."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 2.5, KC-1.2.I.D",
+          "support": "Places Trent within the Catholic Reformation and its continuity/division context; does not enumerate specific indulgence decrees."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b4-c5",
+      "field": "summary.zh",
+      "before": "美洲白银大量流入 + 人口增长 → 长期通胀:物价上涨数倍 → 靠固定地租的贵族和工资劳动者受损,商人和借贷者获益。",
+      "after": "美洲白银流入与人口增长推动长期通胀。物价涨幅超过工资或固定地租时，工人与固定地租收入者受损；商业扩张可使部分商人获利。对于固定名义金额的债务，未预期通胀降低实际偿还负担，有利于债务人、不利于债权人。",
+      "reason": "Distinguish expanding commercial profits from a fixed-nominal loan: unexpected inflation lowers the real repayment, benefiting debtors and hurting creditors, other things equal.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.10, printed p. 71, The Price Revolution",
+          "support": "Supports inflation causes and hardship; describes merchants/bankers benefiting from expanding commerce. This is not equivalent to claiming every fixed-nominal creditor gains from inflation."
+        }
+      ],
+      "corroboration": [
+        {
+          "title": "Federal Reserve Bank of St. Louis, The Impact of Inflation’s Wealth Transfer Effect",
+          "url": "https://www.stlouisfed.org/publications/regional-economist/2022/aug/impact-inflation-wealth-transfer-effect",
+          "role": "corrective corroboration; not a curriculum source",
+          "support": "Unexpected inflation reduces real fixed-nominal debt and transfers purchasing power from creditors to debtors; net effects depend on asset/liability composition."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b4-c5",
+      "field": "summary.en",
+      "before": "A flood of American silver + population growth → long-term inflation: prices rose several-fold → nobles on fixed rents and wage earners lost, merchants and creditors gained.",
+      "after": "American silver inflows and population growth contributed to long-term inflation. Workers and fixed-rent recipients lost when prices outpaced their incomes; some merchants benefited from expanding commerce. For fixed nominal debt, unexpected inflation benefits debtors and harms creditors by reducing the real value of repayment.",
+      "reason": "Distinguish expanding commercial profits from a fixed-nominal loan: unexpected inflation lowers the real repayment, benefiting debtors and hurting creditors, other things equal.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.10, printed p. 71, The Price Revolution",
+          "support": "Supports inflation causes and hardship; describes merchants/bankers benefiting from expanding commerce. This is not equivalent to claiming every fixed-nominal creditor gains from inflation."
+        }
+      ],
+      "corroboration": [
+        {
+          "title": "Federal Reserve Bank of St. Louis, The Impact of Inflation’s Wealth Transfer Effect",
+          "url": "https://www.stlouisfed.org/publications/regional-economist/2022/aug/impact-inflation-wealth-transfer-effect",
+          "role": "corrective corroboration; not a curriculum source",
+          "support": "Unexpected inflation reduces real fixed-nominal debt and transfers purchasing power from creditors to debtors; net effects depend on asset/liability composition."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b4-q5",
+      "field": "answer.zh",
+      "before": "美洲白银 + 人口增长;商人、借贷者赢,固定收入贵族与工人输。",
+      "after": "美洲白银流入与人口增长推动物价上涨。部分商人因商业扩张获益；工资、固定地租若跟不上物价则受损。固定名义债务中，未预期通胀通常利于债务人、不利于债权人。",
+      "reason": "Distinguish expanding commercial profits from a fixed-nominal loan: unexpected inflation lowers the real repayment, benefiting debtors and hurting creditors, other things equal.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.10, printed p. 71, The Price Revolution",
+          "support": "Supports inflation causes and hardship; describes merchants/bankers benefiting from expanding commerce. This is not equivalent to claiming every fixed-nominal creditor gains from inflation."
+        }
+      ],
+      "corroboration": [
+        {
+          "title": "Federal Reserve Bank of St. Louis, The Impact of Inflation’s Wealth Transfer Effect",
+          "url": "https://www.stlouisfed.org/publications/regional-economist/2022/aug/impact-inflation-wealth-transfer-effect",
+          "role": "corrective corroboration; not a curriculum source",
+          "support": "Unexpected inflation reduces real fixed-nominal debt and transfers purchasing power from creditors to debtors; net effects depend on asset/liability composition."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b4-q5",
+      "field": "answer.en",
+      "before": "American silver + population growth; merchants and lenders won, fixed-rent nobles and wage workers lost.",
+      "after": "American silver inflows and population growth helped raise prices. Some merchants gained from commercial expansion; wage earners and fixed-rent recipients lost if incomes lagged prices. For fixed nominal debt, unexpected inflation generally benefits debtors and harms creditors.",
+      "reason": "Distinguish expanding commercial profits from a fixed-nominal loan: unexpected inflation lowers the real repayment, benefiting debtors and hurting creditors, other things equal.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.10, printed p. 71, The Price Revolution",
+          "support": "Supports inflation causes and hardship; describes merchants/bankers benefiting from expanding commerce. This is not equivalent to claiming every fixed-nominal creditor gains from inflation."
+        }
+      ],
+      "corroboration": [
+        {
+          "title": "Federal Reserve Bank of St. Louis, The Impact of Inflation’s Wealth Transfer Effect",
+          "url": "https://www.stlouisfed.org/publications/regional-economist/2022/aug/impact-inflation-wealth-transfer-effect",
+          "role": "corrective corroboration; not a curriculum source",
+          "support": "Unexpected inflation reduces real fixed-nominal debt and transfers purchasing power from creditors to debtors; net effects depend on asset/liability composition."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b2-c2",
+      "field": "summary.zh",
+      "before": "Ferdinand & Isabella 联姻统一 Aragon 与 Castile → 1492 Reconquista 完成(攻下 Granada)、驱逐犹太人、设立 Spanish Inquisition、资助 Columbus —— 用宗教统一国家。",
+      "after": "Ferdinand 与 Isabella 于 1469 年联姻，推动 Aragon 与 Castile 的王朝联合与权力整合；1478 年获教皇授权设立 Spanish Inquisition。1492 年攻下 Granada 完成 Reconquista、驱逐未改宗犹太人并资助 Columbus 航行。宗教政策成为王权整合的工具。",
+      "reason": "Separate the 1478 papal authorization of the Spanish Inquisition from the conquest, expulsion and Columbus sponsorship of 1492; marriage began a process of consolidation rather than instantly creating a unitary state.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.5, printed p. 28, Spain",
+          "support": "Separately discusses the Inquisition as an instrument of centralization and the 1492 conquest of Granada/Jewish expulsion; the checked passage does not itself date papal authorization."
+        }
+      ],
+      "corroboration": [
+        {
+          "title": "Library of Congress, Recap of Presentation – Jews on Trial",
+          "url": "https://blogs.loc.gov/law/2012/04/recap-of-presentation-%E2%80%93-jews-on-trial-the-papal-inquisition-in-modena-1598-1638/",
+          "role": "corrective corroboration; not a curriculum source",
+          "support": "Dates the papal bull establishing the Spanish Inquisition in Castile to 1478; distinguish authorization from subsequent tribunal operations."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b2-c2",
+      "field": "summary.en",
+      "before": "Ferdinand and Isabella’s marriage united Aragon and Castile → in 1492 they completed the Reconquista (Granada), expelled the Jews, used the Spanish Inquisition, and sponsored Columbus — unifying the state through religion.",
+      "after": "Ferdinand and Isabella’s marriage in 1469 advanced dynastic union and consolidation in Aragon and Castile; papal authorization established the Spanish Inquisition in 1478. In 1492 they conquered Granada, completed the Reconquista, expelled unconverted Jews, and sponsored Columbus. Religious policy served royal consolidation.",
+      "reason": "Separate the 1478 papal authorization of the Spanish Inquisition from the conquest, expulsion and Columbus sponsorship of 1492; marriage began a process of consolidation rather than instantly creating a unitary state.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.5, printed p. 28, Spain",
+          "support": "Separately discusses the Inquisition as an instrument of centralization and the 1492 conquest of Granada/Jewish expulsion; the checked passage does not itself date papal authorization."
+        }
+      ],
+      "corroboration": [
+        {
+          "title": "Library of Congress, Recap of Presentation – Jews on Trial",
+          "url": "https://blogs.loc.gov/law/2012/04/recap-of-presentation-%E2%80%93-jews-on-trial-the-papal-inquisition-in-modena-1598-1638/",
+          "role": "corrective corroboration; not a curriculum source",
+          "support": "Dates the papal bull establishing the Spanish Inquisition in Castile to 1478; distinguish authorization from subsequent tribunal operations."
+        }
+      ]
+    },
+    {
+      "targetId": "u6-b2-c3",
+      "field": "summary.zh",
+      "before": "议会调查(Sadler Report)揭露童工惨况 → Factory Act (1833) 限制纺织厂童工工时、9 岁以下禁止;Mines Act (1842) 禁止女性和儿童下矿井;Ten Hours Act(1847)。",
+      "after": "议会调查（Sadler Report）揭露童工处境；Factory Act（1833）限制纺织厂童工工时并禁止雇用 9 岁以下儿童；Mines Act（1842）禁止女性、女孩及 10 岁以下男孩在地下矿井工作；Ten Hours Act（1847）进一步限制妇女与青少年工时。",
+      "reason": "Correct the ban from all children to women/girls and boys under ten in underground work; distinguish its scope from the 1833 Factory Act and 1847 Ten Hours Act.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 6.4, printed p. 368, The Mines Act of 1842",
+          "support": "Explicitly specifies boys under ten and women/girls; the textbook says mines, while this correction preserves the legislation’s underground-work scope."
+        }
+      ]
+    },
+    {
+      "targetId": "u6-b2-c3",
+      "field": "summary.en",
+      "before": "Parliamentary inquiries (the Sadler Report) exposed child labor → the Factory Act (1833) limited children’s hours in textile mills and banned those under 9; the Mines Act (1842) barred women and children from underground work; the Ten Hours Act (1847).",
+      "after": "Parliamentary inquiries such as the Sadler Report exposed child labor. The Factory Act (1833) limited children’s hours in textile mills and prohibited employment under age 9; the Mines Act (1842) prohibited underground mine work by women, girls, and boys under 10; the Ten Hours Act (1847) further limited women’s and young persons’ hours.",
+      "reason": "Correct the ban from all children to women/girls and boys under ten in underground work; distinguish its scope from the 1833 Factory Act and 1847 Ten Hours Act.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 6.4, printed p. 368, The Mines Act of 1842",
+          "support": "Explicitly specifies boys under ten and women/girls; the textbook says mines, while this correction preserves the legislation’s underground-work scope."
+        }
+      ]
+    },
+    {
+      "targetId": "u6-b2-c3",
+      "field": "date",
+      "before": "1833 / 1842",
+      "after": "1833 / 1842 / 1847",
+      "reason": "Include all three acts explicitly discussed in the card.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 6.4, printed pp. 367–368",
+          "support": "Names the Factory Act of 1833, Mines Act of 1842 and Ten Hours Act of 1847."
+        }
+      ]
+    },
+    {
+      "targetId": "u6-review-a6",
+      "field": "answer.zh",
+      "before": "禁止女性和儿童下矿井工作。",
+      "after": "禁止女性、女孩及 10 岁以下男孩在地下矿井工作；不是禁止所有年龄的儿童工作。",
+      "reason": "Correct the ban from all children to women/girls and boys under ten in underground work; distinguish its scope from the 1833 Factory Act and 1847 Ten Hours Act.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 6.4, printed p. 368, The Mines Act of 1842",
+          "support": "Explicitly specifies boys under ten and women/girls; the textbook says mines, while this correction preserves the legislation’s underground-work scope."
+        }
+      ]
+    },
+    {
+      "targetId": "u6-review-a6",
+      "field": "answer.en",
+      "before": "Banned women and children from underground mine work.",
+      "after": "Prohibited underground mine work by women, girls, and boys under 10, rather than by all children regardless of age.",
+      "reason": "Correct the ban from all children to women/girls and boys under ten in underground work; distinguish its scope from the 1833 Factory Act and 1847 Ten Hours Act.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 6.4, printed p. 368, The Mines Act of 1842",
+          "support": "Explicitly specifies boys under ten and women/girls; the textbook says mines, while this correction preserves the legislation’s underground-work scope."
+        }
+      ]
+    },
+    {
+      "targetId": "u8-b4-c4",
+      "field": "summary.zh",
+      "before": "Stalingrad(1942–1943)德军第一次大败、东线转折 → 北非 El Alamein → 盟军登陆意大利 → D-Day(1944 年 6 月 6 日)开辟西线 → 苏军攻克 Berlin → 1945 年 5 月 8 日欧战胜利(V-E Day)。",
+      "after": "盟军重要转折与胜利包括：El Alamein（1942）；Stalingrad（1942–1943，德军在东线的重大失败与转折）；登陆意大利（1943）；D-Day（1944 年 6 月 6 日，在法国开辟新的西线战场）；苏军攻克 Berlin；V-E Day（1945 年 5 月 8 日）。",
+      "reason": "Do not call Stalingrad Germany’s first major defeat. Name it as an Eastern Front turning point and remove arrows that falsely place El Alamein after the end of Stalingrad.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 8.8, printed pp. 542–543, Russian Endurance / The War in North Africa",
+          "support": "Describes British resistance in 1940 and Soviet defense of Moscow in 1941 before Stalingrad; identifies Stalingrad’s decisive impact on the Eastern Front."
+        }
+      ]
+    },
+    {
+      "targetId": "u8-b4-c4",
+      "field": "summary.en",
+      "before": "Stalingrad (1942–1943), Germany’s first great defeat and the Eastern turning point → El Alamein in North Africa → the Allied invasion of Italy → D-Day (June 6, 1944) opened the Western Front → Soviet troops took Berlin → V-E Day, May 8, 1945.",
+      "after": "Key Allied turning points and victories included El Alamein (1942); Stalingrad (1942–1943), a pivotal German defeat and turning point on the Eastern Front; the invasion of Italy (1943); D-Day (June 6, 1944), opening a new front in France; Soviet capture of Berlin; and V-E Day (May 8, 1945).",
+      "reason": "Do not call Stalingrad Germany’s first major defeat. Name it as an Eastern Front turning point and remove arrows that falsely place El Alamein after the end of Stalingrad.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 8.8, printed pp. 542–543, Russian Endurance / The War in North Africa",
+          "support": "Describes British resistance in 1940 and Soviet defense of Moscow in 1941 before Stalingrad; identifies Stalingrad’s decisive impact on the Eastern Front."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b2-c4",
+      "field": "detail.zh",
+      "before": "对比:英、法、西走向集权;HRE 和意大利保持分裂,直到 19 世纪才统一(Unit 7)。Charles V 同时统治西班牙、HRE、尼德兰,却无法压制路德派(Schmalkaldic League)。",
+      "after": "对比：英、法、西加强王权，德意志与意大利地区长期保持政治分散。Charles V 在 1547 年军事上击败 Schmalkaldic League，却未能强迫新教臣民回归天主教；1555 年 Augsburg 和约确认部分宗教分裂。",
+      "reason": "Distinguish victory in battle from failure to impose lasting Catholic unity; German lands, rather than the later-dissolved HRE itself, are the appropriate comparison.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.5, printed p. 30, Schmalkaldic League / Augsburg settlement",
+          "support": "Explicitly says Charles defeated the league in 1547 yet could not impose Catholicism, leading to the 1555 settlement."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b2-c4",
+      "field": "detail.en",
+      "before": "Contrast: England, France, and Spain centralized; the HRE and Italy stayed divided until the 19th century (Unit 7). Charles V ruled Spain, the HRE, and the Netherlands yet could not crush the Lutheran Schmalkaldic League.",
+      "after": "Contrast: England, France, and Spain strengthened royal power, while German and Italian lands remained politically fragmented. Charles V defeated the Schmalkaldic League militarily in 1547 but could not force his Protestant subjects back to Catholicism; the Peace of Augsburg (1555) confirmed a religious division.",
+      "reason": "Distinguish victory in battle from failure to impose lasting Catholic unity; German lands, rather than the later-dissolved HRE itself, are the appropriate comparison.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.5, printed p. 30, Schmalkaldic League / Augsburg settlement",
+          "support": "Explicitly says Charles defeated the league in 1547 yet could not impose Catholicism, leading to the 1555 settlement."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b3-c4",
+      "field": "detail.zh",
+      "before": "Tordesillas 解释了为什么 Brazil 说葡萄牙语、其余拉美说西班牙语。Amerigo Vespucci 认识到这是\"New World\",美洲因他得名。",
+      "after": "Tordesillas 划分西、葡殖民势力范围，有助于解释葡萄牙在巴西、而西班牙在美洲其他许多地区的殖民统治。Amerigo Vespucci 把所探索的土地视为“新世界”，美洲名称来自他的名字。",
+      "reason": "Replace an exclusive modern-language claim with the documented colonial-sphere distinction.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.7, printed p. 42, Treaty of Tordesillas",
+          "support": "Describes Spanish/Portuguese spheres and eastern Brazil; does not claim all remaining Latin America speaks Spanish."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b3-c4",
+      "field": "detail.en",
+      "before": "Tordesillas explains why Brazil speaks Portuguese and the rest of Latin America Spanish. Amerigo Vespucci recognized a \"New World,\" and the Americas bear his name.",
+      "after": "Tordesillas divided Spanish and Portuguese colonial spheres, helping explain Portuguese rule in Brazil and Spanish rule in many other American territories. Amerigo Vespucci identified the lands he explored as a New World, and the Americas bear his name.",
+      "reason": "Replace an exclusive modern-language claim with the documented colonial-sphere distinction.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.7, printed p. 42, Treaty of Tordesillas",
+          "support": "Describes Spanish/Portuguese spheres and eastern Brazil; does not claim all remaining Latin America speaks Spanish."
+        }
+      ]
+    },
+    {
+      "targetId": "u3-b1-c2",
+      "field": "summary.zh",
+      "before": "Royalists (Cavaliers) vs. Parliamentarians (Roundheads) → Oliver Cromwell 的 New Model Army 获胜 → 1649 年处决 Charles I —— 欧洲第一次公开审判并处死国王。",
+      "after": "Royalists（Cavaliers）与 Parliamentarians（Roundheads）交战；Oliver Cromwell 的 New Model Army 获胜。Charles I 于 1649 年受审并被处决，显示议会派对君主权威的激烈挑战。",
+      "reason": "Remove an unverified universal first; preserve the supported 1649 trial/execution and political significance.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 3.2, printed p. 145, Civil War",
+          "support": "Confirms Parliamentary victory and execution in 1649; does not substantiate a universal first among European kings."
+        }
+      ]
+    },
+    {
+      "targetId": "u3-b1-c2",
+      "field": "summary.en",
+      "before": "Royalists (Cavaliers) vs. Parliamentarians (Roundheads) → Oliver Cromwell’s New Model Army won → Charles I was executed in 1649 — the first public trial and execution of a European king.",
+      "after": "Royalists (Cavaliers) fought Parliamentarians (Roundheads); Oliver Cromwell’s New Model Army won. Charles I was tried and executed in 1649, marking a radical challenge to royal authority.",
+      "reason": "Remove an unverified universal first; preserve the supported 1649 trial/execution and political significance.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 3.2, printed p. 145, Civil War",
+          "support": "Confirms Parliamentary victory and execution in 1649; does not substantiate a universal first among European kings."
+        }
+      ]
+    },
+    {
+      "targetId": "u4-b1-c1",
+      "field": "detail.zh",
+      "before": "他临终前才出版,担心宗教反对。同年 Vesalius 出版《On the Fabric of the Human Body》,用解剖纠正 Galen。更早的 Paracelsus 用化学药物挑战 Galen 的体液医学。",
+      "after": "《On the Revolutions of the Heavenly Spheres》于 1543 年、Copernicus 生命末期出版。同年 Vesalius 出版《On the Fabric of the Human Body》，用解剖纠正 Galen；更早的 Paracelsus 用化学药物挑战 Galen 的体液医学。",
+      "reason": "Preserve the documented publication date without certifying a sole religious motive or literal deathbed-only publication history.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 4.2, printed p. 208, Copernicus’s New System",
+          "support": "Says publication was shortly before his death and he feared criticism; does not establish a single exclusively religious motive."
+        }
+      ]
+    },
+    {
+      "targetId": "u4-b1-c1",
+      "field": "detail.en",
+      "before": "He published only on his deathbed, fearing religious backlash. The same year Vesalius’s On the Fabric of the Human Body used dissection to correct Galen. Earlier, Paracelsus challenged Galen’s humoral medicine with chemical remedies.",
+      "after": "On the Revolutions of the Heavenly Spheres was published in 1543, near the end of Copernicus’s life. That year Vesalius published On the Fabric of the Human Body, using dissection to challenge Galen. Earlier, Paracelsus challenged Galen’s humoral medicine with chemical remedies.",
+      "reason": "Preserve the documented publication date without certifying a sole religious motive or literal deathbed-only publication history.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 4.2, printed p. 208, Copernicus’s New System",
+          "support": "Says publication was shortly before his death and he feared criticism; does not establish a single exclusively religious motive."
+        }
+      ]
+    },
+    {
+      "targetId": "u5-b2-c2",
+      "field": "detail.zh",
+      "before": "按等级投票意味着前两个等级 2:1 永远压倒第三等级。",
+      "after": "按等级投票时，每个等级一票；如果第一与第二等级联合投票，就能以 2:1 压过第三等级。优势取决于两者投票一致，并非算术上“永远”自动如此。",
+      "reason": "Make the coalition condition explicit rather than presenting always as an arithmetic rule.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 5.4, printed pp. 285–286, Estates-General voting",
+          "support": "Establishes one vote per estate and describes the traditional alliance of the privileged estates; the correction states the necessary condition."
+        }
+      ]
+    },
+    {
+      "targetId": "u5-b2-c2",
+      "field": "detail.en",
+      "before": "Voting by order meant the first two estates would always outvote the Third, two to one.",
+      "after": "Under voting by order, each estate had one vote; if the First and Second Estates voted together, they could outvote the Third Estate two to one. That advantage depended on their voting together rather than being an automatic outcome.",
+      "reason": "Make the coalition condition explicit rather than presenting always as an arithmetic rule.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 5.4, printed pp. 285–286, Estates-General voting",
+          "support": "Establishes one vote per estate and describes the traditional alliance of the privileged estates; the correction states the necessary condition."
+        }
+      ]
+    },
+    {
+      "targetId": "u6-b2-c5",
+      "field": "detail.zh",
+      "before": "女性选举权要到 1918(30 岁以上)和 1928(与男性平等)。英国 1829 年 Catholic Emancipation;1833 年在帝国内废除奴隶制。",
+      "after": "英国 1918 年给予年满 30 岁且符合相关财产资格等条件的部分女性议会选举权；1928 年女性获得与男性相同年龄条件的选举权。英国另在 1829 年通过 Catholic Emancipation，1833 年通过帝国废奴立法。",
+      "reason": "Restore the omitted eligibility conditions; distinguish passage of abolition legislation from claiming every abolition provision took effect in 1833.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 6.8, printed p. 403, Gradual Expansion of Women’s Suffrage",
+          "support": "Gives the 1918/1928 sequence but omits property qualifications; the official parliamentary corroboration supplies the missing condition."
+        }
+      ],
+      "corroboration": [
+        {
+          "title": "UK Parliament, Representation of the People Act 1918",
+          "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/collections-the-vote-and-after/representation-of-the-people-act-1918/",
+          "role": "corrective corroboration; not a curriculum source",
+          "support": "Specifies minimum property qualifications for women over thirty; the parliamentary act is the source for eligibility rather than the simplified AMSCO summary."
+        }
+      ]
+    },
+    {
+      "targetId": "u6-b2-c5",
+      "field": "detail.en",
+      "before": "Women gained the vote only in 1918 (over 30) and 1928 (equal terms). Britain passed Catholic Emancipation in 1829 and abolished slavery in the empire in 1833.",
+      "after": "In Britain, the 1918 act enfranchised some women aged 30 and above who met the relevant property and other qualifications; in 1928 women gained voting rights on the same age terms as men. Britain also passed Catholic Emancipation in 1829 and imperial slavery-abolition legislation in 1833.",
+      "reason": "Restore the omitted eligibility conditions; distinguish passage of abolition legislation from claiming every abolition provision took effect in 1833.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 6.8, printed p. 403, Gradual Expansion of Women’s Suffrage",
+          "support": "Gives the 1918/1928 sequence but omits property qualifications; the official parliamentary corroboration supplies the missing condition."
+        }
+      ],
+      "corroboration": [
+        {
+          "title": "UK Parliament, Representation of the People Act 1918",
+          "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/parliamentary-collections/collections-the-vote-and-after/representation-of-the-people-act-1918/",
+          "role": "corrective corroboration; not a curriculum source",
+          "support": "Specifies minimum property qualifications for women over thirty; the parliamentary act is the source for eligibility rather than the simplified AMSCO summary."
+        }
+      ]
+    },
+    {
+      "targetId": "u9-b1-c1",
+      "field": "summary.zh",
+      "before": "苏联在东欧扶植共产党政权(\"卫星国\")→ Churchill\"Iron Curtain\"演讲(1946)→ 德国与 Berlin 分成四个占领区 → 1949 年分裂为 FRG(西德)和 GDR(东德)。",
+      "after": "德国战败后，德国与 Berlin 于 1945 年分为四个占领区。苏联在东欧支持建立共产党政权；Churchill 于 1946 年发表“Iron Curtain”演讲。1949 年德国分裂为 FRG（西德）与 GDR（东德）。",
+      "reason": "Correct the chronology rather than allow causal arrows to place the 1945 occupation division after a 1946 speech.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 8.8, printed p. 544, The Yalta Conference; Topic 9.3, division of Germany",
+          "support": "Yalta establishes the plan for four occupation zones in 1945; subsequent Cold War division must not precede it in the sequence."
+        }
+      ]
+    },
+    {
+      "targetId": "u9-b1-c1",
+      "field": "summary.en",
+      "before": "The USSR installed communist regimes in Eastern Europe (\"satellites\") → Churchill’s \"Iron Curtain\" speech (1946) → Germany and Berlin divided into four zones → in 1949 split into the FRG (West Germany) and the GDR (East Germany).",
+      "after": "After Germany’s defeat, Germany and Berlin were divided into four occupation zones in 1945. The Soviet Union supported communist regimes in Eastern Europe; Churchill gave his Iron Curtain speech in 1946. Germany split into the FRG (West Germany) and GDR (East Germany) in 1949.",
+      "reason": "Correct the chronology rather than allow causal arrows to place the 1945 occupation division after a 1946 speech.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 8.8, printed p. 544, The Yalta Conference; Topic 9.3, division of Germany",
+          "support": "Yalta establishes the plan for four occupation zones in 1945; subsequent Cold War division must not precede it in the sequence."
+        }
+      ]
+    },
+    {
+      "targetId": "u9-b3-c1",
+      "field": "summary.zh",
+      "before": "Gdańsk 船厂工人在 Lech Wałęsa 领导下成立独立工会 Solidarity(1980)→ 戒严(1981)但未被摧毁 → 波兰籍教皇 John Paul II 鼓舞 → 1989 年自由选举,Solidarity 大胜。",
+      "after": "Lech Wałęsa 领导 Gdańsk 船厂工人于 1980 年成立独立工会 Solidarity；1981 年戒严未将其摧毁，教皇 John Paul II 等提供支持。1989 年举行参议院完全自由、众议院部分自由的选举，Solidarity 在可竞争席位中大胜。",
+      "reason": "Qualify the 1989 elections by chamber rather than label the entire parliamentary election unrestricted.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 9.7, printed p. 611, Poland",
+          "support": "Supports the Solidarity narrative but calls the election free without the negotiated chamber restrictions; official Senate corroboration supplies the distinction."
+        }
+      ],
+      "corroboration": [
+        {
+          "title": "Senate of the Republic of Poland, 35th anniversary of the 1989 elections",
+          "url": "https://www.senat.gov.pl/aktualnoscilista/art,16240,35-rocznica-pierwszych-wolnych-i-demokratycznych-wyborow-do-senatu-w-1989-r-.html",
+          "role": "corrective corroboration; not a curriculum source",
+          "support": "Describes the June 1989 Sejm election as partly free and the Senate election as fully free."
+        }
+      ]
+    },
+    {
+      "targetId": "u9-b3-c1",
+      "field": "summary.en",
+      "before": "Gdańsk shipyard workers led by Lech Wałęsa formed Solidarity, an independent union (1980) → martial law (1981) failed to destroy it → inspired by the Polish pope John Paul II → in 1989 free elections brought Solidarity a landslide.",
+      "after": "Lech Wałęsa and Gdańsk shipyard workers founded the independent Solidarity union in 1980; martial law in 1981 failed to destroy it, and Pope John Paul II supported the movement. In 1989, fully free Senate and partly free Sejm elections brought Solidarity sweeping victories in the contested seats.",
+      "reason": "Qualify the 1989 elections by chamber rather than label the entire parliamentary election unrestricted.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 9.7, printed p. 611, Poland",
+          "support": "Supports the Solidarity narrative but calls the election free without the negotiated chamber restrictions; official Senate corroboration supplies the distinction."
+        }
+      ],
+      "corroboration": [
+        {
+          "title": "Senate of the Republic of Poland, 35th anniversary of the 1989 elections",
+          "url": "https://www.senat.gov.pl/aktualnoscilista/art,16240,35-rocznica-pierwszych-wolnych-i-demokratycznych-wyborow-do-senatu-w-1989-r-.html",
+          "role": "corrective corroboration; not a curriculum source",
+          "support": "Describes the June 1989 Sejm election as partly free and the Senate election as fully free."
+        }
+      ]
+    }
+  ]
+}
