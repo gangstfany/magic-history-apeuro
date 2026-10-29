@@ -11,42 +11,83 @@
         "connection": {
           "zh": "古典学习提供新的人文方法，但文艺复兴并非单一事件造成。",
           "en": "Classical learning informed new humanist approaches; the Renaissance had multiple causes."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u1-b1-c1",
+        "evidenceCardIds": [
+          "u1-b1-c1"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u1-b1-c6",
         "connection": {
-          "zh": "印刷提高文本复制和传播能力，扩大知识交流；不意味着所有人立即识字。",
-          "en": "Printing expanded the circulation of texts, without bringing immediate universal literacy."
-        }
+          "zh": "人文主义扩大了对古典文献、翻译和校勘的需求；印刷降低复制成本，使这些文本更容易流通。这里是知识需求与传播条件相互加强，并不是人文主义“发明了”印刷术。",
+          "en": "Humanist study increased demand for classical texts, translations and textual criticism; printing lowered copying costs and widened circulation. Demand and dissemination reinforced one another, rather than humanism inventing printing."
+        },
+        "fromCardId": "u1-b1-c1",
+        "toCardId": "u1-b1-c6",
+        "evidenceCardIds": [
+          "u1-b1-c1",
+          "u1-b1-c6"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u1-b3-c1",
         "connection": {
-          "zh": "与此同时，宗教、财富与王朝竞争共同推动海外探索，而非人文主义必然导致探索。",
-          "en": "Meanwhile, faith, profit and dynastic rivalry encouraged exploration; this was not an inevitable result of humanism."
-        }
+          "zh": "印刷扩大知识传播，与海外探索处于同一变动背景；但出海的直接动机是利润、传教与王朝竞争。两者不能写成“印刷出现，所以国家必然探索”。",
+          "en": "Printing widened the circulation of knowledge alongside exploration, but profit, evangelization and dynastic rivalry supplied motives for voyages. This is a connection in context, not a claim that printing necessarily caused exploration."
+        },
+        "fromCardId": "u1-b1-c6",
+        "toCardId": "u1-b3-c1",
+        "evidenceCardIds": [
+          "u1-b1-c6",
+          "u1-b3-c1"
+        ],
+        "relation": "parallel"
       },
       {
         "cardId": "u1-b3-c2",
         "connection": {
-          "zh": "导航技术与既有海洋知识为这些动机提供条件。",
-          "en": "Navigation technology and existing maritime knowledge helped turn motives into voyages."
-        }
+          "zh": "追求贸易、传教和竞争优势，使远航值得投入资源；罗盘、地图和船舶技术则降低部分航行风险，把出海愿望转化为更可行的行动。动机解释为何出发，技术解释如何远航。",
+          "en": "Trade, religious aims and rivalry encouraged investment in voyages; navigational knowledge and ships made those aims more feasible by reducing some risks. Motives explain why rulers and merchants sailed, while technology helps explain how."
+        },
+        "fromCardId": "u1-b3-c1",
+        "toCardId": "u1-b3-c2",
+        "evidenceCardIds": [
+          "u1-b3-c1",
+          "u1-b3-c2"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u1-b4-c3",
         "connection": {
-          "zh": "跨洋接触带来物种、疾病和人口流动，影响并不对称。",
-          "en": "Transatlantic contact produced unequal exchanges of organisms, disease and people."
-        }
+          "zh": "更可行的远航促成持续跨洋接触和殖民联系；人员与船只往返，才使作物、牲畜、病原体与人口跨大西洋流动。技术是条件，持续接触才是交换扩大的直接渠道。",
+          "en": "More feasible voyages enabled sustained transatlantic contact and colonial connections. Repeated movement of people and ships carried crops, animals, pathogens and populations across the Atlantic; technology enabled contact rather than itself moving species."
+        },
+        "fromCardId": "u1-b3-c2",
+        "toCardId": "u1-b4-c3",
+        "evidenceCardIds": [
+          "u1-b3-c2",
+          "u1-b4-c3"
+        ],
+        "relation": "cause"
       },
       {
         "cardId": "u1-b4-c4",
         "connection": {
-          "zh": "殖民生产与劳动力需求推动强迫迁移；奴役不是普通商品交换。",
-          "en": "Colonial production and labor demand expanded forced migration; enslavement was not ordinary commodity exchange."
-        }
+          "zh": "接触与殖民扩张改变人口和生产条件，但不能由“哥伦布交换”直接推出奴隶贸易。种植园利润、劳动力需求、殖民权力和暴力奴役共同扩大了强迫迁移；疾病造成的人口损失只是背景之一。",
+          "en": "Contact and colonization changed demographic and production conditions, but the Columbian Exchange did not automatically produce the slave trade. Plantation profits, labor demand, colonial power and violent enslavement expanded forced migration; demographic loss was only part of the context."
+        },
+        "fromCardId": "u1-b4-c3",
+        "toCardId": "u1-b4-c4",
+        "evidenceCardIds": [
+          "u1-b4-c3",
+          "u1-b4-c4"
+        ],
+        "relation": "condition"
       }
     ],
     "id": "u1-exchange",
@@ -82,35 +123,69 @@
         "connection": {
           "zh": "法国王室通过领地、税收和教职任命扩大权力，体现制度性整合的具体机制。",
           "en": "The French crown used territory, taxation and church appointments to expand authority through specific institutions."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u1-b2-c3",
+        "evidenceCardIds": [
+          "u1-b2-c3"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u1-b2-c1",
         "connection": {
-          "zh": "作为比较，英格兰王室也压制贵族；随后与罗马决裂又改变了王权和教会的关系。",
-          "en": "As a comparison, the English crown also restrained nobles; the later break with Rome altered relations between crown and Church."
-        }
+          "zh": "比较法国与英格兰：法国王室通过领地、税收和教职影响力加强统治；都铎王室则压制贵族，并在后来与罗马决裂。共同点是扩大王权，不同点是处理贵族与教会的制度工具；法国的整合并未造成英国的变化。",
+          "en": "Compare royal consolidation: French rulers expanded lands, taxes and influence over church appointments; Tudor rulers restrained nobles and later broke with Rome. Both strengthened monarchy through different institutional tools. French consolidation did not cause English developments."
+        },
+        "fromCardId": "u1-b2-c3",
+        "toCardId": "u1-b2-c1",
+        "evidenceCardIds": [
+          "u1-b2-c3",
+          "u1-b2-c1"
+        ],
+        "relation": "comparison"
       },
       {
         "cardId": "u1-b2-c2",
         "connection": {
-          "zh": "西班牙的王朝联合与宗教政策提供另一种整合方式，不是法国或英国变化直接造成的结果。",
-          "en": "Spanish dynastic union and religious policy offered another means of consolidation, not a direct consequence of French or English developments."
-        }
+          "zh": "英格兰的王权整合可与西班牙的王朝联合和宗教政策对照：两者都服务于统治整合，但王朝联合不等于所有地方制度立即统一，也不是英国改革的结果。",
+          "en": "English consolidation can be compared with Spain's dynastic union and religious policies. Both served royal integration, but dynastic union did not immediately erase separate local institutions and was not a consequence of English reform."
+        },
+        "fromCardId": "u1-b2-c1",
+        "toCardId": "u1-b2-c2",
+        "evidenceCardIds": [
+          "u1-b2-c1",
+          "u1-b2-c2"
+        ],
+        "relation": "comparison"
       },
       {
         "cardId": "u1-b2-c4",
         "connection": {
-          "zh": "德意志诸侯和帝国制度限制皇帝集中权力，显示类似压力并不产生相同国家结构。",
-          "en": "German princes and imperial institutions limited centralization, showing that similar pressures did not produce identical state structures."
-        }
+          "zh": "西班牙王朝整合与神圣罗马帝国的分权形成对照：诸侯权利、选举和帝国制度限制皇帝集中权力。相似的统治压力产生不同结果，说明制度结构会改变国家建构的路径。",
+          "en": "Spain's dynastic consolidation contrasts with the decentralized Holy Roman Empire, where princely rights, elections and imperial institutions constrained the emperor. Different structures channeled similar governing pressures toward different outcomes."
+        },
+        "fromCardId": "u1-b2-c2",
+        "toCardId": "u1-b2-c4",
+        "evidenceCardIds": [
+          "u1-b2-c2",
+          "u1-b2-c4"
+        ],
+        "relation": "comparison"
       },
       {
         "cardId": "u1-b2-c5",
         "connection": {
-          "zh": "这些权力问题也进入主权和国家间关系的理论讨论；理论不能简单等同于各国实际制度。",
-          "en": "Questions of authority also entered theories of sovereignty and interstate relations; those theories were not identical to actual institutions."
-        }
+          "zh": "前面的国家案例提出同一问题：最高统治权属于谁，国家之间如何相处？Bodin 的主权讨论与 Grotius 的国家间规范回应这些权力问题；它们是分析语言，并非帝国分权“必然产生”的理论。",
+          "en": "The preceding cases raise questions about supreme authority and relations among states. Bodin's sovereignty and Grotius's rules for interstate relations address those problems; they supply analytical arguments, not inevitable products of imperial decentralization."
+        },
+        "fromCardId": "u1-b2-c4",
+        "toCardId": "u1-b2-c5",
+        "evidenceCardIds": [
+          "u1-b2-c4",
+          "u1-b2-c5"
+        ],
+        "relation": "synthesis"
       }
     ]
   },
@@ -136,42 +211,83 @@
         "connection": {
           "zh": "利润、信仰与王朝竞争构成探索动机，不能把出海归结为单一原因。",
           "en": "Profit, faith and dynastic competition supplied motives for exploration rather than one sufficient cause."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u1-b3-c1",
+        "evidenceCardIds": [
+          "u1-b3-c1"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u1-b3-c2",
         "connection": {
-          "zh": "航海工具与海洋知识帮助把动机转为实际远航，技术本身并不决定征服。",
-          "en": "Maritime tools and knowledge helped turn motives into voyages; technology alone did not determine conquest."
-        }
+          "zh": "利润、传教和竞争使王室与商人愿意投入远航；导航工具、船舶和海洋知识降低部分风险，才把动机变成可实行的航行。技术提供条件，并不单独决定征服。",
+          "en": "Profit, evangelization and rivalry encouraged sponsorship, while ships and navigational knowledge reduced some risks and made voyages feasible. Technology supplied enabling conditions; it did not by itself determine conquest."
+        },
+        "fromCardId": "u1-b3-c1",
+        "toCardId": "u1-b3-c2",
+        "evidenceCardIds": [
+          "u1-b3-c1",
+          "u1-b3-c2"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u1-b4-c1",
         "connection": {
-          "zh": "接触后发生的征服还依靠原住民盟友和疾病影响，军事优势只是部分解释。",
-          "en": "Conquest after contact also depended on Indigenous allies and disease; military advantages provide only part of the explanation."
-        }
+          "zh": "远航能力使欧洲人能够抵达并维持跨洋联系；征服能否成功，还取决于原住民盟友、当地政治矛盾、疾病与武力。到达美洲与建立殖民统治是两个需要分别解释的过程。",
+          "en": "Oceanic travel enabled arrival and sustained contact. Conquest also depended on Indigenous allies, local political divisions, disease and force. Reaching the Americas and establishing colonial control require different explanations."
+        },
+        "fromCardId": "u1-b3-c2",
+        "toCardId": "u1-b4-c1",
+        "evidenceCardIds": [
+          "u1-b3-c2",
+          "u1-b4-c1"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u1-b4-c2",
         "connection": {
-          "zh": "殖民权力通过劳役制度获取资源，并引发有关剥削和统治正当性的争议。",
-          "en": "Colonial authorities extracted resources through labor systems that also provoked disputes over exploitation and legitimate rule."
-        }
+          "zh": "征服确立殖民者支配土地与人口的权力，为 encomienda 等强制劳役安排提供执行条件；这些制度把军事控制转为资源获取，也引发 Las Casas 等人对剥削的批评。",
+          "en": "Conquest gave colonizers coercive control over land and populations, enabling labor arrangements such as encomienda. Such institutions converted conquest into resource extraction and provoked criticism of exploitation, including by Las Casas."
+        },
+        "fromCardId": "u1-b4-c1",
+        "toCardId": "u1-b4-c2",
+        "evidenceCardIds": [
+          "u1-b4-c1",
+          "u1-b4-c2"
+        ],
+        "relation": "cause"
       },
       {
         "cardId": "u1-b4-c4",
         "connection": {
-          "zh": "种植园劳动力需求与暴力奴役推动跨洋强迫迁移，不能把人口损失视为唯一解释。",
-          "en": "Plantation labor demands and violent enslavement expanded forced migration; population loss alone is not a sufficient explanation."
-        }
+          "zh": "殖民劳役制度显示统治者试图强制获取劳动，但 encomienda 并不是大西洋奴隶贸易的单一起源。种植园扩张、利润与不同殖民劳动安排共同扩大非洲人的被迫迁移。",
+          "en": "Colonial labor systems show attempts to coerce work, but encomienda was not the single origin of the Atlantic slave trade. Plantation expansion, profits and different colonial labor arrangements expanded the forced migration of Africans."
+        },
+        "fromCardId": "u1-b4-c2",
+        "toCardId": "u1-b4-c4",
+        "evidenceCardIds": [
+          "u1-b4-c2",
+          "u1-b4-c4"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u1-b4-c7",
         "connection": {
-          "zh": "海外贸易与殖民竞争也促进公司、金融和国家商业政策发展；增长成果分配极不平等。",
-          "en": "Overseas trade and colonial competition also encouraged companies, finance and state commercial policies, with highly unequal gains."
-        }
+          "zh": "奴隶贸易与殖民商品生产为部分港口、商人和国家带来收益，并与航运、金融和特许公司相互联系；国家因此争夺贸易与殖民优势。商业增长以强迫劳动和极不平等的利益分配为重要代价。",
+          "en": "Slave trading and colonial production generated profits for some ports, merchants and states and connected with shipping, finance and chartered companies. States competed for commercial advantage; growth depended in important ways on coercion and unequal distribution."
+        },
+        "fromCardId": "u1-b4-c4",
+        "toCardId": "u1-b4-c7",
+        "evidenceCardIds": [
+          "u1-b4-c4",
+          "u1-b4-c7"
+        ],
+        "relation": "cause"
       }
     ]
   },
@@ -187,42 +303,83 @@
         "connection": {
           "zh": "教会弊端与早期批评构成背景，改革还有政治与社会条件。",
           "en": "Church abuses and earlier criticism formed a background alongside political and social conditions."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u2-b1-c1",
+        "evidenceCardIds": [
+          "u2-b1-c1"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u2-b1-c2",
         "connection": {
-          "zh": "赎罪券争议成为路德公开批评的具体触发点。",
-          "en": "The indulgence controversy became a specific trigger for Luther’s public criticism."
-        }
+          "zh": "教会弊端与既有批评削弱部分信众对教会实践的信任；赎罪券争议把这些不满集中到一个可公开辩论的问题上，成为路德提出《九十五条论纲》的具体触发点。",
+          "en": "Abuses and earlier criticism weakened confidence in church practices. The indulgence controversy concentrated those grievances into a public dispute and provided the immediate occasion for Luther's Ninety-Five Theses."
+        },
+        "fromCardId": "u2-b1-c1",
+        "toCardId": "u2-b1-c2",
+        "evidenceCardIds": [
+          "u2-b1-c1",
+          "u2-b1-c2"
+        ],
+        "relation": "cause"
       },
       {
         "cardId": "u2-b1-c4",
         "connection": {
-          "zh": "皇帝与教会的反应使神学争论与诸侯政治交织。",
-          "en": "Imperial and ecclesiastical responses intertwined theology with princely politics."
-        }
+          "zh": "论纲及随后扩大传播的神学争论引来教会和皇帝的反应；沃尔姆斯会议要求路德收回主张，使宗教权威问题与皇帝、诸侯之间的政治关系交织。",
+          "en": "The theses and widening theological controversy provoked ecclesiastical and imperial responses. The Diet of Worms demanded recantation, entangling religious authority with the politics of emperor and princes."
+        },
+        "fromCardId": "u2-b1-c2",
+        "toCardId": "u2-b1-c4",
+        "evidenceCardIds": [
+          "u2-b1-c2",
+          "u2-b1-c4"
+        ],
+        "relation": "response"
       },
       {
         "cardId": "u2-b1-c6",
         "connection": {
-          "zh": "奥格斯堡和约提供有限的宗派安排，未解决所有群体的信仰权利。",
-          "en": "Augsburg offered a limited confessional settlement, not rights for every religious group."
-        }
+          "zh": "沃尔姆斯会议未能终止改革，诸侯的支持使新教继续存在；持续的政治和宗派冲突迫使帝国寻求妥协，奥格斯堡和约遂提供有限的宗派安排，而非普遍信仰自由。",
+          "en": "Worms did not end reform, and princely protection helped Protestantism survive. Continuing political and confessional conflict encouraged a negotiated settlement at Augsburg, which offered limited arrangements rather than universal religious freedom."
+        },
+        "fromCardId": "u2-b1-c4",
+        "toCardId": "u2-b1-c6",
+        "evidenceCardIds": [
+          "u2-b1-c4",
+          "u2-b1-c6"
+        ],
+        "relation": "response"
       },
       {
         "cardId": "u2-b3-c5",
         "connection": {
-          "zh": "持续的宗派与王朝竞争共同促成战争；宗教并非唯一原因。",
-          "en": "Continuing confessional and dynastic rivalries contributed to war; religion was not its only cause."
-        }
+          "zh": "奥格斯堡安排留下宗派与统治权争议，没有为所有群体解决信仰权利；这些未决问题后来与王朝和权力竞争交织，成为三十年战争的背景，并非和约本身直接造成战争。",
+          "en": "Augsburg left disputes over confession and authority unresolved and did not secure rights for every group. Those tensions later combined with dynastic and power rivalries as conditions for the Thirty Years' War; the settlement itself did not mechanically cause war."
+        },
+        "fromCardId": "u2-b1-c6",
+        "toCardId": "u2-b3-c5",
+        "evidenceCardIds": [
+          "u2-b1-c6",
+          "u2-b3-c5"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u2-b3-c6",
         "connection": {
-          "zh": "1648年的和约调整帝国内的权利与宗派安排，而非一夜建立现代主权体系。",
-          "en": "The 1648 settlements adjusted imperial rights and confessional arrangements rather than instantly creating modern sovereignty."
-        }
+          "zh": "长期战争的消耗提高了继续交战的代价，促使列强谈判；威斯特伐利亚和约调整帝国内的权利、宗派与政治安排。它回应战争，并未在一夜之间建立完整的现代主权体系。",
+          "en": "Prolonged warfare raised the costs of continued fighting and encouraged negotiation. Westphalia adjusted imperial rights, confessional arrangements and political relationships in response to the conflict, rather than creating a complete modern sovereign-state system overnight."
+        },
+        "fromCardId": "u2-b3-c5",
+        "toCardId": "u2-b3-c6",
+        "evidenceCardIds": [
+          "u2-b3-c5",
+          "u2-b3-c6"
+        ],
+        "relation": "response"
       }
     ],
     "id": "u2-reformation-conflict",
@@ -258,35 +415,69 @@
         "connection": {
           "zh": "路德关于信仰、经文和圣礼的主张改变宗教权威，但没有穷尽所有改革方案。",
           "en": "Luther’s views of faith, scripture and sacraments challenged religious authority without defining every possible reform program."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u2-b1-c3",
+        "evidenceCardIds": [
+          "u2-b1-c3"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u2-b2-c1",
         "connection": {
-          "zh": "慈运理与路德对圣餐的分歧妨碍合作，说明共同反对教皇并不足以统一信仰。",
-          "en": "Zwingli’s disagreement with Luther over communion obstructed cooperation despite their shared opposition to papal authority."
-        }
+          "zh": "路德与慈运理都反对教皇权威，但对圣餐等教义的分歧阻碍合作。共同反对同一权威，并不等于对信仰与礼仪拥有共同方案。",
+          "en": "Luther and Zwingli both opposed papal authority, yet disagreement over teachings such as the Eucharist obstructed cooperation. A common opponent did not produce a common program of belief and worship."
+        },
+        "fromCardId": "u2-b1-c3",
+        "toCardId": "u2-b2-c1",
+        "evidenceCardIds": [
+          "u2-b1-c3",
+          "u2-b2-c1"
+        ],
+        "relation": "comparison"
       },
       {
         "cardId": "u2-b2-c2",
         "connection": {
-          "zh": "加尔文的神学与日内瓦纪律形成另一种改革模式；它与路德改革并非简单的先后阶段。",
-          "en": "Calvin’s theology and Genevan discipline formed another reform model, not merely a later stage of Lutheranism."
-        }
+          "zh": "慈运理与加尔文可作为不同改革模式比较：神学主张必须通过城市政治、教会组织与纪律实践落实；日内瓦的安排并不是苏黎世改革自然发展的下一阶段。",
+          "en": "Zwingli and Calvin illustrate different reform models in which theology interacted with urban politics, church organization and discipline. Geneva was not the inevitable next stage of Zurich's reform."
+        },
+        "fromCardId": "u2-b2-c1",
+        "toCardId": "u2-b2-c2",
+        "evidenceCardIds": [
+          "u2-b2-c1",
+          "u2-b2-c2"
+        ],
+        "relation": "comparison"
       },
       {
         "cardId": "u2-b2-c3",
         "connection": {
-          "zh": "再洗礼派对洗礼和政教关系的不同主张，使他们受到天主教与其他新教力量的排斥。",
-          "en": "Anabaptist views of baptism and church-state relations brought persecution from both Catholic and other Protestant authorities."
-        }
+          "zh": "加尔文式改革与再洗礼派对洗礼、信仰群体和政教关系提出不同答案；再洗礼派因此受到多方排斥，说明“新教”内部也存在不可忽略的制度与信仰分歧。",
+          "en": "Calvinist reform and Anabaptists offered different answers about baptism, religious community and church-state relations. Anabaptist exclusion by multiple authorities reveals substantial divisions within the Protestant world."
+        },
+        "fromCardId": "u2-b2-c2",
+        "toCardId": "u2-b2-c3",
+        "evidenceCardIds": [
+          "u2-b2-c2",
+          "u2-b2-c3"
+        ],
+        "relation": "comparison"
       },
       {
         "cardId": "u2-b2-c4",
         "connection": {
-          "zh": "英格兰王朝和继承问题又让改革走向国家教会，表明政治条件与神学分歧共同塑造宗派。",
-          "en": "Dynastic and succession issues in England helped produce a national church, showing that politics worked alongside theological differences."
-        }
+          "zh": "再洗礼派强调的信仰共同体可与英格兰由王朝和继承问题推动的国家教会对照。宗派分化同时受到神学选择与政治条件塑造，不是某一派改革必然引出另一派。",
+          "en": "Anabaptist religious community contrasts with England's royal and succession-driven national church. Confessional diversity reflected theological choices and political conditions, not a necessary progression from one reform to another."
+        },
+        "fromCardId": "u2-b2-c3",
+        "toCardId": "u2-b2-c4",
+        "evidenceCardIds": [
+          "u2-b2-c3",
+          "u2-b2-c4"
+        ],
+        "relation": "comparison"
       }
     ]
   },
@@ -312,35 +503,69 @@
         "connection": {
           "zh": "教会弊端激发内部整顿与外部批评，但并不意味着所有改革者愿意接受同一套教义。",
           "en": "Church abuses encouraged internal reform and outside criticism without creating agreement on doctrine."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u2-b1-c1",
+        "evidenceCardIds": [
+          "u2-b1-c1"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u2-b3-c1",
         "connection": {
-          "zh": "耶稣会通过教育、纪律和传教恢复与扩展天主教影响，是回应挑战的一条组织路径。",
-          "en": "Jesuit education, discipline and missions renewed and extended Catholic influence as one organizational response to challenges."
-        }
+          "zh": "教会弊端与改革挑战提高了整顿和重建权威的需要；耶稣会以教育、纪律和传教扩大天主教的组织能力，体现一条回应挑战的路径。",
+          "en": "Abuses and reform challenges increased pressure to renew authority. Jesuit education, discipline and missions strengthened Catholic organizational capacity as one response to those challenges."
+        },
+        "fromCardId": "u2-b1-c1",
+        "toCardId": "u2-b3-c1",
+        "evidenceCardIds": [
+          "u2-b1-c1",
+          "u2-b3-c1"
+        ],
+        "relation": "response"
       },
       {
         "cardId": "u2-b3-c2",
         "connection": {
-          "zh": "特伦托会议与这些努力相互配合：纠正弊端，同时确认与新教相异的教义立场。",
-          "en": "Trent complemented such efforts by addressing abuses while reaffirming doctrines that differed from Protestant teachings."
-        }
+          "zh": "耶稣会的组织行动与特伦托会议的教义、纪律整顿相互支持，而非前者单独造成后者。教育和传教扩大影响，会议则明确改革边界及与新教的分歧。",
+          "en": "Jesuit organization and Trent's doctrinal and disciplinary work reinforced one another rather than forming a simple cause-and-effect sequence. Education and missions extended influence, while the council clarified reform and confessional differences."
+        },
+        "fromCardId": "u2-b3-c1",
+        "toCardId": "u2-b3-c2",
+        "evidenceCardIds": [
+          "u2-b3-c1",
+          "u2-b3-c2"
+        ],
+        "relation": "parallel"
       },
       {
         "cardId": "u2-b3-c3",
         "connection": {
-          "zh": "法国的宗教战争显示，教会整顿并不能消除宗派敌意和贵族权力竞争，两类矛盾互相交织。",
-          "en": "The French Wars of Religion show that church reform did not remove confessional hostility or competition among noble houses."
-        }
+          "zh": "特伦托整顿并未消除宗派分歧；法国的宗教对立又与贵族和王权竞争交织，导致战争。教会内部改革因此不能被当作宗派和平的充分条件。",
+          "en": "Trent's reforms did not remove confessional differences. In France, religious divisions intersected with competition among nobles and the crown, contributing to war. Internal church reform was not sufficient to secure confessional peace."
+        },
+        "fromCardId": "u2-b3-c2",
+        "toCardId": "u2-b3-c3",
+        "evidenceCardIds": [
+          "u2-b3-c2",
+          "u2-b3-c3"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u2-b4-c5",
         "connection": {
-          "zh": "宗派竞争也推动以情感和视觉说服信众的艺术实践；巴洛克还服务于王权，不能只归于宗教。",
-          "en": "Confessional competition also encouraged art that persuaded through emotion and spectacle; Baroque art served monarchs as well as churches."
-        }
+          "zh": "宗教战争与宗派竞争显示争取信众的重要性；巴洛克的视觉与情感表达成为说服和展示权威的手段之一。但法国战争不是巴洛克艺术的单一起源，王权也使用这种艺术。",
+          "en": "Wars and confessional rivalry heightened the importance of persuasion. Baroque visual and emotional expression offered one means of winning allegiance and displaying authority, but French wars were not its single origin and monarchies also used the style."
+        },
+        "fromCardId": "u2-b3-c3",
+        "toCardId": "u2-b4-c5",
+        "evidenceCardIds": [
+          "u2-b3-c3",
+          "u2-b4-c5"
+        ],
+        "relation": "parallel"
       }
     ]
   },
@@ -356,35 +581,69 @@
         "connection": {
           "zh": "财政、宗教与权力边界的争议使王室和议会关系紧张。",
           "en": "Disputes over finance, religion and authority strained relations between crown and Parliament."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u3-b1-c1",
+        "evidenceCardIds": [
+          "u3-b1-c1"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u3-b1-c2",
         "connection": {
-          "zh": "长期争执在具体政治危机中转化为内战，并非宪政的必经步骤。",
-          "en": "Accumulated disputes became civil war through particular crises, not an inevitable constitutional stage."
-        }
+          "zh": "斯图亚特王室与议会围绕财政、宗教及权力边界的争执破坏合作；具体政治危机使双方诉诸武力，争执遂转成内战，而非自然迈向宪政。",
+          "en": "Disputes over finance, religion and authority undermined cooperation between the Stuart crown and Parliament. Specific political crises turned disagreement into armed conflict, not an automatic march toward constitutional government."
+        },
+        "fromCardId": "u3-b1-c1",
+        "toCardId": "u3-b1-c2",
+        "evidenceCardIds": [
+          "u3-b1-c1",
+          "u3-b1-c2"
+        ],
+        "relation": "cause"
       },
       {
         "cardId": "u3-b1-c3",
         "connection": {
-          "zh": "议会胜利后出现共和国与护国政体，显示替代王权的安排也会集中权力。",
-          "en": "Parliamentary victory led to republican and protectorate experiments that could also concentrate power."
-        }
+          "zh": "议会军胜利使旧王权安排无法继续，政治力量试图以共和国和护国政体重建秩序；但新体制同样面临权力集中和合法性难题。",
+          "en": "Parliamentary victory made the old royal settlement untenable and prompted attempts to rebuild order through a commonwealth and protectorate. Those arrangements also struggled with concentrated power and legitimacy."
+        },
+        "fromCardId": "u3-b1-c2",
+        "toCardId": "u3-b1-c3",
+        "evidenceCardIds": [
+          "u3-b1-c2",
+          "u3-b1-c3"
+        ],
+        "relation": "response"
       },
       {
         "cardId": "u3-b1-c4",
         "connection": {
-          "zh": "复辟后的宗教与继承争议促成1688年的政权更替。",
-          "en": "Religious and succession conflicts after the Restoration contributed to the change of regime in 1688."
-        }
+          "zh": "共和国与护国政体之后经历王政复辟；复辟王朝的宗教与继承争议又激起反对，促成1688年的政权更替。不能从共和国直接跳到“光荣革命”而省略这段条件变化。",
+          "en": "The commonwealth and protectorate were followed by restoration. Religious and succession disputes under the restored monarchy helped generate opposition and the change of ruler in 1688; the intervening restoration matters to the explanation."
+        },
+        "fromCardId": "u3-b1-c3",
+        "toCardId": "u3-b1-c4",
+        "evidenceCardIds": [
+          "u3-b1-c3",
+          "u3-b1-c4"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u3-b1-c5",
         "connection": {
-          "zh": "权利法案及此后的制度演变限制王权；参与政治的权利依然有限。",
-          "en": "The Bill of Rights and subsequent institutions constrained the crown while political participation remained limited."
-        }
+          "zh": "1688年的政权更替为重新规定王权边界创造机会；权利法案及此后的内阁制度把限制逐步制度化，但议会政治仍只向有限群体开放。",
+          "en": "The change of ruler in 1688 opened an opportunity to redefine royal limits. The Bill of Rights and later cabinet development institutionalized constraints, while political participation remained restricted."
+        },
+        "fromCardId": "u3-b1-c4",
+        "toCardId": "u3-b1-c5",
+        "evidenceCardIds": [
+          "u3-b1-c4",
+          "u3-b1-c5"
+        ],
+        "relation": "response"
       }
     ],
     "id": "u3-english-constitution",
@@ -420,35 +679,69 @@
         "connection": {
           "zh": "轮作、工具和育种提高农业产出，为更多人口和市场交换提供条件，而非立即消除饥荒。",
           "en": "Crop rotation, tools and breeding raised output, supporting population and market exchange without immediately ending famine."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u3-b2-c1",
+        "evidenceCardIds": [
+          "u3-b2-c1"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u3-b2-c2",
         "connection": {
-          "zh": "土地整合与商业化提高部分经营效率，也使失去公地的农民更依赖工资收入。",
-          "en": "Land consolidation and commercialization increased some efficiencies while making displaced common users more dependent on wages."
-        }
+          "zh": "农业改良与面向市场的生产提高了整合土地的吸引力，圈地又使部分经营者更容易采用新方式；二者相互作用，不是所有地区都先“农业革命”再圈地。",
+          "en": "Agricultural improvements and market-oriented production increased incentives to consolidate land, while enclosure enabled some new practices. The processes interacted rather than following a universal innovations-then-enclosure sequence."
+        },
+        "fromCardId": "u3-b2-c1",
+        "toCardId": "u3-b2-c2",
+        "evidenceCardIds": [
+          "u3-b2-c1",
+          "u3-b2-c2"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u3-b2-c3",
         "connection": {
-          "zh": "商人利用农村家庭劳动组织生产，把市场需求连接到农业以外的收入来源。",
-          "en": "Merchants organized production through rural households, linking market demand to income beyond agriculture."
-        }
+          "zh": "失去公地与农业商业化使部分农村家庭更依赖现金收入；商人可以利用这种家庭劳动力组织包买制生产，把市场订单接入农村。圈地是条件之一，并不解释所有家庭工业。",
+          "en": "Loss of common rights and commercial agriculture made some rural households more dependent on cash income. Merchants used household labor for putting-out production, connecting orders to the countryside. Enclosure was one condition, not the origin of all cottage industry."
+        },
+        "fromCardId": "u3-b2-c2",
+        "toCardId": "u3-b2-c3",
+        "evidenceCardIds": [
+          "u3-b2-c2",
+          "u3-b2-c3"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u3-b2-c5",
         "connection": {
-          "zh": "荷兰贸易、航运和金融提供另一组商业组织条件，并非圈地必然产生的下一阶段。",
-          "en": "Dutch trade, shipping and finance offered another set of commercial institutions, not an inevitable stage after enclosure."
-        }
+          "zh": "把农村家庭生产与荷兰的航运、贸易和金融放在一起比较，可看到不同的商业组织方式。荷兰黄金时代不是包买制必然产生的结果，两者体现市场扩展的不同条件。",
+          "en": "Comparing rural household production with Dutch shipping, trade and finance reveals different forms of commercial organization. The Dutch Golden Age was not a necessary consequence of putting-out production."
+        },
+        "fromCardId": "u3-b2-c3",
+        "toCardId": "u3-b2-c5",
+        "evidenceCardIds": [
+          "u3-b2-c3",
+          "u3-b2-c5"
+        ],
+        "relation": "comparison"
       },
       {
         "cardId": "u3-b2-c4",
         "connection": {
-          "zh": "在商业竞争背景下，柯尔贝尔以关税和扶植产业服务国家利益，体现不同于荷兰共和国的政策选择。",
-          "en": "Amid commercial competition, Colbert used tariffs and industrial support to serve state interests through policies distinct from those of the Dutch Republic."
-        }
+          "zh": "荷兰商业优势构成法国竞争的背景；柯尔贝尔以关税、产业扶植和国家政策追求王权利益。这里比较商业共和国与君主国家的选择，而不是说荷兰制度直接产生法国政策。",
+          "en": "Dutch commercial strength formed part of France's competitive environment. Colbert used tariffs and state support to pursue royal interests, illustrating contrasting policy choices rather than a direct institutional descent from the Dutch Republic."
+        },
+        "fromCardId": "u3-b2-c5",
+        "toCardId": "u3-b2-c4",
+        "evidenceCardIds": [
+          "u3-b2-c5",
+          "u3-b2-c4"
+        ],
+        "relation": "comparison"
       }
     ]
   },
@@ -474,35 +767,69 @@
         "connection": {
           "zh": "路易十四的王权组织使王朝更有能力动员资源，但战争也反过来增加统治负担。",
           "en": "Louis XIV’s organization of royal power helped mobilize resources, while warfare imposed new burdens on his regime."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u3-b3-c1",
+        "evidenceCardIds": [
+          "u3-b3-c1"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u3-b4-c1",
         "connection": {
-          "zh": "法国的领土扩张威胁邻国利益，促使威廉组织反法联盟来限制其优势。",
-          "en": "French territorial expansion threatened neighboring interests and encouraged William’s anti-French coalitions."
-        }
+          "zh": "路易十四强化财政和统治动员，为长期战争提供部分资源；追求王朝领土与威望又把这些资源投入战争，战争反过来加重统治负担。",
+          "en": "Louis XIV's fiscal and governing capacity supplied some resources for prolonged war. Dynastic territorial and prestige ambitions directed resources toward fighting, which in turn increased burdens on the monarchy."
+        },
+        "fromCardId": "u3-b3-c1",
+        "toCardId": "u3-b4-c1",
+        "evidenceCardIds": [
+          "u3-b3-c1",
+          "u3-b4-c1"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u3-b4-c2",
         "connection": {
-          "zh": "西班牙王位继承又引发两国联合的担忧，乌得勒支和约用王冠分离限制王朝集中。",
-          "en": "The Spanish succession raised fears of a union of crowns; Utrecht constrained dynastic concentration by keeping those crowns separate."
-        }
+          "zh": "法国扩张使邻国担心力量失衡；西班牙王位继承又带来法国与西班牙王冠结合的风险，促使列强形成联盟干预，而非仅反对某一次领土行动。",
+          "en": "French expansion raised fears of imbalance. The Spanish succession added the prospect of combined French and Spanish crowns, encouraging coalition intervention beyond resistance to a single territorial move."
+        },
+        "fromCardId": "u3-b4-c1",
+        "toCardId": "u3-b4-c2",
+        "evidenceCardIds": [
+          "u3-b4-c1",
+          "u3-b4-c2"
+        ],
+        "relation": "cause"
       },
       {
         "cardId": "u3-b4-c3",
         "connection": {
-          "zh": "后来普鲁士夺取西里西亚制造了新的权力竞争，不能把此战视为乌得勒支自动导致的后果。",
-          "en": "Prussia’s later seizure of Silesia created a new rivalry rather than an automatic consequence of Utrecht."
-        }
+          "zh": "乌得勒支限制了一个王朝集中问题，却未消除欧洲权力竞争；后来奥地利继承危机与普鲁士夺取西里西亚形成新的争端。这是均势问题的延续，不是前一和约自动引发后一战争。",
+          "en": "Utrecht constrained one dynastic concentration without ending power competition. The Austrian succession crisis and Prussia's seizure of Silesia created a new dispute: a continuing balance-of-power problem, not an automatic result of the earlier treaty."
+        },
+        "fromCardId": "u3-b4-c2",
+        "toCardId": "u3-b4-c3",
+        "evidenceCardIds": [
+          "u3-b4-c2",
+          "u3-b4-c3"
+        ],
+        "relation": "parallel"
       },
       {
         "cardId": "u3-b4-c4",
         "connection": {
-          "zh": "新的利益组合促成外交重组；七年战争把欧洲均势竞争与北美、印度的帝国冲突结合。",
-          "en": "New combinations of interests encouraged diplomatic realignment; the Seven Years’ War linked European balance-of-power struggles with imperial conflicts in North America and India."
-        }
+          "zh": "西里西亚归属及列强安全利益持续冲突，促使外交联盟重新组合；七年战争把欧洲争端与北美、印度的帝国竞争联系起来，扩大了冲突范围。",
+          "en": "Continuing disputes over Silesia and security interests encouraged diplomatic realignment. The Seven Years' War connected European rivalries with imperial competition in North America and India, widening the conflict."
+        },
+        "fromCardId": "u3-b4-c3",
+        "toCardId": "u3-b4-c4",
+        "evidenceCardIds": [
+          "u3-b4-c3",
+          "u3-b4-c4"
+        ],
+        "relation": "cause"
       }
     ]
   },
@@ -518,42 +845,83 @@
         "connection": {
           "zh": "日心模型挑战传统宇宙解释，但科学变化来自多人的积累。",
           "en": "Heliocentrism challenged traditional cosmology; scientific change drew on many contributors."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u4-b1-c1",
+        "evidenceCardIds": [
+          "u4-b1-c1"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u4-b1-c4",
         "connection": {
-          "zh": "经验观察与理性推演发展出不同、也可互补的研究方法。",
-          "en": "Empirical observation and rational deduction developed as distinct, potentially complementary methods."
-        }
+          "zh": "哥白尼挑战传统宇宙模型，凸显知识需要如何证明的问题；培根和笛卡尔分别强调观察与理性推演。这里连接的是证据标准的变化，不是哥白尼直接产生了两人的方法。",
+          "en": "Copernicus's challenge raised questions about how knowledge should be justified. Bacon and Descartes emphasized observation and rational deduction respectively. The connection concerns changing standards of proof, not direct intellectual descent from Copernicus."
+        },
+        "fromCardId": "u4-b1-c1",
+        "toCardId": "u4-b1-c4",
+        "evidenceCardIds": [
+          "u4-b1-c1",
+          "u4-b1-c4"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u4-b1-c5",
         "connection": {
-          "zh": "牛顿综合前人研究，用数学规律解释自然运动。",
-          "en": "Newton synthesized earlier work through mathematical laws of motion."
-        }
+          "zh": "经验检验、数学和推演为新解释提供方法资源；牛顿综合前人的观测与数学研究，以共同规律解释运动。方法是条件，但成果仍依赖具体研究与证据。",
+          "en": "Empirical testing, mathematics and deduction supplied resources for new explanations. Newton synthesized earlier observations and mathematical work into common laws of motion; methods enabled research without predetermining its results."
+        },
+        "fromCardId": "u4-b1-c4",
+        "toCardId": "u4-b1-c5",
+        "evidenceCardIds": [
+          "u4-b1-c4",
+          "u4-b1-c5"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u4-b2-c1",
         "connection": {
-          "zh": "启蒙思想家把理性讨论用于政治与权利，观点并不完全一致。",
-          "en": "Enlightenment thinkers applied reason to politics and rights without sharing one uniform program."
-        }
+          "zh": "自然研究展示理性论证的力量，与政治领域的权利讨论形成共同思想背景；洛克的政府与权利论证并不是从牛顿定律直接推导出来，两者所处理的问题不同。",
+          "en": "Natural inquiry demonstrated the power of reason alongside political debates about rights. Locke's account of government was not deduced from Newton's laws: the two addressed different questions within a changing intellectual environment."
+        },
+        "fromCardId": "u4-b1-c5",
+        "toCardId": "u4-b2-c1",
+        "evidenceCardIds": [
+          "u4-b1-c5",
+          "u4-b2-c1"
+        ],
+        "relation": "parallel"
       },
       {
         "cardId": "u4-b3-c4",
         "connection": {
-          "zh": "印刷与阅读空间扩大公共讨论，但受阶级、性别和审查限制。",
-          "en": "Print and reading spaces expanded debate, constrained by class, gender and censorship."
-        }
+          "zh": "洛克等人的政治论证需要读者和讨论渠道才能扩散；印刷、识字与阅读空间使这些争论接触更广的公众，但阶级、性别和审查仍限制参与。",
+          "en": "Political arguments such as Locke's needed readers and channels of debate to circulate. Printing, literacy and reading spaces widened the public for discussion, while class, gender and censorship constrained participation."
+        },
+        "fromCardId": "u4-b2-c1",
+        "toCardId": "u4-b3-c4",
+        "evidenceCardIds": [
+          "u4-b2-c1",
+          "u4-b3-c4"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u4-b4-c4",
         "connection": {
-          "zh": "统治者选择性采纳改革；理性政治并未自动消除特权。",
-          "en": "Rulers adopted reform selectively; appeals to reason did not automatically remove privilege."
-        }
+          "zh": "扩大传播使改革意见进入公共讨论并触及统治者；统治者仍按财政、权力与社会联盟选择性采纳。思想传播创造改革压力和语言，却不能自动取消特权。",
+          "en": "Wider circulation brought reform arguments into public discussion and to rulers. Rulers still selected reforms according to fiscal needs, power and social alliances. Dissemination supplied pressure and arguments without automatically abolishing privilege."
+        },
+        "fromCardId": "u4-b3-c4",
+        "toCardId": "u4-b4-c4",
+        "evidenceCardIds": [
+          "u4-b3-c4",
+          "u4-b4-c4"
+        ],
+        "relation": "response"
       }
     ],
     "id": "u4-reason-public",
@@ -589,42 +957,83 @@
         "connection": {
           "zh": "日心模型改变了要解释的问题，但保留圆轨道，仍需要更精确的观察和模型修正。",
           "en": "The heliocentric model changed the explanatory problem but retained circular orbits, leaving room for further observation and revision."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u4-b1-c1",
+        "evidenceCardIds": [
+          "u4-b1-c1"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u4-b1-c2",
         "connection": {
-          "zh": "第谷的观测为开普勒的数学模型提供材料，椭圆轨道说明证据可以迫使理论改变。",
-          "en": "Brahe’s observations supplied evidence for Kepler’s mathematics; elliptical orbits show how evidence could require theoretical revision."
-        }
+          "zh": "日心模型要求用更准确的证据解释天体运动；第谷的观测为开普勒提供资料，椭圆轨道修正了圆轨道假设。理论问题促使检验，观测又推动模型修改。",
+          "en": "The heliocentric problem called for more accurate explanations of celestial motion. Brahe's observations supplied Kepler with evidence for elliptical rather than circular orbits: questions prompted testing, and observations reshaped models."
+        },
+        "fromCardId": "u4-b1-c1",
+        "toCardId": "u4-b1-c2",
+        "evidenceCardIds": [
+          "u4-b1-c1",
+          "u4-b1-c2"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u4-b1-c3",
         "connection": {
-          "zh": "伽利略的望远镜证据扩大了对传统宇宙观的挑战，同时遭遇宗教权威的审查。",
-          "en": "Galileo’s telescopic evidence strengthened challenges to traditional cosmology while encountering religious censorship."
-        }
+          "zh": "开普勒的数学模型与伽利略的望远镜观测从不同方向挑战传统宇宙解释。二者是相互关联的证据积累，不应把编号理解为一人的成果直接造成另一人的发现。",
+          "en": "Kepler's mathematical models and Galileo's telescopic observations challenged traditional explanations in different ways. They represent related accumulations of evidence, not a claim that one numbered discovery directly caused the other."
+        },
+        "fromCardId": "u4-b1-c2",
+        "toCardId": "u4-b1-c3",
+        "evidenceCardIds": [
+          "u4-b1-c2",
+          "u4-b1-c3"
+        ],
+        "relation": "parallel"
       },
       {
         "cardId": "u4-b1-c4",
         "connection": {
-          "zh": "培根与笛卡尔分别强调经验和理性推演；这些方法与前述研究部分并行，不是一条统一发明顺序。",
-          "en": "Bacon and Descartes emphasized experience and deduction respectively; their methods partly developed alongside these investigations, not in one invention sequence."
-        }
+          "zh": "新观测与争论使“如何获得可靠知识”更加突出；培根和笛卡尔分别提出经验与理性的方案。方法讨论与科学研究部分并行，不是伽利略之后才统一出现的方法。",
+          "en": "New observations and disputes sharpened questions about reliable knowledge. Bacon and Descartes offered empirical and rational approaches alongside ongoing research, not a single method invented only after Galileo."
+        },
+        "fromCardId": "u4-b1-c3",
+        "toCardId": "u4-b1-c4",
+        "evidenceCardIds": [
+          "u4-b1-c3",
+          "u4-b1-c4"
+        ],
+        "relation": "synthesis"
       },
       {
         "cardId": "u4-b1-c5",
         "connection": {
-          "zh": "牛顿综合观测与数学，以共同规律解释天体和地面运动，扩大理论的解释范围。",
-          "en": "Newton combined observation and mathematics in common laws for celestial and terrestrial motion, extending the scope of explanation."
-        }
+          "zh": "经验、数学与理性方法为综合研究提供工具；牛顿把天体和地面运动纳入共同规律。解释范围的扩大来自方法与具体观测的结合，而不是单一哲学口号。",
+          "en": "Empirical, mathematical and rational methods supplied tools for synthesis. Newton brought celestial and terrestrial motion under common laws, expanding explanation through methods joined to observations rather than a single philosophical slogan."
+        },
+        "fromCardId": "u4-b1-c4",
+        "toCardId": "u4-b1-c5",
+        "evidenceCardIds": [
+          "u4-b1-c4",
+          "u4-b1-c5"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u4-b1-c6",
         "connection": {
-          "zh": "学会与期刊为交流和检验提供持续条件；其建立早于部分成果，组织与发现相互支持。",
-          "en": "Societies and journals sustained exchange and checking; some institutions preceded later discoveries, so organization and discovery reinforced one another."
-        }
+          "zh": "牛顿式成果需要交流和检验的共同体，学会与期刊也借持续交流支持新研究。组织与发现相互促进；学会建立早于部分成果，不能画成“牛顿发现后才有学会”。",
+          "en": "Results such as Newton's depended on communities of exchange and scrutiny, while societies and journals sustained new research. Institutions and discoveries reinforced one another; societies predated some achievements and were not simply their later products."
+        },
+        "fromCardId": "u4-b1-c5",
+        "toCardId": "u4-b1-c6",
+        "evidenceCardIds": [
+          "u4-b1-c5",
+          "u4-b1-c6"
+        ],
+        "relation": "parallel"
       }
     ]
   },
@@ -650,35 +1059,69 @@
         "connection": {
           "zh": "伏尔泰对宽容的主张为改革提供思想语言，但认同思想不等于同意分享政治权力。",
           "en": "Voltaire’s arguments for toleration supplied a language of reform without necessarily requiring rulers to share political power."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u4-b2-c3",
+        "evidenceCardIds": [
+          "u4-b2-c3"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u4-b4-c1",
         "connection": {
-          "zh": "腓特烈的法律和宗教改革与继续依赖容克和农奴制并存，显示改革的选择性。",
-          "en": "Frederick’s legal and religious reforms coexisted with reliance on Junkers and serfdom, demonstrating selective change."
-        }
+          "zh": "伏尔泰的宽容主张提供改革语言；腓特烈的法律与宗教改革可据此考察，但继续依赖容克和农奴制说明接受部分思想不等于分享政治权力。",
+          "en": "Voltaire's advocacy of tolerance supplied a language of reform. Frederick's legal and religious measures can be examined against it, while reliance on Junkers and serfdom shows that partial intellectual agreement did not mean sharing power."
+        },
+        "fromCardId": "u4-b2-c3",
+        "toCardId": "u4-b4-c1",
+        "evidenceCardIds": [
+          "u4-b2-c3",
+          "u4-b4-c1"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u4-b4-c2",
         "connection": {
-          "zh": "作为另一种回应，约瑟夫二世更激进的改革遭遇既得利益抵抗，部分成果随后被撤回。",
-          "en": "In a different response, Joseph II’s more radical reforms met resistance from established interests, and some measures were later reversed."
-        }
+          "zh": "比较普鲁士与哈布斯堡改革：统治者都试图改善治理，却面对不同的特权结构和社会抵抗。约瑟夫二世较激进的措施遭遇反对，说明改革程度取决于政治支持，而不只是个人意愿。",
+          "en": "Prussian and Habsburg rulers sought better government but faced different privileged structures and resistance. Opposition to Joseph II's more radical measures shows that reform depended on political support as well as rulers' intentions."
+        },
+        "fromCardId": "u4-b4-c1",
+        "toCardId": "u4-b4-c2",
+        "evidenceCardIds": [
+          "u4-b4-c1",
+          "u4-b4-c2"
+        ],
+        "relation": "comparison"
       },
       {
         "cardId": "u4-b4-c3",
         "connection": {
-          "zh": "叶卡捷琳娜在普加乔夫起义后更依赖贵族，说明对社会动荡的担忧会改变改革取向。",
-          "en": "Catherine’s greater reliance on nobles after Pugachev’s revolt shows how fear of unrest could redirect reform."
-        }
+          "zh": "哈布斯堡改革的阻力可与俄国统治者对动荡的反应比较；叶卡捷琳娜在起义后更依赖贵族。两国案例共同显示，维护统治联盟可能压过改革理想。",
+          "en": "Resistance to Habsburg reforms can be compared with Russia's response to unrest. Catherine's increased reliance on nobles after rebellion illustrates how preserving ruling alliances could outweigh reforming ideals."
+        },
+        "fromCardId": "u4-b4-c2",
+        "toCardId": "u4-b4-c3",
+        "evidenceCardIds": [
+          "u4-b4-c2",
+          "u4-b4-c3"
+        ],
+        "relation": "comparison"
       },
       {
         "cardId": "u4-b4-c4",
         "connection": {
-          "zh": "比较这些案例可见，启蒙语言和维持绝对权力能够并存，制度与社会联盟决定改革边界。",
-          "en": "Together these cases show that Enlightenment language could coexist with absolute power, with institutions and social alliances setting limits."
-        }
+          "zh": "把普鲁士、哈布斯堡和俄国案例合起来，可见改革边界取决于财政、特权和社会联盟。君主能够采用启蒙语言而继续集中权力，因此不能把“启蒙专制”视为通往民主的必经阶段。",
+          "en": "Together, the Prussian, Habsburg and Russian cases show limits imposed by finance, privilege and social alliances. Rulers could adopt Enlightenment language while retaining concentrated power; enlightened absolutism was not a necessary stage toward democracy."
+        },
+        "fromCardId": "u4-b4-c3",
+        "toCardId": "u4-b4-c4",
+        "evidenceCardIds": [
+          "u4-b4-c3",
+          "u4-b4-c4"
+        ],
+        "relation": "synthesis"
       }
     ]
   },
@@ -694,42 +1137,83 @@
         "connection": {
           "zh": "财政危机、社会特权与政治思想共同形成革命背景。",
           "en": "Fiscal crisis, social privilege and political ideas jointly formed the revolutionary background."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u5-b2-c1",
+        "evidenceCardIds": [
+          "u5-b2-c1"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u5-b2-c2",
         "connection": {
-          "zh": "代表权争议把财政会议转向主权与制宪问题。",
-          "en": "Disputes over representation turned a fiscal assembly into a contest over sovereignty and constitutions."
-        }
+          "zh": "财政危机迫使王室寻求新的筹资办法并召集三级会议；代表权和表决方式争议又使会议转向“谁代表国家”的问题，推动国民议会出现。",
+          "en": "Fiscal crisis forced the crown to seek revenue through the Estates-General. Disputes over representation and voting shifted the meeting toward who represented the nation, encouraging the formation of a National Assembly."
+        },
+        "fromCardId": "u5-b2-c1",
+        "toCardId": "u5-b2-c2",
+        "evidenceCardIds": [
+          "u5-b2-c1",
+          "u5-b2-c2"
+        ],
+        "relation": "cause"
       },
       {
         "cardId": "u5-b2-c3",
         "connection": {
-          "zh": "城市和乡村的行动加速旧制度特权的瓦解。",
-          "en": "Urban and rural action accelerated the dismantling of Old Regime privileges."
-        }
+          "zh": "议会的主权与制宪主张面临王室反应及社会危机；巴黎群众和乡村行动改变政治力量对比，推动议会废除旧特权。制度争论与民众动员相互作用，而非单靠议会决议。",
+          "en": "Claims to national authority and constitution-making confronted royal responses and social crisis. Urban and rural action shifted political leverage and pushed the Assembly against privileges; institutional debate interacted with popular mobilization."
+        },
+        "fromCardId": "u5-b2-c2",
+        "toCardId": "u5-b2-c3",
+        "evidenceCardIds": [
+          "u5-b2-c2",
+          "u5-b2-c3"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u5-b2-c5",
         "connection": {
-          "zh": "战争、王权危机与群众政治推动共和化和激进化。",
-          "en": "War, the crisis of monarchy and popular politics contributed to republicanism and radicalization."
-        }
+          "zh": "特权瓦解并未解决君主是否可信、革命是否安全的问题；战争、王权危机与群众政治进一步削弱君主制，推动共和国与激进化。前一阶段只是条件，不能省略中间的政治选择。",
+          "en": "Dismantling privileges did not settle trust in the king or the security of the revolution. War, royal crisis and popular politics further undermined monarchy and encouraged republican radicalization. Earlier changes enabled rather than predetermined that outcome."
+        },
+        "fromCardId": "u5-b2-c3",
+        "toCardId": "u5-b2-c5",
+        "evidenceCardIds": [
+          "u5-b2-c3",
+          "u5-b2-c5"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u5-b2-c6",
         "connection": {
-          "zh": "危机中的革命政府以强制手段维护革命，引发权利与暴力的矛盾。",
-          "en": "The revolutionary government used coercion amid crisis, exposing tensions between rights and violence."
-        }
+          "zh": "共和国面临对外战争和内部反对，革命政府以紧急动员和强制手段应对；恐怖统治由这些危机与政治选择形成，不能当作宣称权利的必然后果。",
+          "en": "Facing foreign war and internal opposition, revolutionary authorities resorted to emergency mobilization and coercion. Terror emerged from crises and political choices, not as the inevitable consequence of declaring rights."
+        },
+        "fromCardId": "u5-b2-c5",
+        "toCardId": "u5-b2-c6",
+        "evidenceCardIds": [
+          "u5-b2-c5",
+          "u5-b2-c6"
+        ],
+        "relation": "response"
       },
       {
         "cardId": "u5-b3-c3",
         "connection": {
-          "zh": "督政府时期的不稳定为拿破仑崛起提供条件，结果并非预先注定。",
-          "en": "Instability under the Directory helped Napoleon rise, without making that outcome predetermined."
-        }
+          "zh": "恐怖统治后的反弹及督政府的不稳定削弱了政权合法性；拿破仑以战功和秩序承诺获得政治机会。这里经过热月与督政府的变化，不是恐怖统治直接或必然产生独裁。",
+          "en": "The reaction after Terror and instability under the Directory weakened legitimacy. Napoleon's military reputation and promises of order supplied a political opportunity. Thermidor and the Directory mediate the connection; dictatorship was not an automatic outcome of Terror."
+        },
+        "fromCardId": "u5-b2-c6",
+        "toCardId": "u5-b3-c3",
+        "evidenceCardIds": [
+          "u5-b2-c6",
+          "u5-b3-c3"
+        ],
+        "relation": "condition"
       }
     ],
     "id": "u5-french-revolution",
@@ -765,42 +1249,83 @@
         "connection": {
           "zh": "殖民贸易为港口和商人创造财富，但收益分配不能直接等同于国家获得充足收入。",
           "en": "Colonial trade enriched ports and merchants without automatically supplying sufficient revenue to the state."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u5-b1-c1",
+        "evidenceCardIds": [
+          "u5-b1-c1"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u5-b1-c2",
         "connection": {
-          "zh": "英国公共信用和法国财政制度的差异，解释类似战争压力为何带来不同借款成本。",
-          "en": "Differences between British public credit and French finance help explain why similar war pressures carried different borrowing costs."
-        }
+          "zh": "大西洋贸易创造财富，但财富能否转为战争资金取决于财政与信用制度；英国公共信用使国家较容易借款，说明商业繁荣与国家筹资能力之间需要制度连接。",
+          "en": "Atlantic trade created wealth, but turning wealth into war finance depended on fiscal and credit institutions. British public credit facilitated borrowing, showing the institutional link needed between commercial prosperity and state financing."
+        },
+        "fromCardId": "u5-b1-c1",
+        "toCardId": "u5-b1-c2",
+        "evidenceCardIds": [
+          "u5-b1-c1",
+          "u5-b1-c2"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u5-b1-c3",
         "connection": {
-          "zh": "英国海军与殖民优势加剧列强竞争，贸易保护与战争支出相互联系。",
-          "en": "British naval and colonial advantages intensified great-power rivalry, linking trade protection with military expenditure."
-        }
+          "zh": "较强的公共信用帮助英国持续筹措海军与战争经费；海军又保护贸易和殖民优势。信用、战争与商业相互强化，并非银行成立本身就保证霸权。",
+          "en": "Public credit helped Britain finance fleets and wars over time, while naval force protected trade and colonial advantages. Credit, warfare and commerce reinforced one another; a bank alone did not guarantee dominance."
+        },
+        "fromCardId": "u5-b1-c2",
+        "toCardId": "u5-b1-c3",
+        "evidenceCardIds": [
+          "u5-b1-c2",
+          "u5-b1-c3"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u5-b1-c4",
         "connection": {
-          "zh": "法国援助美国独立战争使既有债务压力加重，同时带来新的政治思想示例。",
-          "en": "French support for American independence increased existing debt pressures while also offering an example of new political principles."
-        }
+          "zh": "英国的殖民和海军优势使法国有动机支持其北美对手；法国援助美国独立战争既追求削弱英国，也加重本国既有财政负担。对外竞争由此转成内部债务压力。",
+          "en": "British naval and colonial strength gave France an incentive to aid Britain's North American opponents. Supporting American independence sought to weaken Britain but increased France's existing financial burdens, connecting external rivalry with domestic debt pressure."
+        },
+        "fromCardId": "u5-b1-c3",
+        "toCardId": "u5-b1-c4",
+        "evidenceCardIds": [
+          "u5-b1-c3",
+          "u5-b1-c4"
+        ],
+        "relation": "cause"
       },
       {
         "cardId": "u5-b2-c1",
         "connection": {
-          "zh": "债务与税收特权、粮食危机相互作用，把财政困难扩大为旧制度的合法性危机。",
-          "en": "Debt interacted with tax privileges and food crisis, widening fiscal difficulty into a crisis of Old Regime legitimacy."
-        }
+          "zh": "援美战争加重债务，却不能单独解释法国革命；税收特权妨碍筹资，粮食危机与代表权争论又扩大不满，财政压力因此转成旧制度的合法性危机。",
+          "en": "War assistance increased debt but cannot alone explain the French Revolution. Tax privileges obstructed revenue, while food crisis and political grievances widened discontent, turning fiscal pressure into a crisis of legitimacy."
+        },
+        "fromCardId": "u5-b1-c4",
+        "toCardId": "u5-b2-c1",
+        "evidenceCardIds": [
+          "u5-b1-c4",
+          "u5-b2-c1"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u5-b2-c2",
         "connection": {
-          "zh": "召集三级会议并未自动解决筹资，代表权和表决方式争议反而打开制宪与主权问题。",
-          "en": "Calling the Estates-General did not automatically solve revenue problems; disputes over representation and voting opened questions of sovereignty and constitution-making."
-        }
+          "zh": "旧制度难以解决筹资和代表权问题，召集三级会议本为寻求财政出路；表决争执却使第三等级挑战政治代表资格，把财政会议转为制宪与主权斗争。",
+          "en": "Unable to settle finance and representation, the monarchy called the Estates-General for revenue. Voting disputes encouraged the Third Estate to challenge political representation, turning a fiscal meeting into a struggle over sovereignty and a constitution."
+        },
+        "fromCardId": "u5-b2-c1",
+        "toCardId": "u5-b2-c2",
+        "evidenceCardIds": [
+          "u5-b2-c1",
+          "u5-b2-c2"
+        ],
+        "relation": "cause"
       }
     ]
   },
@@ -826,49 +1351,97 @@
         "connection": {
           "zh": "督政府的政治不稳定削弱合法性，为以军事威望寻求秩序的人物创造机会。",
           "en": "Political instability under the Directory weakened legitimacy and created opportunities for leaders promising order through military prestige."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u5-b2-c7",
+        "evidenceCardIds": [
+          "u5-b2-c7"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u5-b3-c3",
         "connection": {
-          "zh": "拿破仑把战功、政变与公民投票结合，逐步将革命后的政治安排转向个人统治。",
-          "en": "Napoleon combined military prestige, a coup and plebiscites to turn post-revolutionary institutions toward personal rule."
-        }
+          "zh": "督政府依赖军事力量维持秩序却缺乏稳定支持，给有战功的拿破仑提供机会；他结合政变、威望与公民投票夺取并巩固权力，不能只归因于个人才能。",
+          "en": "The Directory's dependence on force and unstable support created an opening for a successful general. Napoleon combined a coup, military reputation and plebiscites to acquire and consolidate power; personal ability alone is not the explanation."
+        },
+        "fromCardId": "u5-b2-c7",
+        "toCardId": "u5-b3-c3",
+        "evidenceCardIds": [
+          "u5-b2-c7",
+          "u5-b3-c3"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u5-b3-c4",
         "connection": {
-          "zh": "法典保留部分革命成果，审查和父权制度又限制自由与平等，不能简单归类为全盘延续或背叛。",
-          "en": "The Civil Code preserved some revolutionary gains while censorship and patriarchy limited liberty and equality, defying an all-or-nothing judgment."
-        }
+          "zh": "取得权力后，拿破仑需要建立持久秩序；法典与行政整合保留部分革命成果，审查和父权安排又限制自由。国内政策回应了稳定需求，同时服务个人统治。",
+          "en": "After taking power, Napoleon sought durable order. Legal and administrative consolidation retained some revolutionary changes, while censorship and patriarchal rules restricted freedom. Domestic measures served stability and personal rule together."
+        },
+        "fromCardId": "u5-b3-c3",
+        "toCardId": "u5-b3-c4",
+        "evidenceCardIds": [
+          "u5-b3-c3",
+          "u5-b3-c4"
+        ],
+        "relation": "response"
       },
       {
         "cardId": "u5-b3-c5",
         "connection": {
-          "zh": "军事扩张传播制度变化，也加强对被征服地区的控制；对英国的竞争推动大陆封锁。",
-          "en": "Military expansion spread institutional changes and strengthened control of conquered territories; rivalry with Britain encouraged the Continental System."
-        }
+          "zh": "国内行政与资源动员支持帝国战争；军事扩张又把部分制度变化带到被征服地区，同时带来控制和征收。不能把法律改革直接当作扩张原因，王朝与战略目标也重要。",
+          "en": "Administrative and resource mobilization supported imperial warfare. Expansion carried some institutional changes abroad alongside control and extraction. Legal reform did not itself cause conquest; dynastic and strategic aims also mattered."
+        },
+        "fromCardId": "u5-b3-c4",
+        "toCardId": "u5-b3-c5",
+        "evidenceCardIds": [
+          "u5-b3-c4",
+          "u5-b3-c5"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u5-b3-c6",
         "connection": {
-          "zh": "抵抗、战争消耗和俄罗斯远征失败共同削弱帝国，联盟行动最终结束其统治。",
-          "en": "Resistance, military exhaustion and failure in Russia weakened the empire, while coalition action ultimately ended Napoleon’s rule."
-        }
+          "zh": "帝国扩张增加统治和战争负担，抵抗、经济封锁的冲突及俄罗斯远征失败又削弱军力；联盟继续作战，才把这些压力转为帝国崩溃。",
+          "en": "Expansion increased governing and military burdens. Resistance, conflicts over economic blockade and the failed Russian campaign weakened Napoleon, while continuing coalition warfare turned those pressures into imperial collapse."
+        },
+        "fromCardId": "u5-b3-c5",
+        "toCardId": "u5-b3-c6",
+        "evidenceCardIds": [
+          "u5-b3-c5",
+          "u5-b3-c6"
+        ],
+        "relation": "cause"
       },
       {
         "cardId": "u5-b4-c1",
         "connection": {
-          "zh": "维也纳会议通过合法性与均势安排回应长期战争，而非单纯恢复所有旧边界。",
-          "en": "Vienna responded to prolonged warfare through legitimacy and balance-of-power arrangements rather than simply restoring every old border."
-        }
+          "zh": "拿破仑战争与战败留下安全和合法性问题，列强在维也纳寻求王朝恢复、领土调整与均势；会议是对战争经验的回应，而非简单把地图恢复到过去。",
+          "en": "Napoleonic warfare and defeat left security and legitimacy problems. At Vienna, powers pursued dynastic restoration, territorial adjustment and balance in response to those experiences, not a simple return to an earlier map."
+        },
+        "fromCardId": "u5-b3-c6",
+        "toCardId": "u5-b4-c1",
+        "evidenceCardIds": [
+          "u5-b3-c6",
+          "u5-b4-c1"
+        ],
+        "relation": "response"
       },
       {
         "cardId": "u5-b4-c2",
         "connection": {
-          "zh": "欧洲协调把维持秩序转为持续外交合作，但列强对革命和干预并非始终一致。",
-          "en": "The Concert turned the pursuit of order into continuing diplomatic cooperation without making the powers agree on every revolution or intervention."
-        }
+          "zh": "维也纳的均势安排需要持续协调才能维持；欧洲协调和联盟把一次和会延伸为外交合作，但列强对革命与干预的利益并不始终一致。",
+          "en": "Vienna's settlement required continuing coordination. Concert diplomacy and alliances extended the peace conference into cooperation, while divergent interests prevented permanent agreement over revolution and intervention."
+        },
+        "fromCardId": "u5-b4-c1",
+        "toCardId": "u5-b4-c2",
+        "evidenceCardIds": [
+          "u5-b4-c1",
+          "u5-b4-c2"
+        ],
+        "relation": "response"
       }
     ]
   },
@@ -884,42 +1457,83 @@
         "connection": {
           "zh": "资源、资本、市场与制度等条件共同解释英国率先工业化。",
           "en": "Resources, capital, markets and institutions together help explain Britain’s early industrialization."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u6-b1-c1",
+        "evidenceCardIds": [
+          "u6-b1-c1"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u6-b1-c2",
         "connection": {
-          "zh": "技术、能源与交通互相强化，改变生产和流通。",
-          "en": "Technology, energy and transport reinforced one another, changing production and distribution."
-        }
+          "zh": "煤炭、资本、市场与制度为投资和采用新技术提供条件；纺织、蒸汽与铁路把这些条件转为更大的产能和流通能力。资源存在本身并不会自动建成工厂。",
+          "en": "Coal, capital, markets and institutions encouraged investment and technological adoption. Textiles, steam and railways translated those conditions into greater production and circulation; resources alone did not build factories automatically."
+        },
+        "fromCardId": "u6-b1-c1",
+        "toCardId": "u6-b1-c2",
+        "evidenceCardIds": [
+          "u6-b1-c1",
+          "u6-b1-c2"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u6-b2-c1",
         "connection": {
-          "zh": "工厂集中就业促进城市增长，也加剧住房和卫生压力。",
-          "en": "Factory employment encouraged urban growth and intensified housing and sanitation pressures."
-        }
+          "zh": "工厂和交通节点集中就业，吸引人口进入城市；城市增长快于住房、卫生与治理改善时，便扩大居住和公共卫生压力。工业化因此同时创造就业和社会问题。",
+          "en": "Factories and transport centers concentrated jobs and attracted urban migrants. When growth outpaced housing, sanitation and governance, living conditions deteriorated. Industrialization generated employment and social pressures together."
+        },
+        "fromCardId": "u6-b1-c2",
+        "toCardId": "u6-b2-c1",
+        "evidenceCardIds": [
+          "u6-b1-c2",
+          "u6-b2-c1"
+        ],
+        "relation": "cause"
       },
       {
         "cardId": "u6-b2-c4",
         "connection": {
-          "zh": "劳动处境促成不同的集体回应，而不是统一的工人运动。",
-          "en": "Working conditions encouraged varied collective responses rather than one uniform labor movement."
-        }
+          "zh": "拥挤、劳动风险和收入不稳促使工人寻求集体回应；破坏机器、宪章请愿与工会组织体现不同策略，不能把工人处境直接等同于统一政治纲领。",
+          "en": "Crowding, workplace risks and insecurity encouraged collective responses. Machine breaking, Chartist petitions and unions represented different strategies; shared hardship did not produce one uniform political program."
+        },
+        "fromCardId": "u6-b2-c1",
+        "toCardId": "u6-b2-c4",
+        "evidenceCardIds": [
+          "u6-b2-c1",
+          "u6-b2-c4"
+        ],
+        "relation": "response"
       },
       {
         "cardId": "u6-b2-c3",
         "connection": {
-          "zh": "改革压力与政治选择推动部分劳动立法，覆盖范围逐步变化。",
-          "en": "Reform pressure and political choices produced labor laws whose coverage changed over time."
-        }
+          "zh": "工人行动、社会调查和其他改革者的压力把劳动问题带入政治；政府选择以部分工厂法案限制童工等实践，立法与工人组织部分并行，而非单一组织直接取得所有改革。",
+          "en": "Worker action, investigation and other reformers brought labor problems into politics. Governments adopted partial factory restrictions, including on child labor. Legislation and organization overlapped rather than one movement securing every reform by itself."
+        },
+        "fromCardId": "u6-b2-c4",
+        "toCardId": "u6-b2-c3",
+        "evidenceCardIds": [
+          "u6-b2-c4",
+          "u6-b2-c3"
+        ],
+        "relation": "response"
       },
       {
         "cardId": "u6-b4-c4",
         "connection": {
-          "zh": "社会主义分析提供另一种结构性解释；思想与改革不是同一条必然路径。",
-          "en": "Socialist analysis offered a structural critique; ideas and reform did not follow one inevitable path."
-        }
+          "zh": "工厂法案试图在既有制度内改善劳动条件；马克思主义则从阶级关系解释资本主义矛盾。两者是对工业社会问题的不同回应，不能说工厂立法造成了马克思主义。",
+          "en": "Factory legislation sought improvements within existing institutions, while Marxism explained capitalism through class relations. They were different responses to industrial problems, not a causal sequence in which legislation produced Marxism."
+        },
+        "fromCardId": "u6-b2-c3",
+        "toCardId": "u6-b4-c4",
+        "evidenceCardIds": [
+          "u6-b2-c3",
+          "u6-b4-c4"
+        ],
+        "relation": "comparison"
       }
     ],
     "id": "u6-industry-society",
@@ -955,35 +1569,69 @@
         "connection": {
           "zh": "梅特涅以审查和干预保护旧秩序，但这种控制没有消除政治与民族诉求。",
           "en": "Metternich used censorship and intervention to protect the established order without eliminating political and national demands."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u6-b3-c1",
+        "evidenceCardIds": [
+          "u6-b3-c1"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u6-b3-c2",
         "connection": {
-          "zh": "希腊独立获得部分列强支持，显示保守外交也会为战略和宗教利益容许例外。",
-          "en": "Great-power support for Greek independence shows that conservative diplomacy could make exceptions for strategic and religious interests."
-        }
+          "zh": "审查、干预和王朝合法性政策限制自由派与民族诉求，却未消除不满；希腊独立和十二月党人展示不同挑战及不同列强回应，说明保守秩序有控制边界。",
+          "en": "Censorship, intervention and dynastic legitimacy constrained liberal and national demands without eliminating them. Greek independence and the Decembrists reveal different challenges and responses, exposing limits to conservative control."
+        },
+        "fromCardId": "u6-b3-c1",
+        "toCardId": "u6-b3-c2",
+        "evidenceCardIds": [
+          "u6-b3-c1",
+          "u6-b3-c2"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u6-b3-c3",
         "connection": {
-          "zh": "1830年的法国与比利时表明反动政策和民族诉求能够触发变动，但波兰的失败显示结果不同。",
-          "en": "France and Belgium in 1830 show how reactionary policies and national demands could trigger change, while Poland’s defeat demonstrates contrasting outcomes."
-        }
+          "zh": "此前挑战并未形成统一成功道路；1830年法国的反动政策与比利时民族诉求分别引发动荡，列强利益与当地力量影响结果。这里比较连续出现的挑战，而非希腊独立直接造成1830年革命。",
+          "en": "Earlier challenges did not establish a uniform path to success. Reaction in France and national demands in Belgium prompted upheaval in 1830, with local forces and international interests shaping outcomes; Greek independence did not directly cause those revolutions."
+        },
+        "fromCardId": "u6-b3-c2",
+        "toCardId": "u6-b3-c3",
+        "evidenceCardIds": [
+          "u6-b3-c2",
+          "u6-b3-c3"
+        ],
+        "relation": "parallel"
       },
       {
         "cardId": "u6-b3-c4",
         "connection": {
-          "zh": "1848年经济困境又与代表权诉求交织；法国革命内部的阶级分歧削弱共同阵线。",
-          "en": "Economic hardship intersected with demands for representation in 1848, while class divisions inside the French revolution weakened solidarity."
-        }
+          "zh": "1830年的变动留下参与政治与民族国家问题未决；1848年经济困难又与代表权诉求结合，在法国触发新革命。时间上的先后不是充分解释，必须加入新的社会经济条件。",
+          "en": "Changes in 1830 left questions of participation and nationhood unsettled. Economic distress combined with demands for representation in 1848 to trigger a new French revolution. Chronology alone is insufficient without those later conditions."
+        },
+        "fromCardId": "u6-b3-c3",
+        "toCardId": "u6-b3-c4",
+        "evidenceCardIds": [
+          "u6-b3-c3",
+          "u6-b3-c4"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u6-b3-c5",
         "connection": {
-          "zh": "中欧革命面对帝国军力、外部干预与内部目标冲突；部分改革延续，统一和自治目标却受挫。",
-          "en": "Central European revolutions faced imperial armies, outside intervention and conflicting aims; some reforms survived even as projects of unity and autonomy failed."
-        }
+          "zh": "法国革命为欧洲其他反对力量提供示例并扩大行动空间；中欧各地仍由自身的民族、阶级和帝国矛盾推动。军队、干预与内部目标冲突又使其结果不同于法国。",
+          "en": "The French revolution offered an example and widened opportunities elsewhere, but Central European movements also grew from local national, class and imperial conflicts. Armies, intervention and divisions helped produce different outcomes."
+        },
+        "fromCardId": "u6-b3-c4",
+        "toCardId": "u6-b3-c5",
+        "evidenceCardIds": [
+          "u6-b3-c4",
+          "u6-b3-c5"
+        ],
+        "relation": "condition"
       }
     ]
   },
@@ -1009,35 +1657,69 @@
         "connection": {
           "zh": "人口集中和公共卫生危机让工业城市的问题更明显，推动调查与公共治理讨论。",
           "en": "Population concentration and public-health crises made urban industrial problems visible and encouraged investigation and governance debates."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u6-b2-c1",
+        "evidenceCardIds": [
+          "u6-b2-c1"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u6-b2-c4",
         "connection": {
-          "zh": "不同工人群体通过抗议、请愿和工会组织争取改变，策略和目标并不一致。",
-          "en": "Workers pursued change through protest, petitions and unions, with different strategies and aims."
-        }
+          "zh": "城市生活和劳动压力使个人不满转为集体议题；工人通过请愿、抗议和工会组织争取改变，但不同群体选择的目标与手段并不相同。",
+          "en": "Urban and workplace pressures turned individual grievances into collective issues. Workers pursued petitions, protests and unions, while different groups chose different goals and methods."
+        },
+        "fromCardId": "u6-b2-c1",
+        "toCardId": "u6-b2-c4",
+        "evidenceCardIds": [
+          "u6-b2-c1",
+          "u6-b2-c4"
+        ],
+        "relation": "response"
       },
       {
         "cardId": "u6-b2-c3",
         "connection": {
-          "zh": "调查与改革压力推动部分劳动立法；这些法案和工人组织部分并行，不能排成统一时间顺序。",
-          "en": "Investigation and reform pressure encouraged labor legislation; laws and worker organization partly overlapped rather than following one uniform chronology."
-        }
+          "zh": "工人组织、社会调查与改革者施压共同提高劳动问题的政治重要性；工厂法案限制部分剥削行为。各项组织和立法时间重叠，不能当作一次运动后的统一结果。",
+          "en": "Organization, investigation and reform pressure increased the political salience of labor conditions. Factory laws restricted some abuses, but overlapping campaigns and legislation cannot be treated as one uniform result of a single movement."
+        },
+        "fromCardId": "u6-b2-c4",
+        "toCardId": "u6-b2-c3",
+        "evidenceCardIds": [
+          "u6-b2-c4",
+          "u6-b2-c3"
+        ],
+        "relation": "response"
       },
       {
         "cardId": "u6-b2-c5",
         "connection": {
-          "zh": "代表权改革为更多男性进入政治提供渠道，但各阶段仍保留资格限制，不等于立即普选。",
-          "en": "Representation reforms opened politics to more men while retaining eligibility limits at each stage, rather than immediately establishing universal suffrage."
-        }
+          "zh": "劳动保护与选举权改革回应相关但不同的问题：前者规范工作，后者调整谁能参与决策。改革法案不是工厂法案自动带来的下一阶段，各自需要政治联盟和斗争。",
+          "en": "Labor protection and electoral reform addressed related but distinct issues: work regulation and political participation. Reform Acts were not an automatic next stage of factory laws; each required political coalitions and conflict."
+        },
+        "fromCardId": "u6-b2-c3",
+        "toCardId": "u6-b2-c5",
+        "evidenceCardIds": [
+          "u6-b2-c3",
+          "u6-b2-c5"
+        ],
+        "relation": "parallel"
       },
       {
         "cardId": "u6-b2-c6",
         "connection": {
-          "zh": "国家还以福利、教育和治理回应社会压力，也可能借此增强控制、削弱社会主义吸引力。",
-          "en": "States also responded through welfare, education and governance, sometimes aiming to strengthen control and weaken socialism’s appeal."
-        }
+          "zh": "选民范围扩大改变部分政府面对的政治压力；国家还通过福利、教育和治理争取支持并管理社会。但有些改革也来自维护秩序的需要，不宜把普选程度当作唯一原因。",
+          "en": "An expanded electorate changed some political pressures, while welfare, schooling and governance helped states seek support and manage society. Reforms could also serve order, so the breadth of suffrage is not their sole explanation."
+        },
+        "fromCardId": "u6-b2-c5",
+        "toCardId": "u6-b2-c6",
+        "evidenceCardIds": [
+          "u6-b2-c5",
+          "u6-b2-c6"
+        ],
+        "relation": "condition"
       }
     ]
   },
@@ -1053,42 +1735,83 @@
         "connection": {
           "zh": "克里米亚战争削弱旧外交合作，为新的权力调整提供空间。",
           "en": "The Crimean War weakened older diplomatic cooperation and opened space for realignments."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u7-b1-c1",
+        "evidenceCardIds": [
+          "u7-b1-c1"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u7-b2-c1",
         "connection": {
-          "zh": "意大利统一由民族主义、外交、战争与民众行动共同推进。",
-          "en": "Italian unification involved nationalism, diplomacy, war and popular action."
-        }
+          "zh": "克里米亚战争破坏部分旧列强合作，使奥地利等国的外交处境改变；卡富尔等人因此获得调整外交和争取支持的机会。民族主义、外交与战争仍须结合，战争本身没有创造统一。",
+          "en": "The Crimean War disrupted great-power cooperation and changed Austria's diplomatic position, opening opportunities for Cavour and others. Nationalism, diplomacy and war still had to combine; the conflict did not itself create unification."
+        },
+        "fromCardId": "u7-b1-c1",
+        "toCardId": "u7-b2-c1",
+        "evidenceCardIds": [
+          "u7-b1-c1",
+          "u7-b2-c1"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u7-b2-c3",
         "connection": {
-          "zh": "普鲁士通过具体战争和外交推动德意志统一，形成另一条路径。",
-          "en": "Prussia pursued a different unification path through specific wars and diplomacy."
-        }
+          "zh": "意大利与德意志统一都利用战争和外交，但国内行动者与制度不同；俾斯麦以普鲁士军力推进统一，不能把德意志统一视为意大利统一直接产生的后果。",
+          "en": "Italian and German unification both used diplomacy and war but involved different actors and institutions. Bismarck relied on Prussian power; German unification was not a direct consequence of Italian unification."
+        },
+        "fromCardId": "u7-b2-c1",
+        "toCardId": "u7-b2-c3",
+        "evidenceCardIds": [
+          "u7-b2-c1",
+          "u7-b2-c3"
+        ],
+        "relation": "comparison"
       },
       {
         "cardId": "u7-b2-c5",
         "connection": {
-          "zh": "统一后的德国以联盟谋求安全；安全安排也会限制选择。",
-          "en": "Unified Germany used alliances to pursue security, arrangements that also constrained choices."
-        }
+          "zh": "战争完成德意志统一后，德国需要保护新地位并避免不利联盟；俾斯麦转向联盟外交，说明建国阶段的扩张手段与建国后的安全策略可以不同。",
+          "en": "After wars established a unified Germany, its leaders sought to protect its position and avoid hostile combinations. Bismarck's alliance diplomacy illustrates a change from methods of unification to strategies for security."
+        },
+        "fromCardId": "u7-b2-c3",
+        "toCardId": "u7-b2-c5",
+        "evidenceCardIds": [
+          "u7-b2-c3",
+          "u7-b2-c5"
+        ],
+        "relation": "response"
       },
       {
         "cardId": "u7-b2-c6",
         "connection": {
-          "zh": "领导层更替与利益冲突改变外交格局；联盟并不自动导致战争。",
-          "en": "Leadership changes and conflicting interests reshaped diplomacy; alliances did not automatically cause war."
-        }
+          "zh": "俾斯麦的联盟体系依靠持续管理利益冲突；领导层更替和外交选择改变原有安排，使欧洲逐渐形成对立集团。联盟增加相互牵连，却不取消各国的具体决策。",
+          "en": "Bismarck's system required continual management of competing interests. Leadership changes and diplomatic choices altered those arrangements and helped consolidate rival blocs. Alliances increased entanglement without removing national decisions."
+        },
+        "fromCardId": "u7-b2-c5",
+        "toCardId": "u7-b2-c6",
+        "evidenceCardIds": [
+          "u7-b2-c5",
+          "u7-b2-c6"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u7-b4-c7",
         "connection": {
-          "zh": "帝国竞争增加紧张，也遭到批评和抵抗；它只是后续冲突的因素之一。",
-          "en": "Imperial rivalry added tension and met criticism and resistance; it was one factor among many in later conflict."
-        }
+          "zh": "集团对立与殖民、市场和战略竞争相互叠加，提高列强互疑；帝国主义又遭到批评和抵抗。但帝国竞争不是大战的充分原因，危机中的选择仍需解释。",
+          "en": "Rival blocs interacted with colonial, commercial and strategic competition to increase suspicion. Imperial expansion also faced criticism and resistance. Competition was not sufficient to cause general war; decisions during crises still matter."
+        },
+        "fromCardId": "u7-b2-c6",
+        "toCardId": "u7-b4-c7",
+        "evidenceCardIds": [
+          "u7-b2-c6",
+          "u7-b4-c7"
+        ],
+        "relation": "parallel"
       }
     ],
     "id": "u7-diplomatic-rivalry",
@@ -1124,35 +1847,69 @@
         "connection": {
           "zh": "克里米亚战争削弱旧列强合作，为新的外交行动提供空间，但本身并不创造统一。",
           "en": "The Crimean War weakened older cooperation and opened diplomatic opportunities without itself creating unification."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u7-b1-c1",
+        "evidenceCardIds": [
+          "u7-b1-c1"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u7-b2-c1",
         "connection": {
-          "zh": "意大利的民族理想、皮埃蒙特外交和加里波第行动相互作用，统一不是单一人物的计划执行。",
-          "en": "National ideals, Piedmontese diplomacy and Garibaldi’s action interacted in Italy, rather than implementing one individual’s complete plan."
-        }
+          "zh": "旧列强合作因克里米亚战争受到削弱，给皮埃蒙特外交和民族主义行动提供更大空间；统一仍依赖卡富尔、加里波第等不同力量的互动，而非战争自动带来民族国家。",
+          "en": "Disrupted great-power cooperation widened opportunities for Piedmontese diplomacy and nationalist action. Unification still depended on the interaction of forces associated with Cavour, Garibaldi and others, not war automatically creating a nation-state."
+        },
+        "fromCardId": "u7-b1-c1",
+        "toCardId": "u7-b2-c1",
+        "evidenceCardIds": [
+          "u7-b1-c1",
+          "u7-b2-c1"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u7-b2-c2",
         "connection": {
-          "zh": "领土逐步并入形成王国，但政治统一与消除地区和社会差距是不同问题。",
-          "en": "Successive territorial accessions formed a kingdom, while political unity and the removal of regional and social divisions remained different problems."
-        }
+          "zh": "外交、战争与民众行动把不同地区逐步纳入意大利王国；领土完成统一后，区域差距和政治参与问题仍存在。行动促成国家形成，却没有同时解决所有社会分歧。",
+          "en": "Diplomacy, war and popular action brought territories into the Italian kingdom. Regional disparities and participation problems persisted after territorial unification; state formation did not resolve every social divide."
+        },
+        "fromCardId": "u7-b2-c1",
+        "toCardId": "u7-b2-c2",
+        "evidenceCardIds": [
+          "u7-b2-c1",
+          "u7-b2-c2"
+        ],
+        "relation": "cause"
       },
       {
         "cardId": "u7-b2-c3",
         "connection": {
-          "zh": "作为比较，俾斯麦以普鲁士军力和外交推进德意志统一；不能把它解释成意大利统一直接导致的事件。",
-          "en": "By comparison, Bismarck used Prussian military power and diplomacy for German unity; this was not a direct consequence of Italian unification."
-        }
+          "zh": "意大利以多种行动者合作并竞争来完成统一；普鲁士主导的德意志统一则更突出军力、王朝与俾斯麦外交。这里比较路径和条件，不把两国写成一条前后相因的建国过程。",
+          "en": "Italy's unification combined cooperating and competing actors, while Prussian-led German unification emphasized military and dynastic power and Bismarck's diplomacy. This compares routes to nationhood rather than treating them as a single causal process."
+        },
+        "fromCardId": "u7-b2-c2",
+        "toCardId": "u7-b2-c3",
+        "evidenceCardIds": [
+          "u7-b2-c2",
+          "u7-b2-c3"
+        ],
+        "relation": "comparison"
       },
       {
         "cardId": "u7-b2-c4",
         "connection": {
-          "zh": "统一帝国保留强势皇权和宰相，说明民族国家形成可以伴随有限的议会权力。",
-          "en": "The unified empire retained strong imperial and chancellorial authority, showing how nation-state formation could coexist with limited parliamentary power."
-        }
+          "zh": "普鲁士主导的战争胜利使其能在新帝国保留制度优势，强势皇权和宰相并存于有限的议会参与。统一由谁主导，影响了统一后权力如何分配。",
+          "en": "Prussian-led military victories helped preserve Prussian institutional advantages within the new empire. A strong emperor and chancellor coexisted with limited parliamentary power: the leadership of unification shaped the distribution of power afterward."
+        },
+        "fromCardId": "u7-b2-c3",
+        "toCardId": "u7-b2-c4",
+        "evidenceCardIds": [
+          "u7-b2-c3",
+          "u7-b2-c4"
+        ],
+        "relation": "response"
       }
     ]
   },
@@ -1178,42 +1935,83 @@
         "connection": {
           "zh": "市场、资源、战略与意识形态提供扩张动机，不同解释应与具体地区证据结合。",
           "en": "Markets, resources, strategy and ideology supplied motives whose relative importance must be assessed against specific regional evidence."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u7-b4-c1",
+        "evidenceCardIds": [
+          "u7-b4-c1"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u7-b4-c2",
         "connection": {
-          "zh": "交通、通信、医疗和武器扩大欧洲干预能力；能力增加不等于殖民统治自动成立。",
-          "en": "Transport, communication, medicine and weapons expanded European capacities without automatically establishing colonial rule."
-        }
+          "zh": "资源、市场、战略和意识形态使扩张具有吸引力；交通、通信、医疗与武器则降低干预成本、扩大控制能力。前者解释意图，后者提供手段，两者都不意味着统治必然成功。",
+          "en": "Resources, markets, strategy and ideology made expansion attractive; transport, communications, medicine and weapons reduced some costs and increased capacity. Motives and means played different roles, neither guaranteeing successful domination."
+        },
+        "fromCardId": "u7-b4-c1",
+        "toCardId": "u7-b4-c2",
+        "evidenceCardIds": [
+          "u7-b4-c1",
+          "u7-b4-c2"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u7-b4-c3",
         "connection": {
-          "zh": "柏林会议的规则与列强竞争推动瓜分，非洲人被排除在会议之外并不意味着没有政治行动。",
-          "en": "Berlin’s rules and great-power competition encouraged partition; Africans’ exclusion from the conference did not mean an absence of African political action."
-        }
+          "zh": "更强的干预能力使列强能够加快进入非洲，彼此竞争又促使它们制定瓜分和占领规则。柏林会议体现欧洲列强的协调，不能抹去当地国家与社会的抵抗和行动。",
+          "en": "Expanded intervention capacity accelerated European penetration of Africa, while rivalry encouraged rules for claims and occupation. Berlin represented coordination among powers, not the disappearance of African political action or resistance."
+        },
+        "fromCardId": "u7-b4-c2",
+        "toCardId": "u7-b4-c3",
+        "evidenceCardIds": [
+          "u7-b4-c2",
+          "u7-b4-c3"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u7-b4-c4",
         "connection": {
-          "zh": "刚果橡胶体系显示殖民资源获取如何与强迫劳动、暴力及国际抗议相连。",
-          "en": "The Congolese rubber regime shows how colonial extraction connected coerced labor, violence and international protest."
-        }
+          "zh": "瓜分与殖民权力为资源提取提供控制条件；刚果橡胶体系把这一逻辑具体化为强迫劳动与暴力。柏林会议不是所有暴行的单一原因，具体统治制度和利润压力也重要。",
+          "en": "Partition and colonial power supplied conditions for resource extraction. Congo's rubber system made the connection concrete through forced labor and violence. Berlin was not the single cause of atrocities; governing arrangements and profit pressures mattered."
+        },
+        "fromCardId": "u7-b4-c3",
+        "toCardId": "u7-b4-c4",
+        "evidenceCardIds": [
+          "u7-b4-c3",
+          "u7-b4-c4"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u7-b4-c6",
         "connection": {
-          "zh": "中国和日本的不同经验表明外部压力并不产生同一结局，日本也成为帝国力量。",
-          "en": "Contrasting Chinese and Japanese experiences show that outside pressure did not produce one outcome; Japan also became an imperial power."
-        }
+          "zh": "刚果与中国、日本的经历显示外部压力如何产生不同结果：强制提取、半殖民压力与主动改革并不相同。当地国家能力、社会回应和国际条件必须分别分析。",
+          "en": "Congo and the experiences of China and Japan show different responses to external pressure: coerced extraction, semicolonial pressure and active reform were not the same outcome. Local capacities, responses and international conditions require separate analysis."
+        },
+        "fromCardId": "u7-b4-c4",
+        "toCardId": "u7-b4-c6",
+        "evidenceCardIds": [
+          "u7-b4-c4",
+          "u7-b4-c6"
+        ],
+        "relation": "comparison"
       },
       {
         "cardId": "u7-b4-c7",
         "connection": {
-          "zh": "殖民冲突增加列强紧张，暴力和利益分配也激起批判；不能由帝国竞争直接推导大战必然爆发。",
-          "en": "Colonial conflicts increased tensions and provoked criticism over violence and unequal gains, without making a general war inevitable."
-        }
+          "zh": "比较这些扩张与回应，可见帝国主义既增加列强竞争，也引发当地抵抗与欧洲批评。后果来自利益冲突、暴力和政治选择，不能把所有地区排成通向大战的同一路径。",
+          "en": "Together these cases show imperialism increasing rivalry while generating resistance and criticism. Conflicting interests, violence and political choices shaped consequences; the cases do not form one uniform road to world war."
+        },
+        "fromCardId": "u7-b4-c6",
+        "toCardId": "u7-b4-c7",
+        "evidenceCardIds": [
+          "u7-b4-c6",
+          "u7-b4-c7"
+        ],
+        "relation": "synthesis"
       }
     ]
   },
@@ -1229,42 +2027,83 @@
         "connection": {
           "zh": "军备、联盟、帝国与民族主义构成背景，不能用缩写代替解释。",
           "en": "Militarism, alliances, imperialism and nationalism form a background, not a substitute for explanation."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u8-b1-c1",
+        "evidenceCardIds": [
+          "u8-b1-c1"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u8-b1-c2",
         "connection": {
-          "zh": "萨拉热窝事件后的具体决策与动员把危机扩大为战争。",
-          "en": "Decisions and mobilizations after Sarajevo escalated the crisis into war."
-        }
+          "zh": "军备、联盟、帝国与民族主义使危机更危险；萨拉热窝刺杀是触发事件，但随后国家的承诺、动员与战争决策才把危机扩大。结构解释风险，具体选择解释升级。",
+          "en": "Armaments, alliances, imperialism and nationalism made crisis dangerous. The Sarajevo assassination supplied a trigger, but commitments, mobilization and decisions escalated it. Structures explain risk while choices explain escalation."
+        },
+        "fromCardId": "u8-b1-c1",
+        "toCardId": "u8-b1-c2",
+        "evidenceCardIds": [
+          "u8-b1-c1",
+          "u8-b1-c2"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u8-b1-c4",
         "connection": {
-          "zh": "持久战争动员经济与社会，扩大国家干预并造成压力。",
-          "en": "Prolonged war mobilized economies and societies, expanding state intervention and strain."
-        }
+          "zh": "危机转成持久战争后，各国需要更多士兵、物资与资金，遂扩大对经济和社会的动员；总体战由战争持续和政治动员形成，不是某一次刺杀直接造成社会全面控制。",
+          "en": "Once crisis became prolonged war, states demanded more personnel, supplies and finance and widened economic and social mobilization. Total war emerged through sustained conflict and policy, not directly from a single assassination."
+        },
+        "fromCardId": "u8-b1-c2",
+        "toCardId": "u8-b1-c4",
+        "evidenceCardIds": [
+          "u8-b1-c2",
+          "u8-b1-c4"
+        ],
+        "relation": "cause"
       },
       {
         "cardId": "u8-b2-c6",
         "connection": {
-          "zh": "凡尔赛和约重整战后秩序，却留下争议与不满。",
-          "en": "Versailles reordered the postwar settlement while leaving disputes and grievances."
-        }
+          "zh": "总体战的伤亡、资源消耗与安全担忧塑造战后谈判，各国在凡尔赛提出赔偿、边界与安全要求。和约因此回应战争代价，也留下彼此冲突的期待。",
+          "en": "Casualties, resource losses and insecurity shaped postwar bargaining and demands for reparations, borders and security at Versailles. The settlement responded to wartime costs while leaving conflicting expectations."
+        },
+        "fromCardId": "u8-b1-c4",
+        "toCardId": "u8-b2-c6",
+        "evidenceCardIds": [
+          "u8-b1-c4",
+          "u8-b2-c6"
+        ],
+        "relation": "response"
       },
       {
         "cardId": "u8-b3-c1",
         "connection": {
-          "zh": "经济危机与制度弱点削弱魏玛稳定；极端主义的胜利不是必然。",
-          "en": "Economic crisis and institutional weaknesses undermined Weimar stability; extremist victory was not inevitable."
-        }
+          "zh": "和约争议与战争遗产给魏玛共和国带来合法性压力，经济萧条又加重失业和政治危机。条约只是条件之一，制度弱点与后来经济冲击不能被省略。",
+          "en": "Treaty disputes and wartime legacies burdened Weimar's legitimacy. Depression added unemployment and political crisis. The treaty was one condition; institutional weaknesses and later economic shocks must also be explained."
+        },
+        "fromCardId": "u8-b2-c6",
+        "toCardId": "u8-b3-c1",
+        "evidenceCardIds": [
+          "u8-b2-c6",
+          "u8-b3-c1"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u8-b4-c1",
         "connection": {
-          "zh": "侵略政策与国际回应共同解释和平破裂，不能把二战归结于单一条约。",
-          "en": "Aggressive policies and international responses help explain the breakdown of peace; no single treaty caused World War II."
-        }
+          "zh": "魏玛危机扩大极端政治的机会，但纳粹夺权与扩张仍经过具体选择；侵略政策、绥靖与国际回应共同破坏和平，不能由经济危机直接推到二战。",
+          "en": "Weimar's crisis widened opportunities for extremism, but Nazi acquisition of power and expansion involved specific choices. Aggression, appeasement and international responses undermined peace; economic crisis alone did not lead directly to world war."
+        },
+        "fromCardId": "u8-b3-c1",
+        "toCardId": "u8-b4-c1",
+        "evidenceCardIds": [
+          "u8-b3-c1",
+          "u8-b4-c1"
+        ],
+        "relation": "condition"
       }
     ],
     "id": "u8-war-fragile-peace",
@@ -1300,35 +2139,69 @@
         "connection": {
           "zh": "1905年暴露沙皇制度的弱点，有限的杜马改革并未解决权力与社会矛盾。",
           "en": "The 1905 crisis exposed weaknesses in tsarism; limited Duma reforms did not resolve conflicts over power and society."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u8-b2-c1",
+        "evidenceCardIds": [
+          "u8-b2-c1"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u8-b2-c2",
         "connection": {
-          "zh": "大战中的军事与供应危机使罢工、兵变和退位相连，临时政府继续参战又损害其支持。",
-          "en": "Military and supply crises linked strikes, mutiny and abdication; the Provisional Government’s continuation of war undermined its support."
-        }
+          "zh": "1905年暴露统治和社会矛盾，有限的杜马改革未能解决；大战中的失败、短缺和军心变化又使不满升级，1917年的罢工与兵变因而动摇沙皇统治。",
+          "en": "The 1905 crisis exposed political and social tensions that limited Duma reform did not resolve. Wartime defeats, shortages and military disaffection intensified grievances, allowing strikes and mutiny in 1917 to undermine tsarism."
+        },
+        "fromCardId": "u8-b2-c1",
+        "toCardId": "u8-b2-c2",
+        "evidenceCardIds": [
+          "u8-b2-c1",
+          "u8-b2-c2"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u8-b2-c3",
         "connection": {
-          "zh": "布尔什维克以和平与土地诉求结合组织行动夺权，不能把十月革命解释成二月革命的必然后续。",
-          "en": "Bolsheviks combined peace and land demands with organized action to seize power, not as an inevitable sequel to February."
-        }
+          "zh": "二月革命后，临时政府继续参战且无法满足土地等诉求，削弱了支持；布尔什维克把“和平与土地”与组织行动结合，利用这一机会夺权，而不是二月革命必然产生十月革命。",
+          "en": "After February, continued war and unmet demands, including land, weakened the Provisional Government. Bolsheviks combined peace and land appeals with organization to exploit the opening; October was not the inevitable outcome of February."
+        },
+        "fromCardId": "u8-b2-c2",
+        "toCardId": "u8-b2-c3",
+        "evidenceCardIds": [
+          "u8-b2-c2",
+          "u8-b2-c3"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u8-b2-c4",
         "connection": {
-          "zh": "内战推动战时共产主义和强制征粮；经济危机与反抗又促使列宁转向新经济政策。",
-          "en": "Civil war encouraged War Communism and requisitioning; economic crisis and resistance then contributed to Lenin’s New Economic Policy."
-        }
+          "zh": "夺权后遭遇内战与经济困难，布尔什维克用战时共产主义和强制征粮动员资源；危机与反抗又促使列宁转向新经济政策，显示政策随统治压力改变。",
+          "en": "Civil war and economic crisis followed the seizure of power. War Communism and requisitioning mobilized resources, while crisis and resistance later encouraged Lenin's New Economic Policy. Policy shifted under changing pressures."
+        },
+        "fromCardId": "u8-b2-c3",
+        "toCardId": "u8-b2-c4",
+        "evidenceCardIds": [
+          "u8-b2-c3",
+          "u8-b2-c4"
+        ],
+        "relation": "response"
       },
       {
         "cardId": "u8-b3-c4",
         "connection": {
-          "zh": "斯大林后来重新加强计划和集体化，表明新经济政策并非终点；强制现代化伴随饥荒和镇压。",
-          "en": "Stalin later renewed planning and collectivization, showing that the NEP was not a final settlement; coercive modernization brought famine and repression."
-        }
+          "zh": "新经济政策并未成为固定终点；在后来的权力和发展选择中，斯大林加强计划与集体化，试图以强制动员加速转型，并伴随饥荒和镇压。必须解释这一政策转向，而非视为前一政策自然延续。",
+          "en": "NEP was not a fixed endpoint. Later choices under Stalin strengthened planning and collectivization to accelerate transformation through coercion, accompanied by famine and repression. The policy reversal requires explanation rather than being treated as a natural continuation."
+        },
+        "fromCardId": "u8-b2-c4",
+        "toCardId": "u8-b3-c4",
+        "evidenceCardIds": [
+          "u8-b2-c4",
+          "u8-b3-c4"
+        ],
+        "relation": "response"
       }
     ]
   },
@@ -1354,42 +2227,83 @@
         "connection": {
           "zh": "经济萧条和制度弱点扩大极端政治的机会，但无法单独解释希特勒如何取得统治权。",
           "en": "Depression and institutional weaknesses widened opportunities for extremism without alone explaining Hitler’s acquisition of power."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u8-b3-c1",
+        "evidenceCardIds": [
+          "u8-b3-c1"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u8-b3-c3",
         "connection": {
-          "zh": "任命、紧急措施和授权法等具体步骤摧毁制衡，使反对派和被迫害群体失去保护。",
-          "en": "Appointment, emergency measures and the Enabling Act dismantled checks on power and removed protections for opponents and persecuted groups."
-        }
+          "zh": "经济萧条、失业与制度弱点扩大纳粹动员机会；但希特勒取得并巩固权力还依靠任命、紧急措施和授权法等政治步骤，危机不等于独裁自动获胜。",
+          "en": "Depression, unemployment and institutional weakness widened Nazi opportunities. Appointment, emergency measures and the Enabling Act were political steps in acquiring and consolidating power; crisis did not automatically produce dictatorship."
+        },
+        "fromCardId": "u8-b3-c1",
+        "toCardId": "u8-b3-c3",
+        "evidenceCardIds": [
+          "u8-b3-c1",
+          "u8-b3-c3"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u8-b4-c1",
         "connection": {
-          "zh": "纳粹扩张决策与绥靖回应共同改变风险判断；经济复苏并不能解释侵略政策的所有目标。",
-          "en": "Nazi expansionist decisions and appeasement responses shaped calculations of risk; economic recovery cannot explain all the aims of aggression."
-        }
+          "zh": "摧毁制衡使纳粹更能压制反对并推进扩张目标；对外侵略与绥靖回应又改变风险判断。国内独裁提供能力，但种族意识形态、领土目标与国际选择仍须分别解释。",
+          "en": "Destroying checks strengthened the regime's ability to repress opposition and pursue expansion. Aggression and appeasement changed risk calculations. Dictatorship supplied capacity, while ideology, territorial aims and international choices also mattered."
+        },
+        "fromCardId": "u8-b3-c3",
+        "toCardId": "u8-b4-c1",
+        "evidenceCardIds": [
+          "u8-b3-c3",
+          "u8-b4-c1"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u8-b4-c2",
         "connection": {
-          "zh": "德苏条约改变对波兰作战的条件，入侵与英法宣战使危机转为欧洲战争。",
-          "en": "The Nazi-Soviet Pact changed the conditions for attacking Poland; invasion and British and French declarations turned crisis into European war."
-        }
+          "zh": "对绥靖效果的判断与扩张目标推动新的风险选择；德苏条约改变进攻波兰的战略条件，随后入侵及英法宣战把危机转为欧洲战争。外交条件与侵略决定缺一不可。",
+          "en": "Assessments of appeasement and expansionist aims encouraged further risk-taking. The Nazi-Soviet Pact changed strategic conditions for attacking Poland; invasion and British and French declarations turned crisis into European war. Conditions and decisions both mattered."
+        },
+        "fromCardId": "u8-b4-c1",
+        "toCardId": "u8-b4-c2",
+        "evidenceCardIds": [
+          "u8-b4-c1",
+          "u8-b4-c2"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u8-b4-c3",
         "connection": {
-          "zh": "战争向苏联扩展扩大占领与暴力空间，同时也遭到持续军事抵抗。",
-          "en": "War’s extension into the Soviet Union expanded spaces of occupation and violence while meeting continuing military resistance."
-        }
+          "zh": "入侵波兰与战争扩大后，纳粹继续进攻西欧并向苏联扩张，扩大占领范围与资源需求；战争并未按单一计划顺利展开，英国和苏联等持续抵抗也改变战局。",
+          "en": "After Poland and the widening war, further offensives in western Europe and the Soviet Union expanded occupation and resource demands. Continued resistance altered campaigns, which did not unfold as a single uninterrupted success."
+        },
+        "fromCardId": "u8-b4-c2",
+        "toCardId": "u8-b4-c3",
+        "evidenceCardIds": [
+          "u8-b4-c2",
+          "u8-b4-c3"
+        ],
+        "relation": "cause"
       },
       {
         "cardId": "u8-b4-c5",
         "connection": {
-          "zh": "反犹迫害在纳粹政策与战争条件下升级为系统杀戮；战争并非自动导致种族灭绝的充分原因。",
-          "en": "Antisemitic persecution escalated into systematic murder through Nazi policies and wartime conditions; war alone was not a sufficient cause of genocide."
-        }
+          "zh": "向东扩张带来更大占领和暴力空间，纳粹反犹政策、官僚执行与战争条件结合，使迫害升级为系统杀戮。战争扩大实施条件，但不是任何战争都会自动造成种族灭绝。",
+          "en": "Eastern expansion enlarged the space for occupation and violence. Nazi antisemitic policy, administrative implementation and wartime conditions combined to escalate persecution into systematic killing. War expanded opportunities; it did not automatically cause genocide."
+        },
+        "fromCardId": "u8-b4-c3",
+        "toCardId": "u8-b4-c5",
+        "evidenceCardIds": [
+          "u8-b4-c3",
+          "u8-b4-c5"
+        ],
+        "relation": "condition"
       }
     ]
   },
@@ -1405,42 +2319,83 @@
         "connection": {
           "zh": "战后权力格局与安全诉求冲突促成欧洲分裂。",
           "en": "The postwar distribution of power and conflicting security aims contributed to Europe’s division."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u9-b1-c1",
+        "evidenceCardIds": [
+          "u9-b1-c1"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u9-b1-c2",
         "connection": {
-          "zh": "援助、遏制与柏林危机使阵营分化具体化。",
-          "en": "Aid, containment and the Berlin crisis made the emerging divide concrete."
-        }
+          "zh": "欧洲分裂使重建与安全成为阵营竞争问题；杜鲁门主义、马歇尔计划及柏林危机把遏制、援助和安全承诺具体化，阵营对立因而加深。",
+          "en": "European division made reconstruction and security objects of bloc competition. The Truman Doctrine, Marshall Plan and Berlin crisis gave concrete form to containment, aid and commitments, deepening the divide."
+        },
+        "fromCardId": "u9-b1-c1",
+        "toCardId": "u9-b1-c2",
+        "evidenceCardIds": [
+          "u9-b1-c1",
+          "u9-b1-c2"
+        ],
+        "relation": "response"
       },
       {
         "cardId": "u9-b1-c3",
         "connection": {
-          "zh": "军事联盟把对立制度化，同时不抹平阵营内部差异。",
-          "en": "Military alliances institutionalized the divide without erasing differences within each bloc."
-        }
+          "zh": "援助与危机显示安全承诺需要持续组织，军事联盟遂把对立制度化；北约与华约既增强保障，也限制阵营成员选择，但没有消除内部差异。",
+          "en": "Aid and crises highlighted the need to organize security commitments. NATO and the Warsaw Pact institutionalized opposition, providing guarantees and constraints without eliminating differences among members."
+        },
+        "fromCardId": "u9-b1-c2",
+        "toCardId": "u9-b1-c3",
+        "evidenceCardIds": [
+          "u9-b1-c2",
+          "u9-b1-c3"
+        ],
+        "relation": "response"
       },
       {
         "cardId": "u9-b3-c1",
         "connection": {
-          "zh": "经济困难与社会组织提供挑战共产主义统治的渠道。",
-          "en": "Economic difficulties and social organization created channels for challenging communist rule."
-        }
+          "zh": "联盟体系维持东欧的安全与统治框架，却未消除经济和社会不满；波兰团结工会通过劳工及社会组织把不满转为持续挑战。不能把军事联盟直接当作工会产生的原因。",
+          "en": "The alliance framework sustained Eastern European security and rule without removing economic and social grievances. Solidarity organized discontent into a continuing challenge; military alliances did not directly create the union."
+        },
+        "fromCardId": "u9-b1-c3",
+        "toCardId": "u9-b3-c1",
+        "evidenceCardIds": [
+          "u9-b1-c3",
+          "u9-b3-c1"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u9-b3-c2",
         "connection": {
-          "zh": "苏联改革及对东欧政策变化扩大转型空间，同时产生新矛盾。",
-          "en": "Soviet reforms and changing policy toward Eastern Europe widened room for change while creating new tensions."
-        }
+          "zh": "团结工会显示强制控制下异议仍能延续；苏联自身的经济政治困境又推动戈尔巴乔夫改革。两者共同改变东欧环境，但不能把苏联改革归结为一个波兰运动造成。",
+          "en": "Solidarity showed that dissent could persist under coercion, while the USSR's own economic and political problems encouraged Gorbachev's reforms. Both changed the environment; Soviet reform cannot be reduced to the effect of one Polish movement."
+        },
+        "fromCardId": "u9-b3-c1",
+        "toCardId": "u9-b3-c2",
+        "evidenceCardIds": [
+          "u9-b3-c1",
+          "u9-b3-c2"
+        ],
+        "relation": "parallel"
       },
       {
         "cardId": "u9-b3-c3",
         "connection": {
-          "zh": "1989年各国的群众行动与政治选择促成不同转型，并非同一种剧本。",
-          "en": "Popular action and political choices produced varied transformations in 1989, not one identical script."
-        }
+          "zh": "苏联改革及不再按旧方式干预扩大了东欧行动空间；当地群众、组织和政治选择把机会转成1989年的不同转型。外部空间是条件，各国自身行动才解释具体结果。",
+          "en": "Soviet reform and changes to intervention widened Eastern European room for action. Local publics, organizations and choices turned openings into different transformations in 1989. External permission was a condition, not a substitute for local agency."
+        },
+        "fromCardId": "u9-b3-c2",
+        "toCardId": "u9-b3-c3",
+        "evidenceCardIds": [
+          "u9-b3-c2",
+          "u9-b3-c3"
+        ],
+        "relation": "condition"
       }
     ],
     "id": "u9-cold-war-end",
@@ -1476,35 +2431,69 @@
         "connection": {
           "zh": "战后欧洲分裂改变安全环境，西欧重建同时面对战争遗产和冷战压力。",
           "en": "Postwar division changed the security environment, leaving Western reconstruction shaped by both war’s legacy and Cold War pressures."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u9-b1-c1",
+        "evidenceCardIds": [
+          "u9-b1-c1"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u9-b2-c1",
         "connection": {
-          "zh": "福利与混合经济通过不同国家方案回应重建和社会保障需求，西欧并非只有一种制度。",
-          "en": "Welfare and mixed economies addressed reconstruction and security through differing national programs, not one uniform Western system."
-        }
+          "zh": "战后破坏与冷战分裂使西欧政府需要重建经济并争取社会支持；福利与混合经济以不同国家方案回应保障和稳定需求，并非分裂自动产生统一制度。",
+          "en": "Wartime destruction and Cold War division pressed Western governments to rebuild and secure support. Welfare and mixed economies addressed security and stability through different national arrangements, not one system automatically produced by division."
+        },
+        "fromCardId": "u9-b1-c1",
+        "toCardId": "u9-b2-c1",
+        "evidenceCardIds": [
+          "u9-b1-c1",
+          "u9-b2-c1"
+        ],
+        "relation": "response"
       },
       {
         "cardId": "u9-b2-c4",
         "connection": {
-          "zh": "煤钢和市场合作把国家间依赖制度化，以降低冲突并扩大合作；后续一体化持续数十年。",
-          "en": "Coal, steel and market cooperation institutionalized interdependence to reduce conflict and expand cooperation, with integration continuing over decades."
-        }
+          "zh": "国内重建需要增长与安全，煤钢和市场合作可以减少国家间冲突并扩大共同利益；一体化与福利国家并行发展，不能说福利政策本身直接造成欧洲共同体。",
+          "en": "Reconstruction required growth and security. Cooperation over coal, steel and markets could reduce conflict and enlarge shared interests. Integration developed alongside welfare states rather than being caused directly by welfare policy."
+        },
+        "fromCardId": "u9-b2-c1",
+        "toCardId": "u9-b2-c4",
+        "evidenceCardIds": [
+          "u9-b2-c1",
+          "u9-b2-c4"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u9-b2-c3",
         "connection": {
-          "zh": "在这一长期进程中，石油冲击和滞胀挑战经济共识，各国转向市场化的程度并不相同。",
-          "en": "Within this long process, oil shocks and stagflation challenged the economic consensus, with uneven national shifts toward market-oriented policy."
-        }
+          "zh": "一体化持续推进时，石油冲击和滞胀暴露增长、财政与分配难题；市场化改革是部分政府的回应，程度并不一致。经济冲击发生于合作进程中，不是一体化必然产生的后果。",
+          "en": "As integration continued, oil shocks and stagflation exposed growth, fiscal and distributional problems. Some governments responded with market-oriented reforms to different degrees. The shocks occurred during integration, not as its inevitable consequence."
+        },
+        "fromCardId": "u9-b2-c4",
+        "toCardId": "u9-b2-c3",
+        "evidenceCardIds": [
+          "u9-b2-c4",
+          "u9-b2-c3"
+        ],
+        "relation": "parallel"
       },
       {
         "cardId": "u9-b4-c4",
         "connection": {
-          "zh": "更深的相互依赖使金融与债务危机产生跨国影响，紧缩和分配争议再次考验欧洲合作。",
-          "en": "Deeper interdependence transmitted financial and debt crises across borders, making austerity and distribution disputes new tests of European cooperation."
-        }
+          "zh": "市场化政策与更广的全球贸易金融相互联系，扩大相互依赖；跨国危机及紧缩争议又检验欧洲合作。全球化并非某位领导人单独造成，也不只包含自由市场改革。",
+          "en": "Market-oriented policies interacted with wider global trade and finance to deepen interdependence. Cross-border crises and austerity disputes tested cooperation. Globalization was not produced by one leader and was broader than market reform alone."
+        },
+        "fromCardId": "u9-b2-c3",
+        "toCardId": "u9-b4-c4",
+        "evidenceCardIds": [
+          "u9-b2-c3",
+          "u9-b4-c4"
+        ],
+        "relation": "condition"
       }
     ]
   },
@@ -1530,35 +2519,69 @@
         "connection": {
           "zh": "去斯大林化激发改革期望，匈牙利遭镇压又显示苏联容许变化的边界。",
           "en": "De-Stalinization raised hopes for reform, while repression in Hungary demonstrated limits to Soviet tolerance of change."
-        }
+        },
+        "fromCardId": null,
+        "toCardId": "u9-b1-c4",
+        "evidenceCardIds": [
+          "u9-b1-c4"
+        ],
+        "relation": "start"
       },
       {
         "cardId": "u9-b1-c5",
         "connection": {
-          "zh": "东德以柏林墙阻止人口外流，说明军事阵营内部仍面临合法性和劳动力压力。",
-          "en": "East Germany used the Berlin Wall to stop emigration, revealing continuing pressures over legitimacy and labor inside the bloc."
-        }
+          "zh": "匈牙利的武力镇压与东德筑墙是维护阵营控制的不同办法：前者限制政治改革，后者阻止人口外流。两者体现合法性与控制问题，不应写成匈牙利起义直接造成柏林墙。",
+          "en": "Repression in Hungary and the Berlin Wall were different methods of preserving bloc control: restricting reform and blocking migration. They reveal legitimacy and coercion problems, not a claim that Hungary's uprising directly caused the Wall."
+        },
+        "fromCardId": "u9-b1-c4",
+        "toCardId": "u9-b1-c5",
+        "evidenceCardIds": [
+          "u9-b1-c4",
+          "u9-b1-c5"
+        ],
+        "relation": "comparison"
       },
       {
         "cardId": "u9-b1-c6",
         "connection": {
-          "zh": "布拉格之春与军事干预再次暴露改革和阵营控制的矛盾，但不等于此前异议已被彻底消灭。",
-          "en": "The Prague Spring and military intervention again exposed conflicts between reform and bloc control, without demonstrating that earlier dissent had disappeared."
-        }
+          "zh": "柏林墙控制人口流动，布拉格之春则挑战政治改革的边界；军事干预与勃列日涅夫主义表明，苏联可接受的变动有严格限制。两案可比较控制手段，而不是直接前后因果。",
+          "en": "The Wall restricted movement, while Prague Spring tested political reform. Intervention and the Brezhnev Doctrine revealed narrow limits to change. The cases compare methods of control rather than forming a direct causal sequence."
+        },
+        "fromCardId": "u9-b1-c5",
+        "toCardId": "u9-b1-c6",
+        "evidenceCardIds": [
+          "u9-b1-c5",
+          "u9-b1-c6"
+        ],
+        "relation": "comparison"
       },
       {
         "cardId": "u9-b3-c1",
         "connection": {
-          "zh": "波兰团结工会把社会不满组织化，在戒严后仍延续，显示强制控制有其限度。",
-          "en": "Polish Solidarity organized social grievances and survived martial law, demonstrating limits to coercive control."
-        }
+          "zh": "先前镇压显示官方改革空间有限，却没有消除经济不满和社会组织；波兰团结工会把这些力量组织起来，并在戒严后延续，说明强制控制并未彻底终止异议。",
+          "en": "Earlier repression limited official reform without eliminating grievances and social organization. Solidarity organized those forces and persisted after martial law, showing that coercion did not extinguish dissent."
+        },
+        "fromCardId": "u9-b1-c6",
+        "toCardId": "u9-b3-c1",
+        "evidenceCardIds": [
+          "u9-b1-c6",
+          "u9-b3-c1"
+        ],
+        "relation": "condition"
       },
       {
         "cardId": "u9-b3-c2",
         "connection": {
-          "zh": "戈尔巴乔夫改革及对干预政策的改变扩大行动空间，但不同国家的转型仍依赖当地组织和选择。",
-          "en": "Gorbachev’s reforms and changed intervention policy widened room for action, while national transformations still depended on local organization and choices."
-        }
+          "zh": "团结工会的持续挑战与苏联内部困境共同暴露旧控制方式的限度；戈尔巴乔夫改革并改变干预政策，扩大东欧空间。改革不由单一运动直接产生，地方行动仍影响转型。",
+          "en": "Solidarity's persistence and internal Soviet difficulties exposed limits to old controls. Gorbachev's reforms and changed intervention policy widened openings, but were not direct products of one movement; local action still shaped transformation."
+        },
+        "fromCardId": "u9-b3-c1",
+        "toCardId": "u9-b3-c2",
+        "evidenceCardIds": [
+          "u9-b3-c1",
+          "u9-b3-c2"
+        ],
+        "relation": "parallel"
       }
     ]
   }

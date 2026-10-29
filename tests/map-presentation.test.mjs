@@ -12,7 +12,7 @@ test('side/bottom docks keep real geographic anchor outside card and zoom contro
 });
 test('map numbers use stable Unit order and chain numbers use active step, never zero',()=>{
  const anchors={units:{1:['florence','europe','mainz']}};const groups=[{id:'mainz'}];
- assert.equal(anchorNumber('mainz',1,anchors,groups),3);assert.equal(anchorNumber('mainz','all',anchors,groups),1);assert.equal(anchorNumber('mainz',1,anchors,groups,4),5);
+ assert.equal(anchorNumber('mainz',1,anchors,groups),3);assert.equal(anchorNumber('mainz','all',anchors,groups),3);assert.equal(anchorNumber('mainz',1,anchors,groups,4),5);
 });
 test('visual layer replaces alternating country fills and text bubbles, preserves accessible labels and learning helpers',()=>{
  const read=p=>fs.readFileSync(new URL('../'+p,import.meta.url),'utf8'),base=read('styles.css'),css=read('assets/apwh-visual.css'),html=read('index.html'),app=read('src/app.mjs');
@@ -23,4 +23,9 @@ test('focus highlights use only existing modern country geometries, leaving broa
  const course=JSON.parse(fs.readFileSync(new URL('../data/study-anchors.json',import.meta.url))),svg=fs.readFileSync(new URL('../assets/world.svg',import.meta.url),'utf8');
  for(const id of new Set(Object.values(course.cards)))for(const code of focusCountries(id))assert.ok(svg.includes(`data-country="${code}"`),`${id}: ${code}`);
  assert.deepEqual(focusCountries('atlantic'),[]);assert.deepEqual(focusCountries('florence'),['ITA']);
+});
+
+test('All Units map pin numbers match the same places in every Unit directory',()=>{
+ const load=p=>JSON.parse(fs.readFileSync(new URL('../data/'+p,import.meta.url)));const anchors=load('study-anchors.json');const global=[...new Set(Object.values(anchors.units).flat())];
+ for(const [unit,ids] of Object.entries(anchors.units))for(const id of ids){const groups=global.map(id=>({id}));assert.equal(anchorNumber(id,'all',anchors,groups),anchorNumber(id,unit,anchors,groups),id);}
 });

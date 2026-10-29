@@ -18,3 +18,15 @@ test('chain selection is scoped to Unit and clears stale steps/card/place withou
  assert.equal(model.resolveChain(chains,1,chains.find(c=>c.unit===2).id).id,group[0].id);assert.deepEqual(model.transitionChain(old,chains,chains.find(c=>c.unit===2).id),old);
  const reset=model.transitionUnit(next,2);assert.equal(reset.chainId,null);assert.equal(reset.chainIndex,0);assert.equal(model.resolveChain(chains,2,reset.chainId).unit,2);assert.equal(model.resolveChain(chains,'all',null),null);
 });
+
+test('each connection explicitly binds adjacent cards and distinguishes its historical relationship',()=>{
+ const relations=new Set(['start','cause','condition','response','comparison','parallel','synthesis']);let edges=0;
+ for(const chain of chains)for(let i=0;i<chain.steps.length;i++){
+  const step=chain.steps[i];assert.ok(relations.has(step.relation),chain.id+':'+i);assert.equal(step.toCardId,step.cardId);
+  assert.equal(step.fromCardId,i?chain.steps[i-1].cardId:null);assert.deepEqual(step.evidenceCardIds,i?[chain.steps[i-1].cardId,step.cardId]:[step.cardId]);
+  if(i){edges++;assert.notEqual(step.relation,'start');}else assert.equal(step.relation,'start');
+ }
+ assert.equal(edges,123);
+ assert.equal(chains.find(c=>c.id==='u1-state-building').steps[1].relation,'comparison');
+ assert.equal(chains.find(c=>c.id==='u1-exchange').steps[1].relation,'condition');
+});

@@ -1263,6 +1263,60 @@
           "support": "Describes the June 1989 Sejm election as partly free and the Senate election as fully free."
         }
       ]
+    },
+    {
+      "targetId": "u1-b2-c3",
+      "field": "summary.zh",
+      "before": "Louis XI(\"Spider King\")扩大王室领地与税收;Francis I 与教皇签 Concordat of Bologna(1516):国王任命法国主教 → 法国王室控制教会,因此不需要宗教改革。",
+      "after": "Louis XI（“Spider King”）扩大王室领地与税收。Francis I 与教皇签订 Concordat of Bologna（1516），增强王室对法国高级教职任命的影响力，使王室较少需要通过脱离罗马来获取这类权力；这不意味着法国没有新教改革或宗教冲突。",
+      "reason": "Distinguish royal influence over appointments from total Church control; a reduced royal incentive to break with Rome does not mean France had no Protestant Reformation.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.5 (block-level alignment; not row-specific verification)",
+          "support": "Retained curriculum alignment; this locator is not a claim of independent line-by-line verification."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 1.5 (block-level alignment; not row-specific verification)",
+          "support": "Retained curriculum alignment; this locator is not a claim of independent line-by-line verification."
+        }
+      ],
+      "corroboration": [
+        {
+          "title": "Musée protestant: L’apparition de la Réforme en France",
+          "url": "https://museeprotestant.org/parcours/lapparition-de-la-reforme-en-france/",
+          "role": "corrective corroboration; not a curriculum source",
+          "support": "Documents the appearance and development of Protestant reform in sixteenth-century France."
+        }
+      ]
+    },
+    {
+      "targetId": "u1-b2-c3",
+      "field": "summary.en",
+      "before": "Louis XI (the \"Spider King\") expanded royal lands and taxes; Francis I’s Concordat of Bologna (1516) let the king appoint French bishops → the crown controlled the Church and had little reason to break with Rome.",
+      "after": "Louis XI (the “Spider King”) expanded royal lands and taxes. Francis I’s Concordat of Bologna (1516) strengthened royal influence over senior Church appointments, reducing the crown’s incentive to seek that power by breaking with Rome; it did not prevent Protestant reform or religious conflict in France.",
+      "reason": "Distinguish royal influence over appointments from total Church control; a reduced royal incentive to break with Rome does not mean France had no Protestant Reformation.",
+      "evidence": [
+        {
+          "sourceId": "amsco",
+          "locator": "Topic 1.5 (block-level alignment; not row-specific verification)",
+          "support": "Retained curriculum alignment; this locator is not a claim of independent line-by-line verification."
+        },
+        {
+          "sourceId": "ced-2026",
+          "locator": "Topic 1.5 (block-level alignment; not row-specific verification)",
+          "support": "Retained curriculum alignment; this locator is not a claim of independent line-by-line verification."
+        }
+      ],
+      "corroboration": [
+        {
+          "title": "Musée protestant: L’apparition de la Réforme en France",
+          "url": "https://museeprotestant.org/parcours/lapparition-de-la-reforme-en-france/",
+          "role": "corrective corroboration; not a curriculum source",
+          "support": "Documents the appearance and development of Protestant reform in sixteenth-century France."
+        }
+      ]
     }
   ]
 }

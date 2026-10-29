@@ -34,3 +34,7 @@ test('directory uses APWH toolbar frame and responsive size rules, retains relat
  assert.match(css,/@media\s*\(max-width:450px\)/);
  assert.match(js,/const locs=\(links\[card.id\]/);
 });
+
+test('All Units and single Unit directory badges use the same stable place identities',()=>{
+ const all=coreGroups(course.cards,anchors,places,'all');const known=new Map();for(const group of all){const single=coreGroups(course.cards,anchors,places,group.unit)[0];for(const place of group.places){assert.equal(single.places.find(p=>p.id===place.id).number,place.number);if(known.has(place.id))assert.equal(place.number,known.get(place.id),place.id);known.set(place.id,place.number);}}
+});

@@ -130,3 +130,10 @@ test('screened historical overstatements are conditionally scoped in both langua
   assert.match(card('u9-b1-c1').summary.en, /1945/);
   assert.match(card('u9-b3-c1').summary.en, /partly free/);
 });
+
+test('French royal appointment powers do not erase Protestant reform in France', () => {
+  const card = course.cards.find(c => c.id === 'u1-b2-c3');
+  assert.doesNotMatch(card.summary.zh, /因此不需要宗教改革/);
+  assert.match(card.summary.zh, /不意味着法国没有新教改革/);
+  assert.match(card.summary.en, /did not prevent Protestant reform/);
+});

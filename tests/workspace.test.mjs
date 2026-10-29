@@ -50,3 +50,13 @@ test('chain selection stays in the right learning panel and resets the step and 
  const h=harness();h.run("wireMap=()=>{};renderChain();");const html=h.elements.get('#workspace').innerHTML;assert.ok(html.indexOf('class="map-column"')<html.indexOf('id="chain-picker"'));const sidebar=html.indexOf('class="side-panel chain-side chain-active"');assert.ok(sidebar>=0&&sidebar<html.indexOf('id="chain-picker"'));assert.equal((html.match(/<option /g)||[]).length,3);
  const next=h.run('chains.filter(c=>c.unit===1)[1].id');h.run("state.chainIndex=4;state.selectedPlace='florence';");h.elements.get('#chain-picker').handlers.change({target:{value:next}});assert.equal(h.run('state.chainId'),next);assert.equal(h.run('state.chainIndex'),0);assert.equal(h.run('state.selectedPlace'),null);
 });
+
+test('every causal step retains its authored date in the dock and sidebar after visual alignment',()=>{
+ const h=harness();for(let unit=1;unit<=9;unit++){h.run(`state.unit=${unit};`);for(const chain of h.run(`chains.filter(c=>c.unit===${unit})`)){for(let index=0;index<chain.steps.length;index++){h.run(`state.chainId=${JSON.stringify(chain.id)};state.chainIndex=${index};`);const date=h.run('byId(chainNow().steps[state.chainIndex].cardId).date');assert.ok(h.run('dockMarkup()').includes(date),chain.id+':'+index);h.run('wireMap=()=>{};renderChain();');assert.ok(h.elements.get('#workspace').innerHTML.includes(date),'sidebar '+chain.id+':'+index);}}}
+});
+
+test('dock distinguishes starting cases from numbered incoming causes and comparisons',()=>{
+ const h=harness();h.run("state.chainId='u1-exchange';state.chainIndex=0;");let html=h.run('dockMarkup()');assert.match(html,/起始条件/);assert.doesNotMatch(html,/0 → 1/);
+ h.run('state.chainIndex=1;');html=h.run('dockMarkup()');assert.match(html,/1 → 2/);assert.match(html,/Humanism/);assert.match(html,/Gutenberg/);
+ h.run("state.chainId='u1-state-building';state.chainIndex=1;");html=h.run('dockMarkup()');assert.match(html,/1 ↔ 2/);assert.match(html,/比较/);assert.match(html,/Valois France/);assert.match(html,/Tudor England/);
+});
