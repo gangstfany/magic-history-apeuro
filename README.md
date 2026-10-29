@@ -49,3 +49,13 @@ The static build uses an explicit 12-file whitelist. Do not copy the whole repos
 The APWH-style course workspace embeds in Magic History through `?hostOrigin=<exact origin>`. Its existing comparison tables, English argument examples, mnemonics and Unit review remain in the learning panel. A shared v1 message protocol syncs saved cards with the homepage's collection and reopens the exact card. Prior saved cards migrate once per host; standalone reading remains independent.
 
 Pushing `main` runs `.github/workflows/pages.yml`: public-data tests, whitelist build, then this course's own Pages deployment. It does not publish the homepage or another course.
+
+## Core Study points
+
+Each of the 205 cards has one editor-selected core anchor in `data/study-anchors.json`. Unit directories contain 7–13 anchors; U1 contains 9 instead of 46 place mentions. Anchors organize learning and do not assert the origin of every event. Original explicit mentions in `card-locations.json` remain available in card details and expanded causal evidence.
+
+The directory matches APWH’s full-width toolbar placement, collapsed summary, count badge, 4/2/1 responsive columns, 60px cards and 27px number badges. Its scope changes only with Unit; selecting a place clears incompatible search/theme/skill/saved filters. All Units groups entries by Unit. Publishing main runs the independent Euro Pages workflow.
+
+## APWH visual alignment
+
+A separate visual layer now uses APWH tokens, font stack, beige ocean, semantic context fills instead of alternating country colors, numbered pins, compact controls, toolbar proportions and denser study panels. Chain cards have a fixed header/footer with evidence scrolling inside the body. Desktop cards dock left; narrow maps dock below the real geographic anchor. Chain pins now use the same explicit pedagogical home as the directory; original mentioned places remain in expanded evidence. This does not assert an event origin or historical boundary. No travel animation was added.

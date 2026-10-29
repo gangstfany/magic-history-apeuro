@@ -2,7 +2,7 @@
 from pathlib import Path
 import shutil
 ROOT=Path(__file__).resolve().parents[1]
-FILES=['index.html','styles.css','src/app.mjs','src/model.mjs','src/geometry.mjs','src/module-bridge.mjs','data/course.json','data/chains.json','data/places.json','data/card-locations.json','assets/world.svg','assets/geography-source.json']
+FILES=['index.html','styles.css','src/app.mjs','src/model.mjs','src/geometry.mjs','src/module-bridge.mjs','src/study-directory.mjs','src/map-presentation.mjs','assets/apwh-visual.css','data/study-anchors.json','data/course.json','data/chains.json','data/places.json','data/card-locations.json','assets/world.svg','assets/geography-source.json']
 def build(destination=None):
     dest=Path(destination) if destination else ROOT/'_site'
     # Only manage this dedicated output directory.
